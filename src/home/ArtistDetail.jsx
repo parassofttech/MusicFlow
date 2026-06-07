@@ -386,11 +386,11 @@ const ArtistDetail = () => {
   const artist = artistData[id];
 
   
-  useEffect(() => {
-    if (artist?.songs) {
-      registerSongs(artist.songs);
-    }
-  }, [id]);
+ useEffect(() => {
+  if (artist?.songs?.length) {
+    registerSongs(artist.songs);
+  }
+}, [id, artist]);
 
   if (!artist) {
     return (
