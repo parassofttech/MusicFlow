@@ -47,7 +47,7 @@ const GenreSection = () => {
   return (
     <section className="px-4 sm:px-6 mt-10">
       <h2 className="text-2xl font-bold text-white mb-6">
-        Explore music<span className="text-neon">Genres</span>
+        Explore musics<span className="text-neon">Genres</span>
       </h2>
 
     
