@@ -6,16 +6,15 @@ import SearchBar from "../common/SearchBar";
 
 const Navbar = () => {
   const [sidebarOpen, setSidebarOpen] = useState(false);
-
   const toggleSidebar = () => setSidebarOpen(!sidebarOpen);
-
-  const navigate = useNavigate()
+  const navigate = useNavigate();
 
   return (
     <>
       {/* Navbar */}
       <header className="sticky top-0 z-40 bg-black/70 backdrop-blur-md border-b border-zinc-800">
         <div className="flex items-center justify-between px-6 py-4">
+
           {/* Logo */}
           <div className="flex items-center gap-3">
             <div className="md:hidden">
@@ -25,14 +24,20 @@ const Navbar = () => {
                 onClick={toggleSidebar}
               />
             </div>
-            <img src="/MusicFlow_Logo.png" alt="Music App" className="w-9 h-9 rounded-full" />
+
+            <img
+              src="/MusicFlow_Logo.png"
+              alt="Music App"
+              className="w-9 h-9 rounded-full"
+            />
+
             <h1 className="text-xl font-bold text-white">
               Music<span className="text-neon">Flow</span>
             </h1>
           </div>
 
-          {/* Desktop Search */}
-          <div className="hidden md:flex items-center gap-2 bg-zinc-900 px-4 py-2 rounded-full w-[290px]">
+          {/* Desktop Search (ONLY ONE) */}
+          <div className="hidden md:flex">
             <SearchBar />
           </div>
 
@@ -44,17 +49,25 @@ const Navbar = () => {
             <NavLink to="/profile">Profile</NavLink>
           </div>
 
-          <div className="hidden lg:flex ">
-            <button 
-            onClick={()=>navigate("/login")}
-            className="bg-neon p-2 rounded-2xl">Log in</button>
+          {/* Login */}
+          <div className="hidden lg:flex">
+            <button
+              onClick={() => navigate("/login")}
+              className="bg-neon p-2 rounded-2xl"
+            >
+              Log in
+            </button>
           </div>
 
           {/* Profile */}
-          <div className="flex items-center gap-4"
-          onClick={()=>navigate("/profile")}
+          <div
+            className="flex items-center gap-4"
+            onClick={() => navigate("/profile")}
           >
-            <motion.button whileHover={{ scale: 1.1 }} className="text-gray-400 hover:text-white">
+            <motion.button
+              whileHover={{ scale: 1.1 }}
+              className="text-gray-400 hover:text-white"
+            >
               <Bell size={20} />
             </motion.button>
 
@@ -67,17 +80,18 @@ const Navbar = () => {
           </div>
         </div>
 
-        {/* Mobile Search */}
+        {/* Mobile Search (optional single instance) */}
         <div className="md:hidden px-4 pb-4">
-          <div className="flex items-center gap-2 bg-zinc-900 px-4 py-2 rounded-full">
-            <SearchBar />
-          </div>
+          <SearchBar />
         </div>
       </header>
 
-      {/* Sidebar Overlay */}
+      {/* Overlay */}
       {sidebarOpen && (
-        <div className="fixed inset-0 z-50 bg-black/60 backdrop-blur-sm" onClick={toggleSidebar}></div>
+        <div
+          className="fixed inset-0 z-50 bg-black/60 backdrop-blur-sm"
+          onClick={toggleSidebar}
+        />
       )}
 
       {/* Sidebar */}
@@ -92,25 +106,20 @@ const Navbar = () => {
           <X className="cursor-pointer" onClick={toggleSidebar} />
         </div>
 
-        {/* Sidebar Search */}
+        {/* Lightweight Search (NOT full SearchBar) */}
         <div className="mb-6">
-          <SearchBar />
+          <input
+            placeholder="Search songs..."
+            className="w-full px-3 py-2 rounded bg-zinc-800 text-white outline-none"
+          />
         </div>
 
         {/* Links */}
         <nav className="flex flex-col gap-4">
-          <NavLink to="/" onClick={toggleSidebar} className="hover:text-neon">
-            Home
-          </NavLink>
-          <NavLink to="/explore" onClick={toggleSidebar} className="hover:text-neon">
-            Explore
-          </NavLink>
-          <NavLink to="/contact" onClick={toggleSidebar} className="hover:text-neon">
-            Contact
-          </NavLink>
-          <NavLink to="/profile" onClick={toggleSidebar} className="hover:text-neon">
-            Profile
-          </NavLink>
+          <NavLink to="/" onClick={toggleSidebar}>Home</NavLink>
+          <NavLink to="/explore" onClick={toggleSidebar}>Explore</NavLink>
+          <NavLink to="/contact" onClick={toggleSidebar}>Contact</NavLink>
+          <NavLink to="/profile" onClick={toggleSidebar}>Profile</NavLink>
         </nav>
       </motion.aside>
     </>
