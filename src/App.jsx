@@ -22,6 +22,7 @@ import Contact from "./components/common/Contact";
 import PlaylistDetail from "./pages/PlaylistDetail";
 import ArtistDetail from "./home/ArtistDetail";
 import PunjabiSongs from "./newSong/PunjabiSongs";
+import HaryanviSongs from "./newSong/HaryanviSongs";
 
 
 
@@ -95,8 +96,8 @@ const demoPlaylist = [
       <Route path="/playsong/:id" element={<PlaySongCard/>} />
       <Route path="/contact" element={<Contact/>} />
       <Route path="/playlist/:id" element={<PlaylistDetail />} />
-      <Route path="/songs/punjabi" element={<PunjabiSongs />}
-/>
+      <Route path="/songs/punjabi" element={<PunjabiSongs />}/>
+      <Route path="/songs/haryanvi" element={<HaryanviSongs  />}/>
 
         
       </Routes>
