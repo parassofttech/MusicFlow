@@ -15,12 +15,19 @@ export const MusicProvider = ({ children }) => {
   const [activeSection, setActiveSection] = useState("");
 
 
-  const registerSongs = (songs = []) => {
-    setAllSongs((prev) => {
-      const merged = [...prev, ...songs];
-      return Array.from(new Map(merged.map(s => [s.url, s])).values());
+ const registerSongs = (songs = []) => {
+  setAllSongs((prev) => {
+    const map = new Map();
+
+    [...prev, ...songs].forEach((song) => {
+      if (song?.url) {
+        map.set(song.url, song);
+      }
     });
-  };
+
+    return Array.from(map.values());
+  });
+};
 
   const playSong = (song, playlist = [], section = "") => {
     if (currentSong?.url !== song.url) {
