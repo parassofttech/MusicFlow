@@ -12,6 +12,7 @@ import GenreSection from "../home/GenreSection";
 import Recommended from "../home/Recommended";
 import FooterLast from "../home/FooterLast";
 import PopularArtist from "../home/PopularArtist";
+import Songs from "../newSong/Songs";
 
 const Home = () => {
   return (
@@ -36,6 +37,7 @@ const Home = () => {
        
       <MoodBased />
       <GenreSection />
+      <Songs/>
       
      <FooterLast/>
      
