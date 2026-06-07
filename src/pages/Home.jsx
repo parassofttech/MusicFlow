@@ -23,7 +23,7 @@ const Home = () => {
           Feel the <span className="text-neon">Music</span>
         </h1>
         <p className="text-gray-400 mb-4">
-          Stream your favorite songs anytime.
+          Stream your favorite songs anytime and anywhere.
         </p>
       </section>
 
