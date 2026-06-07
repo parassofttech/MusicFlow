@@ -21,6 +21,7 @@ import PlaySongCard from "./components/music/PlaySongCard";
 import Contact from "./components/common/Contact";
 import PlaylistDetail from "./pages/PlaylistDetail";
 import ArtistDetail from "./home/ArtistDetail";
+import PunjabiSongs from "./newSong/PunjabiSongs";
 
 
 
@@ -94,6 +95,8 @@ const demoPlaylist = [
       <Route path="/playsong/:id" element={<PlaySongCard/>} />
       <Route path="/contact" element={<Contact/>} />
       <Route path="/playlist/:id" element={<PlaylistDetail />} />
+      <Route path="/songs/punjabi" element={<PunjabiSongs />}
+/>
 
         
       </Routes>
