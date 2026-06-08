@@ -23,6 +23,9 @@ import PlaylistDetail from "./pages/PlaylistDetail";
 import ArtistDetail from "./home/ArtistDetail";
 import PunjabiSongs from "./newSong/PunjabiSongs";
 import HaryanviSongs from "./newSong/HaryanviSongs";
+import TamilSongs from "./newSong/TamilSongs";
+import BollywoodSongs from "./newSong/BollywoodSongs";
+import IndipopSongs from "./newSong/IndipopSongs";
 
 
 
@@ -98,6 +101,10 @@ const demoPlaylist = [
       <Route path="/playlist/:id" element={<PlaylistDetail />} />
       <Route path="/songs/punjabi" element={<PunjabiSongs />}/>
       <Route path="/songs/haryanvi" element={<HaryanviSongs  />}/>
+      <Route path="/songs/tamil" element={<TamilSongs  />}/>
+      <Route path="/songs/bollywood" element={<BollywoodSongs />}/>
+      <Route path="/songs/bhojpuri" element={<BhojpuriSongs />} />
+      <Route path="/songs/indipop" element={<IndipopSongs />}/>
 
         
       </Routes>
