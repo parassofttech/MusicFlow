@@ -100,6 +100,7 @@ const demoPlaylist = [
       <Route path="/playsong/:id" element={<PlaySongCard/>} />
       <Route path="/contact" element={<Contact/>} />
       <Route path="/playlist/:id" element={<PlaylistDetail />} />
+      <Route path="/songs" element={<Songs />}/>
       <Route path="/songs/punjabi" element={<PunjabiSongs />}/>
       <Route path="/songs/haryanvi" element={<HaryanviSongs  />}/>
       <Route path="/songs/tamil" element={<TamilSongs  />}/>
