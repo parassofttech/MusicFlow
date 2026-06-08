@@ -26,6 +26,7 @@ import HaryanviSongs from "./newSong/HaryanviSongs";
 import TamilSongs from "./newSong/TamilSongs";
 import BollywoodSongs from "./newSong/BollywoodSongs";
 import IndipopSongs from "./newSong/IndipopSongs";
+import BhojpuriSongs from "./newSong/BhojpuriSongs";
 
 
 

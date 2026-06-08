@@ -1,44 +1,43 @@
 import React from "react";
 import { motion } from "framer-motion";
-import { Music2 } from "lucide-react";
 import { useNavigate } from "react-router-dom";
 
 const categories = [
   {
-    id: 1,
-    name: "Bollywood Songs",
-    slug: "bollywood",
-    gradient: "from-pink-500 to-red-500",
+    title: "Bollywood",
+    image:
+      "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f",
+    path: "/songs/bollywood",
   },
   {
-    id: 2,
-    name: "Punjabi Songs",
-    slug: "punjabi",
-    gradient: "from-orange-500 to-yellow-500",
+    title: "Punjabi",
+    image:
+      "https://images.unsplash.com/photo-1511379938547-c1f69419868d",
+    path: "/songs/punjabi",
   },
   {
-    id: 3,
-    name: "Haryanvi Songs",
-    slug: "haryanvi",
-    gradient: "from-green-500 to-emerald-500",
+    title: "Haryanvi",
+    image:
+      "https://images.unsplash.com/photo-1501612780327-45045538702b",
+    path: "/songs/haryanvi",
   },
   {
-    id: 4,
-    name: "Bhojpuri Songs",
-    slug: "bhojpuri",
-    gradient: "from-blue-500 to-cyan-500",
+    title: "Bhojpuri",
+    image:
+      "https://images.unsplash.com/photo-1487180144351-b8472da7d491",
+    path: "/songs/bhojpuri",
   },
   {
-    id: 5,
-    name: "Tamil Songs",
-    slug: "tamil",
-    gradient: "from-purple-500 to-indigo-500",
+    title: "Tamil",
+    image:
+      "https://images.unsplash.com/photo-1516280440614-37939bbacd81",
+    path: "/songs/tamil",
   },
   {
-    id: 6,
-    name: "Indipop Songs",
-    slug: "indipop",
-    gradient: "from-fuchsia-500 to-pink-500",
+    title: "IndiPop",
+    image:
+      "https://images.unsplash.com/photo-1496293455970-f8581aae0e3b",
+    path: "/songs/indipop",
   },
 ];
 
@@ -46,40 +45,56 @@ const Songs = () => {
   const navigate = useNavigate();
 
   return (
-    <div className="min-h-screen bg-black text-white px-4 sm:px-6 py-8">
-      <h1 className="text-3xl font-bold mb-8">
-        Music <span className="text-neon">Categories</span>
-      </h1>
+    <div className="min-h-screen bg-darkbg px-4 sm:px-6 lg:px-8 py-8">
+      {/* Header */}
+      <div className="mb-10">
+        <h1 className="text-4xl md:text-5xl font-bold text-white">
+          Music <span className="text-neon">Categories</span>
+        </h1>
 
-      <div className="grid grid-cols-2 md:grid-cols-3 gap-5">
-        {categories.map((category) => (
+        <p className="text-gray-400 mt-3 text-sm md:text-base">
+          Discover songs from your favorite genres and playlists.
+        </p>
+      </div>
+
+      {/* Categories */}
+      <div className="grid grid-cols-2 md:grid-cols-3 gap-6">
+        {categories.map((category, index) => (
           <motion.div
-            key={category.id}
-            whileHover={{ scale: 1.04 }}
+            key={index}
+            whileHover={{
+              scale: 1.05,
+              y: -8,
+            }}
             whileTap={{ scale: 0.98 }}
-            onClick={() => navigate(`/songs/${category.slug}`)}
-            className={`
-              cursor-pointer rounded-2xl p-6
-              bg-gradient-to-br ${category.gradient}
-              shadow-lg
-              min-h-[180px]
-              flex flex-col justify-between
-            `}
+            onClick={() => navigate(category.path)}
+            className="relative h-52 md:h-64 rounded-3xl overflow-hidden cursor-pointer group"
           >
-            <Music2 size={40} />
+            {/* Background Image */}
+            <img
+              src={category.image}
+              alt={category.title}
+              className="w-full h-full object-cover transition duration-500 group-hover:scale-110"
+            />
 
-            <div>
-              <h2 className="text-xl font-bold">
-                {category.name}
+            {/* Overlay */}
+            <div className="absolute inset-0 bg-gradient-to-t from-black via-black/40 to-transparent" />
+
+            {/* Glow Effect */}
+            <div className="absolute inset-0 opacity-0 group-hover:opacity-100 transition duration-500 bg-neon/10" />
+
+            {/* Title */}
+            <div className="absolute bottom-5 left-5">
+              <h2 className="text-2xl md:text-3xl font-bold text-white">
+                {category.title}
               </h2>
-
-              <p className="text-sm text-white/80 mt-2">
-                Explore top {category.name.toLowerCase()}
-              </p>
             </div>
           </motion.div>
         ))}
       </div>
+
+      {/* Bottom Space */}
+      <div className="h-20" />
     </div>
   );
 };
