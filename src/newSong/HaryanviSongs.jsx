@@ -100,7 +100,7 @@ const HaryanviSongs = () => {
   }, []);
 
   return (
-    <section className="px-4 sm:px-6 py-8">
+    <section className="px-4 bg-darkbg sm:px-6 py-8">
       <div className="flex items-center justify-between mb-6">
         <h2 className="text-3xl font-bold text-white">
           Haryanvi <span className="text-neon">Hits</span>
