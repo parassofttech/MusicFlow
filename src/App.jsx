@@ -107,7 +107,7 @@ const demoPlaylist = [
       <Route path="/songs/tamil" element={<TamilSongs  />}/>
       <Route path="/songs/bollywood" element={<BollywoodSongs />}/>
       <Route path="/songs/bhojpuri" element={<BhojpuriSongs />} />
-      <Route path="/songs/indipop" element={<IndipopSongs />}/>
+      <Route path="/songs/indipop"  element={<IndipopSongs />}/>
 
         
       </Routes>
