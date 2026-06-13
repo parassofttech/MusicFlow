@@ -4,7 +4,7 @@ import { useMusic } from "../context/MusicContext";
 import { ArrowLeft, Play } from "lucide-react";
 
 const indipopSongs = [
-  {
+{
     id: "i1",
     title: "Maan Meri Jaan",
     artist: "King",
@@ -84,6 +84,288 @@ const indipopSongs = [
       "https://i.scdn.co/image/ab67616d0000b273f4a7c3d8e5b2a6c1d4e7f8a2",
     url: "https://example.com/cold-hours.mp3",
   },
+ {
+    id: "i11",
+    title: "Jo Tum Mere Ho",
+    artist: "Anuv Jain",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b273e0f0f2f1c2a3b4c5d6e7f8a9",
+    url: "https://example.com/jo-tum-mere-ho.mp3",
+},
+{
+    id: "i12",
+    title: "Husn",
+    artist: "Anuv Jain",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b273a1b2c3d4e5f60718293a4b5c",
+    url: "https://example.com/husn.mp3",
+},
+{
+    id: "i13",
+    title: "Sahiba",
+    artist: "Aditya Rikhari",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b273b2c3d4e5f60718293a4b5c6d",
+    url: "https://example.com/sahiba.mp3",
+},
+{
+    id: "i14",
+    title: "Baarishein",
+    artist: "Anuv Jain",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b2736cb8d8c7a7b2c2d6e8d0c4f3",
+    url: "https://example.com/baarishein.mp3",
+},
+{
+    id: "i15",
+    title: "Kasoor",
+    artist: "Prateek Kuhad",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b273c1d2e3f4051627384950a1b2",
+    url: "https://example.com/kasoor.mp3",
+},
+{
+    id: "i16",
+    title: "Kho Gaye Hum Kahan",
+    artist: "Jasleen Royal",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b273d3e4f50617283940a1b2c3d4",
+    url: "https://example.com/kho-gaye-hum-kahan.mp3",
+},
+{
+    id: "i17",
+    title: "Raatan Lambiyan (Indie Version)",
+    artist: "Various Artists",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b273e5f60718293a4b5c6d7e8f901",
+    url: "https://example.com/raatan-lambiyan.mp3",
+},
+{
+    id: "i18",
+    title: "Aise Kyun",
+    artist: "Mismatched OST",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b273f60718293a4b5c6d7e8f90123",
+    url: "https://example.com/aise-kyun.mp3",
+},
+{
+    id: "i19",
+    title: "Alag Aasmaan",
+    artist: "Anuv Jain",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b27311223344556677889900aabb",
+    url: "https://example.com/alag-aasmaan.mp3",
+},
+{
+    id: "i20",
+    title: "Ishq",
+    artist: "Faheem Abdullah",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b273223344556677889900aabbcc",
+    url: "https://example.com/ishq.mp3",
+},
+{
+    id: "i21",
+    title: "Wishes",
+    artist: "Talwiinder",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b273111111111111111111111111",
+    url: "https://example.com/wishes.mp3",
+},
+{
+    id: "i22",
+    title: "Dil Nu",
+    artist: "AP Dhillon",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b273222222222222222222222222",
+    url: "https://example.com/dil-nu.mp3",
+},
+{
+    id: "i23",
+    title: "Excuses",
+    artist: "AP Dhillon",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b273333333333333333333333333",
+    url: "https://example.com/excuses.mp3",
+},
+{
+    id: "i24",
+    title: "Brown Munde",
+    artist: "AP Dhillon",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b273444444444444444444444444",
+    url: "https://example.com/brown-munde.mp3",
+},
+{
+    id: "i25",
+    title: "Insane",
+    artist: "AP Dhillon",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b273555555555555555555555555",
+    url: "https://example.com/insane.mp3",
+},
+{
+    id: "i26",
+    title: "Winning Speech",
+    artist: "Karan Aujla",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b273666666666666666666666666",
+    url: "https://example.com/winning-speech.mp3",
+},
+{
+    id: "i27",
+    title: "Softly",
+    artist: "Karan Aujla",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b273777777777777777777777777",
+    url: "https://example.com/softly.mp3",
+},
+{
+    id: "i28",
+    title: "Players",
+    artist: "Karan Aujla",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b273888888888888888888888888",
+    url: "https://example.com/players.mp3",
+},
+{
+    id: "i29",
+    title: "One Love",
+    artist: "Shubh",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b273999999999999999999999999",
+    url: "https://example.com/one-love.mp3",
+},
+{
+    id: "i30",
+    title: "Still Rollin",
+    artist: "Shubh",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b273101010101010101010101010",
+    url: "https://example.com/still-rollin.mp3",
+},
+{
+    id: "i31",
+    title: "Cheques",
+    artist: "Shubh",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b273121212121212121212121212",
+    url: "https://example.com/cheques.mp3",
+},
+{
+    id: "i32",
+    title: "Haseen",
+    artist: "Talwiinder",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b273131313131313131313131313",
+    url: "https://example.com/haseen.mp3",
+},
+{
+    id: "i33",
+    title: "Tere Bina",
+    artist: "Zaeden",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b273141414141414141414141414",
+    url: "https://example.com/tere-bina.mp3",
+},
+{
+    id: "i34",
+    title: "You",
+    artist: "Talwiinder",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b273151515151515151515151515",
+    url: "https://example.com/you.mp3",
+},
+{
+    id: "i35",
+    title: "Choo Lo",
+    artist: "The Local Train",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b273161616161616161616161616",
+    url: "https://example.com/choo-lo.mp3",
+},
+{
+    id: "i36",
+    title: "Aaoge Tum Kabhi",
+    artist: "The Local Train",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b273171717171717171717171717",
+    url: "https://example.com/aaoge-tum-kabhi.mp3",
+},
+{
+    id: "i37",
+    title: "Dil Beparvah",
+    artist: "Ankur Tewari",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b273181818181818181818181818",
+    url: "https://example.com/dil-beparvah.mp3",
+},
+{
+    id: "i38",
+    title: "Udd Gaye",
+    artist: "Ritviz",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b273191919191919191919191919",
+    url: "https://example.com/udd-gaye.mp3",
+},
+{
+    id: "i39",
+    title: "Jeet",
+    artist: "Ritviz",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b273202020202020202020202020",
+    url: "https://example.com/jeet.mp3",
+},
+{
+    id: "i40",
+    title: "Liggi",
+    artist: "Ritviz",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b273212121212121212121212121",
+    url: "https://example.com/liggi.mp3",
+},
+{
+    id: "i41",
+    title: "Khali Khali",
+    artist: "Papon",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b273222222222222222222222223",
+    url: "https://example.com/khali-khali.mp3",
+},
+{
+    id: "i42",
+    title: "Main Tumhara",
+    artist: "Dil Bechara OST",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b273232323232323232323232323",
+    url: "https://example.com/main-tumhara.mp3",
+},
+{
+    id: "i43",
+    title: "Sage",
+    artist: "Ritviz",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b273242424242424242424242424",
+    url: "https://example.com/sage.mp3",
+},
+{
+    id: "i44",
+    title: "Raahi (Chill Version)",
+    artist: "Anuv Jain",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b273252525252525252525252525",
+    url: "https://example.com/raahi.mp3",
+},
+{
+    id: "i45",
+    title: "Enjoy Enjaami",
+    artist: "Dhee, Arivu",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b273262626262626262626262626",
+    url: "https://example.com/enjoy-enjaami.mp3",
+},
+
+
 ];
 
 const IndipopSongs = () => {
@@ -110,7 +392,7 @@ const IndipopSongs = () => {
           onClick={() => navigate("/")}
         />
         <h1 className="text-2xl font-bold">
-          Punjabi <span className="text-neon">Hits</span>
+          Indipop <span className="text-neon">Hits</span>
         </h1>
       </div>
 

@@ -223,6 +223,111 @@ const artistData = {
     ],
   },
   5: {
+    name: "Diljit Dosanjh",
+    color: "bg-pink-500/70",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Diljit_Dosanjh.jpg/250px-Diljit_Dosanjh.jpg",
+    songs: [
+       {
+    id: "d1",
+    title: "Born To Shine",
+    artist: "Diljit Dosanjh",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b273f6d4f6aaf7d2a3dfcc5a2dd3",
+    url: "https://example.com/born-to-shine.mp3",
+  },
+  {
+    id: "d2",
+    title: "GOAT",
+    artist: "Diljit Dosanjh",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b2734f8e69b0e4e1b8f4d63f3c29",
+    url: "https://example.com/goat.mp3",
+  },
+  {
+    id: "d3",
+    title: "Lover",
+    artist: "Diljit Dosanjh",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b2736c1f7f5b78e6bff4c7d1d9b7",
+    url: "https://example.com/lover.mp3",
+  },
+  {
+    id: "d4",
+    title: "Clash",
+    artist: "Diljit Dosanjh",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b273d7b3e5a4c4a8f9fcbf1b7a2c",
+    url: "https://example.com/clash.mp3",
+  },
+  {
+    id: "d5",
+    title: "Vibe",
+    artist: "Diljit Dosanjh",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b2739d7f3c2b1a6e4f5d8c3b7a1e",
+    url: "https://example.com/vibe.mp3",
+  },
+  {
+    id: "d6",
+    title: "Lemonade",
+    artist: "Diljit Dosanjh",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b2737b6e5c4d3f2a1b9c8d7e6f5a",
+    url: "https://example.com/lemonade.mp3",
+  },
+  {
+    id: "d7",
+    title: "Do You Know",
+    artist: "Diljit Dosanjh",
+    cover:
+      "https://pagalnew.com/coverimages/Do-You-Know-Diljit-Dosanjh-500-500.jpg",
+    url: "https://example.com/do-you-know.mp3",
+  },
+  {
+    id: "d8",
+    title: "Laembadgini",
+    artist: "Diljit Dosanjh",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b2731c8f7d6e5b4a3c2d1f9e8d7c",
+    url: "https://example.com/laembadgini.mp3",
+  },
+  {
+    id: "d9",
+    title: "Hass Hass",
+    artist: "Diljit Dosanjh",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b2738e7d6c5b4a3f2e1d9c8b7a6f",
+    url: "https://example.com/hass-hass.mp3",
+  },
+  {
+    id: "d10",
+    title: "Magic",
+    artist: "Diljit Dosanjh",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b2732a1b3c4d5e6f7a8b9c0d1e2f",
+    url: "https://example.com/magic.mp3",
+  },
+  {
+    id: "d11",
+    title: "Kinni Kinni",
+    artist: "Diljit Dosanjh",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b2733d4e5f6a7b8c9d0e1f2a3b4c",
+    url: "https://example.com/kinni-kinni.mp3",
+  },
+  {
+    id: "d12",
+    title: "G.O.A.T",
+    artist: "Diljit Dosanjh",
+    cover:
+      "https://i.scdn.co/image/ab67616d0000b2734f8e69b0e4e1b8f4d63f3c29",
+    url: "https://example.com/g-o-a-t.mp3",
+  },
+      
+    ],
+  },
+  6: {
     name: "Jubin Nautiyal",
     color: "bg-pink-500/70",
     image:
@@ -247,7 +352,7 @@ const artistData = {
       
     ],
   },
-  6: {
+  7: {
     name: "Lata Mangeshkar",
     color: "bg-pink-500/70",
     image:
@@ -272,7 +377,7 @@ const artistData = {
       
     ],
   },
-  7: {
+  8: {
     name: "Kishore Kumar",
     color: "bg-pink-500/70",
     image:
@@ -298,7 +403,7 @@ const artistData = {
       
     ],
   },
-  8: {
+  9: {
     name: "Guru Randhawa",
     color: "bg-pink-500/70",
     image:
@@ -324,7 +429,7 @@ const artistData = {
       
     ],
   },
-  9: {
+  10: {
     name: "Jass Manak",
     color: "bg-pink-500/70",
     image:
@@ -350,7 +455,7 @@ const artistData = {
       
     ],
   },
-  10: {
+  11: {
     name: "Honey Singh",
     color: "bg-pink-500/70",
     image:

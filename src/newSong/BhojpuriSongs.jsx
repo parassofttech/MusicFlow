@@ -84,6 +84,208 @@ const bhojpuriSongs = [
       "https://i.scdn.co/image/ab67616d0000b273a5d8f2c6b9e3a7d1f4c8b2e6",
     url: "https://example.com/jhumelaa.mp3",
   },
+  {
+  id: "bh11",
+  title: "Lollipop Lagelu",
+  artist: "Pawan Singh",
+  cover:
+    "https://i.scdn.co/image/ab67616d0000b273b1b1b1b1b1b1b1b1b1b1b1b1",
+  url: "https://example.com/lollipop-lagelu.mp3",
+},
+{
+  id: "bh12",
+  title: "Raja Ji",
+  artist: "Pawan Singh",
+  cover:
+    "https://i.scdn.co/image/ab67616d0000b273b2b2b2b2b2b2b2b2b2b2b2b2",
+  url: "https://example.com/raja-ji.mp3",
+},
+{
+  id: "bh13",
+  title: "Chhalakata Hamro Jawaniya",
+  artist: "Pawan Singh, Priyanka Singh",
+  cover:
+    "https://i.scdn.co/image/ab67616d0000b273b3b3b3b3b3b3b3b3b3b3b3b3",
+  url: "https://example.com/chhalakata-hamro-jawaniya.mp3",
+},
+{
+  id: "bh14",
+  title: "Jable Jagal Bani",
+  artist: "Pawan Singh",
+  cover:
+    "https://i.scdn.co/image/ab67616d0000b273b4b4b4b4b4b4b4b4b4b4b4b4",
+  url: "https://example.com/jable-jagal-bani.mp3",
+},
+{
+  id: "bh15",
+  title: "Piya Tohar Jaan Ke",
+  artist: "Pawan Singh",
+  cover:
+    "https://i.scdn.co/image/ab67616d0000b273b5b5b5b5b5b5b5b5b5b5b5b5",
+  url: "https://example.com/piya-tohar-jaan-ke.mp3",
+},
+
+{
+  id: "bh16",
+  title: "Le Le Aayi Coca Cola",
+  artist: "Khesari Lal Yadav",
+  cover:
+    "https://i.scdn.co/image/ab67616d0000b273c1c1c1c1c1c1c1c1c1c1c1c1",
+  url: "https://example.com/le-le-aayi-coca-cola.mp3",
+},
+{
+  id: "bh17",
+  title: "Patli Kamariya",
+  artist: "Khesari Lal Yadav",
+  cover:
+    "https://i.scdn.co/image/ab67616d0000b273c2c2c2c2c2c2c2c2c2c2c2c2",
+  url: "https://example.com/patli-kamariya.mp3",
+},
+{
+  id: "bh18",
+  title: "Aaj Ke Party",
+  artist: "Khesari Lal Yadav",
+  cover:
+    "https://i.scdn.co/image/ab67616d0000b273c3c3c3c3c3c3c3c3c3c3c3c3",
+  url: "https://example.com/aaj-ke-party.mp3",
+},
+{
+  id: "bh19",
+  title: "Kamariya Hila Rahi Hai",
+  artist: "Khesari Lal Yadav",
+  cover:
+    "https://i.scdn.co/image/ab67616d0000b273c4c4c4c4c4c4c4c4c4c4c4c4",
+  url: "https://example.com/kamariya-hila-rahi-hai.mp3",
+},
+{
+  id: "bh20",
+  title: "Dilwa Le Ja Rumaal Me",
+  artist: "Khesari Lal Yadav",
+  cover:
+    "https://i.scdn.co/image/ab67616d0000b273c5c5c5c5c5c5c5c5c5c5c5c5",
+  url: "https://example.com/dilwa-le-ja-rumaal-me.mp3",
+},
+{
+  id: "bh21",
+  title: "Bhojpuri Hit DJ Mix Songs",
+  artist: "Shilpi Raj",
+  cover:
+    "https://i.scdn.co/image/ab67616d0000b273d1d1d1d1d1d1d1d1d1d1d1d1",
+  url: "https://example.com/shilpi-dj-mix.mp3",
+},
+{
+  id: "bh22",
+  title: "Raja Ji Ke Dilwa",
+  artist: "Shilpi Raj",
+  cover:
+    "https://i.scdn.co/image/ab67616d0000b273d2d2d2d2d2d2d2d2d2d2d2d2",
+  url: "https://example.com/raja-ji-ke-dilwa.mp3",
+},
+{
+  id: "bh23",
+  title: "Saiya Ji Suta Ke",
+  artist: "Shilpi Raj",
+  cover:
+    "https://i.scdn.co/image/ab67616d0000b273d3d3d3d3d3d3d3d3d3d3d3d3",
+  url: "https://example.com/saiya-ji-suta-ke.mp3",
+},
+{
+  id: "bh24",
+  title: "Laal Ghaghra",
+  artist: "Shilpi Raj",
+  cover:
+    "https://i.scdn.co/image/ab67616d0000b273d4d4d4d4d4d4d4d4d4d4d4d4",
+  url: "https://example.com/laal-ghaghra.mp3",
+},
+
+{
+  id: "bh25",
+  title: "Heroine",
+  artist: "Neelkamal Singh",
+  cover:
+    "https://i.scdn.co/image/ab67616d0000b273e1e1e1e1e1e1e1e1e1e1e1e1",
+  url: "https://example.com/heroine.mp3",
+},
+{
+  id: "bh26",
+  title: "Jan Tohar Mummy Kasam",
+  artist: "Neelkamal Singh",
+  cover:
+    "https://i.scdn.co/image/ab67616d0000b273e2e2e2e2e2e2e2e2e2e2e2e2",
+  url: "https://example.com/jan-tohar-mummy-kasam.mp3",
+},
+{
+  id: "bh27",
+  title: "Dil Tod Ke",
+  artist: "Neelkamal Singh",
+  cover:
+    "https://i.scdn.co/image/ab67616d0000b273e3e3e3e3e3e3e3e3e3e3e3e3",
+  url: "https://example.com/dil-tod-ke.mp3",
+},
+{
+  id: "bh28",
+  title: "Chumma Wali Duniya",
+  artist: "Neelkamal Singh",
+  cover:
+    "https://i.scdn.co/image/ab67616d0000b273e4e4e4e4e4e4e4e4e4e4e4e4",
+  url: "https://example.com/chumma-wali-duniya.mp3",
+},{
+  id: "bh29",
+  title: "Hello Kaun",
+  artist: "Ritesh Pandey",
+  cover:
+    "https://i.scdn.co/image/ab67616d0000b273f1f1f1f1f1f1f1f1f1f1f1f1",
+  url: "https://example.com/hello-kaun.mp3",
+},
+{
+  id: "bh30",
+  title: "Teer Hamra Karejwa Ke Par",
+  artist: "Ritesh Pandey",
+  cover:
+    "https://i.scdn.co/image/ab67616d0000b273f2f2f2f2f2f2f2f2f2f2f2f2",
+  url: "https://example.com/teer-hamra-karejwa-ke-par.mp3",
+},
+{
+  id: "bh31",
+  title: "Jaan Lebu Ka Ho",
+  artist: "Ritesh Pandey",
+  cover:
+    "https://i.scdn.co/image/ab67616d0000b273f3f3f3f3f3f3f3f3f3f3f3f3",
+  url: "https://example.com/jaan-lebu-ka-ho.mp3",
+},
+
+{
+  id: "bh32",
+  title: "Badnam Kar Dogi",
+  artist: "Wave Music",
+  cover:
+    "https://i.scdn.co/image/ab67616d0000b273a1a1a1a1a1a1a1a1a1a1a1a1",
+  url: "https://example.com/badnam-kar-dogi.mp3",
+},
+{
+  id: "bh33",
+  title: "Jawani Tohar Jhal Jhal Jhala",
+  artist: "Wave Music",
+  cover:
+    "https://i.scdn.co/image/ab67616d0000b273a2a2a2a2a2a2a2a2a2a2a2a2",
+  url: "https://example.com/jawani-tohar-jhal-jhal-jhala.mp3",
+},
+{
+  id: "bh34",
+  title: "DJ Remix Bhojpuri Mashup 2025",
+  artist: "Various Artists",
+  cover:
+    "https://i.scdn.co/image/ab67616d0000b273a3a3a3a3a3a3a3a3a3a3a3a3",
+  url: "https://example.com/bhojpuri-mashup-2025.mp3",
+},
+{
+  id: "bh35",
+  title: "Bhojpuri Nonstop Party Mix",
+  artist: "DJ Mix",
+  cover:
+    "https://i.scdn.co/image/ab67616d0000b273a4a4a4a4a4a4a4a4a4a4a4a4",
+  url: "https://example.com/nonstop-party-mix.mp3",
+},
 ];
 
 const BhojpuriSongs = () => {
@@ -110,7 +312,7 @@ const BhojpuriSongs = () => {
           onClick={() => navigate("/")}
         />
         <h1 className="text-2xl font-bold">
-          Punjabi <span className="text-neon">Hits</span>
+          Bhojpuri <span className="text-neon">Hits</span>
         </h1>
       </div>
 

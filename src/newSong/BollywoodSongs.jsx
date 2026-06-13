@@ -4,14 +4,7 @@ import { useMusic } from "../context/MusicContext";
 import { ArrowLeft, Play } from "lucide-react";
 
 const bollywoodSongs = [
-  {
-
-    title: "Kesariya",
-    artist: "Arijit Singh",
-    cover:
-      "https://pagalnew.com/coverimages/kesariya-brahmastra-500-500.jpg",
-    url: "https://example.com/kesariya.mp3",
-  },
+  
   {
   
     title: "Kesariya",
@@ -297,7 +290,7 @@ const BollywoodSongs = () => {
           onClick={() => navigate("/")}
         />
         <h1 className="text-2xl font-bold">
-          Punjabi <span className="text-neon">Hits</span>
+          Bollywood <span className="text-neon">Hits</span>
         </h1>
       </div>
 
@@ -308,7 +301,7 @@ const BollywoodSongs = () => {
 
           return (
             <motion.div
-              key={song.id}
+              key={index}
               whileHover={{ scale: 1.02 }}
               onClick={() => {
                 if (isCurrent) {

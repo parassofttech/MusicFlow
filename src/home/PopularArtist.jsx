@@ -36,8 +36,16 @@ const artists = [
       "https://a10.gaanacdn.com/gn_img/artists/10q3Z1K52r/10q3Z1K52r/size_m_1717411303.jpg",
     verified: true,
   },
-  {
+   {
     id: 5,
+    name: "Diljit Dosanjh",
+    artists: "Artist",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Diljit_Dosanjh.jpg/250px-Diljit_Dosanjh.jpg",
+    verified: true,
+  },
+  {
+    id: 6,
     name: "Jubin Nautiyal",
     artists: "Artist",
     image:
@@ -45,7 +53,7 @@ const artists = [
     verified: true,
   },
   {
-    id: 6,
+    id: 7,
     name: "Lata Mangeshkar",
     artists: "Artist",
     image:
@@ -53,7 +61,7 @@ const artists = [
     verified: true,
   },
    {
-    id: 7,
+    id: 8,
     name: "Kishore Kumar ",
     artists: "Artist",
     image:
@@ -61,7 +69,7 @@ const artists = [
     verified: true,
   },
   {
-    id: 8,
+    id: 9,
     name: "Guru Randhawa",
     artists: "Artist",
     image:
@@ -69,7 +77,7 @@ const artists = [
     verified: true,
   },
   {
-    id: 9,
+    id: 10,
     name: "Jass Manak",
     artists: "Artist",
     image:
@@ -78,7 +86,7 @@ const artists = [
   },
  
   {
-    id: 10,
+    id: 11,
     name: "Honey Singh",
     artists: "Artist",
     image:

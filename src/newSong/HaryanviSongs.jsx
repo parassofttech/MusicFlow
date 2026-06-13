@@ -5,7 +5,7 @@ import { ArrowLeft, Play } from "lucide-react";
 
 const haryanviSongs = [
   {
-    id: "h1",
+    id: "h41",
     title: "52 Gaj Ka Daman",
     artist: "Renuka Panwar",
     cover:
@@ -13,7 +13,7 @@ const haryanviSongs = [
     url: "https://pagalnew.com/128-downloads/17642",
   },
   {
-    id: "h2",
+    id: "h42",
     title: "Chatak Matak",
     artist: "Renuka Panwar",
     cover:
@@ -21,7 +21,7 @@ const haryanviSongs = [
     url: "https://pagalnew.com/128-downloads/17725",
   },
   {
-    id: "h3",
+    id: "h43",
     title: "Gulzaar Chhaniwala",
     artist: "Filter Shot",
     cover:
@@ -29,7 +29,7 @@ const haryanviSongs = [
     url: "https://pagalnew.com/128-downloads/16095",
   },
   {
-    id: "h4",
+    id: "h34",
     title: "Loot Liya",
     artist: "Khasa Aala Chahar",
     cover:
@@ -37,7 +37,7 @@ const haryanviSongs = [
     url: "https://pagalnew.com/128-downloads/17812",
   },
   {
-    id: "h5",
+    id: "h35",
     title: "Father Saab",
     artist: "Khasa Aala Chahar",
     cover:
@@ -45,7 +45,7 @@ const haryanviSongs = [
     url: "https://pagalnew.com/128-downloads/17546",
   },
   {
-    id: "h6",
+    id: "h36",
     title: "Balam Thanedar",
     artist: "Pranjal Dahiya",
     cover:
@@ -53,7 +53,7 @@ const haryanviSongs = [
     url: "https://pagalnew.com/128-downloads/44693",
   },
   {
-    id: "h7",
+    id: "h37",
     title: "Kabootar",
     artist: "Renuka Panwar",
     cover:
@@ -61,7 +61,7 @@ const haryanviSongs = [
     url: "https://pagalnew.com/128-downloads/31208",
   },
   {
-    id: "h8",
+    id: "h38",
     title: "Desi Desi Na Bolya Kar",
     artist: "Raju Punjabi",
     cover:
@@ -69,7 +69,7 @@ const haryanviSongs = [
     url: "https://pagalnew.com/128-downloads/17150",
   },
   {
-    id: "h9",
+    id: "h39",
     title: "Tagdi",
     artist: "Ajay Hooda",
     cover:
@@ -77,13 +77,246 @@ const haryanviSongs = [
     url: "https://pagalnew.com/128-downloads/17041",
   },
   {
-    id: "h10",
+    id: "h40",
     title: "Kamar Teri Left Right Hale",
     artist: "Ajay Hooda",
     cover:
       "https://i.scdn.co/image/ab67616d0000b273a44ec65f6a85ee844eb5d286",
     url: "https://pagalnew.com/128-downloads/17040",
   },
+  
+  {
+    id: "h1",
+    title: "Naam Chale",
+    artist: "Vikram Sarkar",
+    url: "https://pagalnew.com/128-downloads/17040",
+    cover: "https://i.scdn.co/image/ab67616d0000b273a44ec65f6a85ee844eb5d286"
+  },
+  {
+    id: "h2",
+    title: "Jeep",
+    artist: "Khasa Aala Chahar",
+    url: "https://pagalnew.com/128-downloads/17041",
+    cover: "https://i.scdn.co/image/ab67616d0000b2735b5d9f03db6f7f5e5fd14f2d"
+  },
+  {
+    id: "h3",
+    title: "Circle",
+    artist: "Amanraj Gill",
+    url: "https://pagalnew.com/128-downloads/17041",
+    cover: "https://i.scdn.co/image/ab67616d0000b2735b5d9f03db6f7f5e5fd14f2d"
+  },
+  {
+    id: "h4",
+    title: "Protocol",
+    artist: "Amanraj Gill",
+    url: "https://pagalnew.com/128-downloads/17041",
+    cover: "https://i.scdn.co/image/ab67616d0000b2735b5d9f03db6f7f5e5fd14f2d"
+  },
+  {
+    id: "h5",
+    title: "Bhaga Aale",
+    artist: "Amanraj Gill & Swara Verma",
+    url: "",
+    cover: "https://i.scdn.co/image/ab67616d0000b2735b5d9f03db6f7f5e5fd14f2d"
+  },
+  {
+    id: "h6",
+    title: "Ghanta Zindagi",
+    artist: "Parveen Mastana",
+    url: "",
+    cover: ""
+  },
+  {
+    id: "h7",
+    title: "Daaku",
+    artist: "Devender Ahlawat",
+    url: "",
+    cover: ""
+  },
+  {
+    id: "h8",
+    title: "Bhai Log",
+    artist: "Devender Ahlawat",
+    url: "",
+    cover: ""
+  },
+  {
+    id: "h9",
+    title: "Chaudhary",
+    artist: "Kaka WRLD",
+    url: "",
+    cover: ""
+  },
+  {
+    id: "h10",
+    title: "Warning",
+    artist: "Amanraj Gill & Swara Verma",
+    url: "",
+    cover: ""
+  },
+  {
+    id: "h11",
+    title: "Ishq Bawla",
+    artist: "Dhanda Nyoliwala",
+    url: "",
+    cover: ""
+  },
+  {
+  id: "h12",
+  title: "Blender",
+  artist: "Masoom Sharma",
+  url: "https://i.scdn.co/image/ab67616d0000b2735b5d9f03db6f7f5e5fd14f2d",
+  cover: "https://i.scdn.co/image/ab67616d0000b2735b5d9f03db6f7f5e5fd14f2d"
+},
+{
+  id: "h13",
+  title: "Pistol Bole Gi",
+  artist: "Masoom Sharma",
+  url: "",
+  cover: ""
+},
+{
+  id: "h14",
+  title: "Chatak Matak",
+  artist: "Renuka Panwar",
+  url: "",
+  cover: ""
+},
+{
+  id: "h15",
+  title: "Matak Matak",
+  artist: "Unknown",
+  url: "",
+  cover: ""
+},
+{
+  id: "h16",
+  title: "Kallo",
+  artist: "Unknown",
+  url: "",
+  cover: ""
+},
+{
+  id: "h17",
+  title: "Gaadi 150",
+  artist: "Vikram Sarkar",
+  url: "",
+  cover: ""
+},
+{
+  id: "h18",
+  title: "Raat Ke Shikari",
+  artist: "Masoom Sharma",
+  url: "",
+  cover: ""
+},
+{
+  id: "h19",
+  title: "Sharp Shooter",
+  artist: "Masoom Sharma",
+  url: "",
+  cover: ""
+},
+{
+  id: "h20",
+  title: "Knife Brows",
+  artist: "Dhanda Nyoliwala",
+  url: "",
+  cover: ""
+},
+{
+  id: "h21",
+  title: "Ego Killer",
+  artist: "Dhanda Nyoliwala",
+  url: "",
+  cover: ""
+},
+{
+  id: "h22",
+  title: "Bandook 2",
+  artist: "Narender Bhagana",
+  url: "",
+  cover: ""
+},
+{
+  id: "h23",
+  title: "Azad Flow",
+  artist: "RP Singh",
+  url: "",
+  cover: ""
+},
+{
+  id: "h24",
+  title: "Ustaaz",
+  artist: "Rahul Kadyan",
+  url: "",
+  cover: ""
+},
+{
+  id: "h25",
+  title: "Gunday",
+  artist: "Devender Ahlawat",
+  url: "",
+  cover: ""
+},
+{
+  id: "h26",
+  title: "Gangsta Life",
+  artist: "Candy Sheoran",
+  url: "",
+  cover: ""
+},
+{
+  id: "h27",
+  title: "Maruti",
+  artist: "Dhanda Nyoliwala",
+  url: "",
+  cover: ""
+},
+{
+  id: "h28",
+  title: "Green Flag",
+  artist: "Vikram Sarkar",
+  url: "",
+  cover: ""
+},
+{
+  id: "h29",
+  title: "Naam Chale",
+  artist: "Vikram Sarkar",
+  url: "",
+  cover: ""
+},
+{
+  id: "h30",
+  title: "Ishq Bawla (Soft Version)",
+  artist: "Dhanda Nyoliwala",
+  url: "",
+  cover: ""
+},
+{
+  id: "h31",
+  title: "Ji Laage Babya Mai",
+  artist: "Unknown",
+  url: "",
+  cover: ""
+},
+{
+  id: "h32",
+  title: "Bhola Milega Haridwar Me",
+  artist: "Unknown",
+  url: "",
+  cover: ""
+},
+{
+  id: "h33",
+  title: "Mard",
+  artist: "Masoom Sharma",
+  url: "",
+  cover: ""
+}
+
 ];
 
 const HaryanviSongs = () => {
@@ -110,7 +343,7 @@ const HaryanviSongs = () => {
           onClick={() => navigate("/")}
         />
         <h1 className="text-2xl font-bold">
-          Punjabi <span className="text-neon">Hits</span>
+          Haryanvi <span className="text-neon">Hits</span>
         </h1>
       </div>
 
