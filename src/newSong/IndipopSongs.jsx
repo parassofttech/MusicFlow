@@ -305,8 +305,8 @@ const indipopSongs = [
     title: "Udd Gaye",
     artist: "Ritviz",
     cover:
-      "https://i.scdn.co/image/ab67616d0000b273191919191919191919191919",
-    url: "https://example.com/udd-gaye.mp3",
+      "https://i.scdn.co/image/ab67616d0000b273161616161616161616161616",
+    url: "https://example.com/choo-lo.mp3",
 },
 {
     id: "i39",
@@ -321,8 +321,8 @@ const indipopSongs = [
     title: "Liggi",
     artist: "Ritviz",
     cover:
-      "https://i.scdn.co/image/ab67616d0000b273212121212121212121212121",
-    url: "https://example.com/liggi.mp3",
+      "https://i.scdn.co/image/ab67616d0000b273161616161616161616161616",
+    url: "https://example.com/choo-lo.mp3",
 },
 {
     id: "i41",
