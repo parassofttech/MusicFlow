@@ -45,6 +45,13 @@ const GENRE_SONGS = {
     cover: "https://koshalworld.com/siteuploads/thumb/sft59/29016_4.webp",
     url: "/songs/Sahiba.mp3",
   },
+  {
+    id: "p6",
+    title: "Sahiba",
+    artist: "Aditya Rikhari",
+    cover: "https://koshalworld.com/siteuploads/thumb/sft59/29016_4.webp",
+    url: "/songs/Sahiba.mp3",
+  },
 ],
  rock: [
   {
