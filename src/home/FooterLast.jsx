@@ -11,8 +11,9 @@ const FooterLast = () => {
 
         {/* Brand */}
         <div>
+
           <h2 className="text-2xl font-extrabold text-white tracking-wide">
-            Music<span className="text-neon">Flow</span>
+            Music<span className="text-neon  ">Flow</span>
           </h2>
           <p className="text-sm mt-4 leading-relaxed text-gray-400">
             Discover, stream and enjoy unlimited music from your favourite
@@ -31,6 +32,7 @@ const FooterLast = () => {
             ))}
           </div>
         </div>
+
 
         {/* Quick Links */}
         <div>
