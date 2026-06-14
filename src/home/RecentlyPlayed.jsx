@@ -12,6 +12,7 @@ const recentlyPlayed = [
           "https://pagalnew.com/coverimages/Lahore-Guru-Randhawa-500-500.jpg",
         url: "https://pagalnew.com/128-downloads/4170",
   },
+
   {
     id: "rec2",
    title: "Kaabil Hoon",
@@ -20,6 +21,7 @@ const recentlyPlayed = [
           "https://pagalnew.com/coverimages/Kaabil-Hoon-Jubin-Nautiyal-500-500.jpg",
         url: "https://pagalnew.com/128-downloads/3339",
   },
+
   {
     id: "rec3",
    title: "Suraj Hua Maddham",
@@ -70,6 +72,7 @@ const recentlyPlayed = [
         url: "https://pagalnew.com/128-downloads/24797",
   },
 ];
+
 
 const RecentlyPlayed = () => {
   const { currentSong, isPlaying, playSong, pauseSong, registerSongs } =
