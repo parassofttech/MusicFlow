@@ -467,6 +467,13 @@ const artistData = {
     cover: "https://example.com/covers/black.jpg",
     url: "https://example.com/songs/black.mp3",
   },
+  {
+    id: "gr9",
+    title: "Slowly Slowly",
+    artist: "Guru Randhawa ft. Pitbull",
+    cover: "https://example.com/covers/slowly-slowly.jpg",
+    url: "https://example.com/songs/slowly-slowly.mp3",
+  },
       
       
     ],
