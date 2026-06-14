@@ -425,6 +425,48 @@ const artistData = {
           "https://pagalnew.com/coverimages/High-Rated-Gabru-Guru-Randhawa-500-500.jpg",
         url: "https://pagalnew.com/128-downloads/4173",
       },
+      {
+    id: "gr3",
+    title: "Suit Suit",
+    artist: "Guru Randhawa",
+    cover: "https://example.com/covers/suit-suit.jpg",
+    url: "https://example.com/songs/suit-suit.mp3",
+  },
+  {
+    id: "gr4",
+    title: "Ishare Tere",
+    artist: "Guru Randhawa ft. Dhvani Bhanushali",
+    cover: "https://example.com/covers/ishare-tere.jpg",
+    url: "https://example.com/songs/ishare-tere.mp3",
+  },
+  {
+    id: "gr5",
+    title: "Slowly Slowly",
+    artist: "Guru Randhawa ft. Pitbull",
+    cover: "https://example.com/covers/slowly-slowly.jpg",
+    url: "https://example.com/songs/slowly-slowly.mp3",
+  },
+  {
+    id: "gr6",
+    title: "Moon Rise",
+    artist: "Guru Randhawa",
+    cover: "https://example.com/covers/moon-rise.jpg",
+    url: "https://example.com/songs/moon-rise.mp3",
+  },
+  {
+    id: "gr7",
+    title: "Designer",
+    artist: "Guru Randhawa",
+    cover: "https://example.com/covers/designer.jpg",
+    url: "https://example.com/songs/designer.mp3",
+  },
+  {
+    id: "gr8",
+    title: "Black",
+    artist: "Guru Randhawa",
+    cover: "https://example.com/covers/black.jpg",
+    url: "https://example.com/songs/black.mp3",
+  },
       
       
     ],
