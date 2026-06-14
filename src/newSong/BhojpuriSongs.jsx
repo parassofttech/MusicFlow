@@ -219,8 +219,8 @@ const bhojpuriSongs = [
   title: "Dil Tod Ke",
   artist: "Neelkamal Singh",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273e3e3e3e3e3e3e3e3e3e3e3e3",
-  url: "https://example.com/dil-tod-ke.mp3",
+    "https://i.scdn.co/image/ab67616d0000b273a1a1a1a1a1a1a1a1a1a1a1a1",
+  url: "https://example.com/badnam-kar-dogi.mp3",
 },
 {
   id: "bh28",
@@ -242,8 +242,8 @@ const bhojpuriSongs = [
   title: "Teer Hamra Karejwa Ke Par",
   artist: "Ritesh Pandey",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273f2f2f2f2f2f2f2f2f2f2f2f2",
-  url: "https://example.com/teer-hamra-karejwa-ke-par.mp3",
+    "https://i.scdn.co/image/ab67616d0000b273a1a1a1a1a1a1a1a1a1a1a1a1",
+  url: "https://example.com/badnam-kar-dogi.mp3",
 },
 {
   id: "bh31",
