@@ -74,6 +74,27 @@ const moods = [
           "https://pagalnew.com/coverimages/High-Rated-Gabru-Guru-Randhawa-500-500.jpg",
         url: "https://pagalnew.com/128-downloads/4173",
       },
+      {
+        id: "p6",
+    title: "Zinda Banda",
+    artist: "Anirudh Ravichander",
+    cover: "https://pagalnew.com/coverimages/zinda-banda-jawan-500-500.jpg",
+    url: "https://example.com/zinda-banda.mp3",
+  },
+  {
+    id: "p7",
+    title: "Kala Chashma",
+    artist: "Badshah, Neha Kakkar",
+    cover: "https://pagalnew.com/coverimages/kala-chashma-500-500.jpg",
+    url: "https://example.com/kala-chashma.mp3",
+  },
+  {
+    id: "p8",
+    title: "Dilbar (Remix)",
+    artist: "Neha Kakkar",
+    cover: "https://pagalnew.com/coverimages/dilbar-remix-500-500.jpg",
+    url: "https://example.com/dilbar-remix.mp3",
+  },
     ],
   },
   {
