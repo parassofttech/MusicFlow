@@ -124,106 +124,121 @@ const haryanviSongs = [
     id: "h6",
     title: "Ghanta Zindagi",
     artist: "Parveen Mastana",
-    url: "",
-    cover: ""
+     cover:
+      "https://i.scdn.co/image/ab67616d0000b273d6cbf6a5a9c95b2c98b5eb2f",
+    url: "https://pagalnew.com/128-downloads/17642",
   },
   {
     id: "h7",
     title: "Daaku",
     artist: "Devender Ahlawat",
-    url: "",
-    cover: ""
+     cover:
+      "https://i.scdn.co/image/ab67616d0000b273d6cbf6a5a9c95b2c98b5eb2f",
+    url: "https://pagalnew.com/128-downloads/17642",
   },
   {
     id: "h8",
     title: "Bhai Log",
     artist: "Devender Ahlawat",
-    url: "",
-    cover: ""
+     cover:
+      "https://i.scdn.co/image/ab67616d0000b273d6cbf6a5a9c95b2c98b5eb2f",
+    url: "https://pagalnew.com/128-downloads/17642",
   },
   {
     id: "h9",
     title: "Chaudhary",
     artist: "Kaka WRLD",
-    url: "",
-    cover: ""
+     cover:
+      "https://i.scdn.co/image/ab67616d0000b273d6cbf6a5a9c95b2c98b5eb2f",
+    url: "https://pagalnew.com/128-downloads/17642",
   },
   {
     id: "h10",
     title: "Warning",
     artist: "Amanraj Gill & Swara Verma",
-    url: "",
-    cover: ""
+     cover:
+      "https://i.scdn.co/image/ab67616d0000b273d6cbf6a5a9c95b2c98b5eb2f",
+    url: "https://pagalnew.com/128-downloads/17642",
   },
   {
     id: "h11",
     title: "Ishq Bawla",
     artist: "Dhanda Nyoliwala",
-    url: "",
-    cover: ""
+     cover:
+      "https://i.scdn.co/image/ab67616d0000b273d6cbf6a5a9c95b2c98b5eb2f",
+    url: "https://pagalnew.com/128-downloads/17642",
   },
   {
   id: "h12",
   title: "Blender",
   artist: "Masoom Sharma",
-  url: "https://i.scdn.co/image/ab67616d0000b2735b5d9f03db6f7f5e5fd14f2d",
-  cover: "https://i.scdn.co/image/ab67616d0000b2735b5d9f03db6f7f5e5fd14f2d"
+   cover:
+      "https://i.scdn.co/image/ab67616d0000b273d6cbf6a5a9c95b2c98b5eb2f",
+    url: "https://pagalnew.com/128-downloads/17642",
 },
 {
   id: "h13",
   title: "Pistol Bole Gi",
   artist: "Masoom Sharma",
-  url: "",
-  cover: ""
+   cover:
+      "https://i.scdn.co/image/ab67616d0000b273d6cbf6a5a9c95b2c98b5eb2f",
+    url: "https://pagalnew.com/128-downloads/17642",
 },
 {
   id: "h14",
   title: "Chatak Matak",
   artist: "Renuka Panwar",
-  url: "",
-  cover: ""
+   cover:
+      "https://i.scdn.co/image/ab67616d0000b273d6cbf6a5a9c95b2c98b5eb2f",
+    url: "https://pagalnew.com/128-downloads/17642",
 },
 {
   id: "h15",
   title: "Matak Matak",
   artist: "Unknown",
-  url: "",
-  cover: ""
+   cover:
+      "https://i.scdn.co/image/ab67616d0000b273d6cbf6a5a9c95b2c98b5eb2f",
+    url: "https://pagalnew.com/128-downloads/17642",
 },
 {
   id: "h16",
   title: "Kallo",
   artist: "Unknown",
-  url: "",
-  cover: ""
+   cover:
+      "https://i.scdn.co/image/ab67616d0000b273d6cbf6a5a9c95b2c98b5eb2f",
+    url: "https://pagalnew.com/128-downloads/17642",
 },
 {
   id: "h17",
   title: "Gaadi 150",
   artist: "Vikram Sarkar",
-  url: "",
-  cover: ""
+   cover:
+      "https://i.scdn.co/image/ab67616d0000b273d6cbf6a5a9c95b2c98b5eb2f",
+    url: "https://pagalnew.com/128-downloads/17642",
 },
 {
   id: "h18",
   title: "Raat Ke Shikari",
   artist: "Masoom Sharma",
-  url: "",
-  cover: ""
+   cover:
+      "https://i.scdn.co/image/ab67616d0000b273d6cbf6a5a9c95b2c98b5eb2f",
+    url: "https://pagalnew.com/128-downloads/17642",
 },
 {
   id: "h19",
   title: "Sharp Shooter",
   artist: "Masoom Sharma",
-  url: "",
-  cover: ""
+ cover:
+      "https://i.scdn.co/image/ab67616d0000b273d6cbf6a5a9c95b2c98b5eb2f",
+    url: "https://pagalnew.com/128-downloads/17642",
 },
 {
   id: "h20",
   title: "Knife Brows",
   artist: "Dhanda Nyoliwala",
-  url: "",
-  cover: ""
+  cover:
+      "https://i.scdn.co/image/ab67616d0000b273d6cbf6a5a9c95b2c98b5eb2f",
+    url: "https://pagalnew.com/128-downloads/17642",
 },
 {
   id: "h21",
