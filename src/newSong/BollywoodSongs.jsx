@@ -30,14 +30,14 @@ const bollywoodSongs = [
   {
     title: "Akhiyaan Gulaab",
     artist: "Mitraz",
-    cover: "https://pagalnew.com/coverimages/akhiyaan-gulaab-500-500.jpg",
-    url: "https://example.com/akhiyaan-gulaab.mp3",
+    cover: "https://pagallworlds.com/wp-content/uploads/2024/01/Akhiyaan-Gulaab.jpg",
+    url: "https://pagallworlds.com/wp-content/uploads/2024/12/Akhiyaan-Gulaab-SlowedreverbMitrazteri-Baaton-Mein-Aisa-Uljha-Jiyasr-Lofijftkyksw.mp3",
   },
   {
     title: "Ishq Jaisa Kuch",
     artist: "Vishal-Shekhar",
     cover: "https://pagalnew.com/coverimages/ishq-jaisa-kuch-fighter-500-500.jpg",
-    url: "https://example.com/ishq-jaisa-kuch.mp3",
+    url: "https://pagallworlds.com/wp-content/uploads/2024/12/Akhiyaan-Gulaab-SlowedreverbMitrazteri-Baaton-Mein-Aisa-Uljha-Jiyasr-Lofijftkyksw.mp3",
   },
   {
     title: "Chaleya",
