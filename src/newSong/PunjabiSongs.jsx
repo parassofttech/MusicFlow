@@ -520,7 +520,7 @@ const punjabiSongs = [
     id: "jm2",
     title: "Prada",
     artist: "Jass Manak",
-    cover: "https://pagalnew.com/coverimages/Prada-Jass-Manak-500-500.jpg",
+    cover: "https://pagalnew.com/coverimages/Lehanga-Jass-Manak-500-500.jpg",
     url: "https://example.com/prada.mp3",
   },
   {
@@ -534,14 +534,14 @@ const punjabiSongs = [
     id: "jm4",
     title: "Butterfly",
     artist: "Jass Manak",
-    cover: "https://i.scdn.co/image/ab67616d0000b273d5f6b7d5f0e0b7d4e5f2c3d1",
+    cover: "https://pagalnew.com/coverimages/Lehanga-Jass-Manak-500-500.jpg",
     url: "https://example.com/butterfly.mp3",
   },
   {
     id: "jm5",
     title: "Rabb Wangu",
     artist: "Jass Manak",
-    cover: "https://i.scdn.co/image/ab67616d0000b273f6a7b8c9d0e1f2a3b4c5d6e7",
+    cover: "https://pagalnew.com/coverimages/Lehanga-Jass-Manak-500-500.jpg",
     url: "https://example.com/rabb-wangu.mp3",
   },
   {
