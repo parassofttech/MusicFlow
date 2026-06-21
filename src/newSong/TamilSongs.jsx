@@ -258,7 +258,7 @@ const tamilSongs = [
   title: "Katchi Sera",
   artist: "Sai Abhyankkar",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273f6f6f6f6f6f6f6f6f6f6f6f6",
+    "https://i.scdn.co/image/ab67616d0000b273c9c9c9c9c9c9c9c9c9c9c9c9",
   url: "https://example.com/katchisera.mp3",
 },
 {
@@ -274,7 +274,7 @@ const tamilSongs = [
   title: "Inimel",
   artist: "Shruti Haasan",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273b8b8b8b8b8b8b8b8b8b8b8b8",
+    "https://i.scdn.co/image/ab67616d0000b273c9c9c9c9c9c9c9c9c9c9c9c9",
   url: "https://example.com/inimel.mp3",
 },
 {
@@ -290,7 +290,7 @@ const tamilSongs = [
   title: "Adangaatha Asuran",
   artist: "Raayan",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273d0d0d0d0d0d0d0d0d0d0d0d0",
+    "https://i.scdn.co/image/https://i.scdn.co/image/ab67616d0000b273a111a111a111a111a111a111",
   url: "https://example.com/adangaathaasuran.mp3",
 },
 {
