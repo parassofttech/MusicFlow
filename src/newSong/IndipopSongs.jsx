@@ -329,7 +329,7 @@ const indipopSongs = [
     title: "Khali Khali",
     artist: "Papon",
     cover:
-      "https://i.scdn.co/image/ab67616d0000b273222222222222222222222223",
+      "https://i.scdn.co/image/ab67616d0000b273202020202020202020202020",
     url: "https://example.com/khali-khali.mp3",
 },
 {
@@ -353,7 +353,7 @@ const indipopSongs = [
     title: "Raahi (Chill Version)",
     artist: "Anuv Jain",
     cover:
-      "https://i.scdn.co/image/ab67616d0000b273252525252525252525252525",
+      "https://i.scdn.co/image/https://i.scdn.co/image/ab67616d0000b273202020202020202020202020",
     url: "https://example.com/raahi.mp3",
 },
 {
