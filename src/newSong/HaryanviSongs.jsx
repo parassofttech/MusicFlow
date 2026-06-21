@@ -65,7 +65,7 @@ const haryanviSongs = [
     title: "Desi Desi Na Bolya Kar",
     artist: "Raju Punjabi",
     cover:
-      "https://i.scdn.co/image/ab67616d0000b2739f8fd95bbd1f462f2c4b8e4e",
+      "https://i.scdn.co/image/ab67616d0000b2731df6d3eb1d6f53fd6f1f4f78",
     url: "https://pagalnew.com/128-downloads/17150",
   },
   {
@@ -117,7 +117,7 @@ const haryanviSongs = [
     id: "h5",
     title: "Bhaga Aale",
     artist: "Amanraj Gill & Swara Verma",
-    url: "",
+    url: "https://i.scdn.co/image/ab67616d0000b2731df6d3eb1d6f53fd6f1f4f78",
     cover: "https://i.scdn.co/image/ab67616d0000b2735b5d9f03db6f7f5e5fd14f2d"
   },
   {
