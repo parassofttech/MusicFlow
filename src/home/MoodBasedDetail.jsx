@@ -95,6 +95,14 @@ const moods = [
     cover: "https://pagalnew.com/coverimages/dilbar-remix-500-500.jpg",
     url: "https://example.com/dilbar-remix.mp3",
   },
+  {
+        id: "p9",
+        title: "Lahore",
+        artist: "Guru Randhawa",
+        cover:
+          "https://pagalnew.com/coverimages/Lahore-Guru-Randhawa-500-500.jpg",
+        url: "https://pagalnew.com/128-downloads/4170",
+      },
     ],
   },
   {
@@ -295,7 +303,7 @@ const MoodBasedDetail = () => {
 
   return (
     <section
-      className={`min-h-screen px-6 pt-24 pb-32 bg-gradient-to-b ${mood.color}`}
+      className={`min-h-screen px-6 pt-24 pb-32 bg-linear-to-b ${mood.color}`}
     >
       
       <div onClick={()=>navigate("/")}>
