@@ -625,7 +625,7 @@ const punjabiSongs = [
     title: "Chann Sitare",
     artist: "Ammy Virk",
     cover:
-      "https://pagalnew.com/coverimages/Chann-Sitare-Oye-Makhna-500-500.jpg",
+      "https://pagalnew.com/coverimages/Wang-Da-Naap-Ammy-Virk-500-500.jpg",
     url: "https://example.com/chann-sitare.mp3",
   },
   {
@@ -643,7 +643,7 @@ const punjabiSongs = [
     title: "Fly",
     artist: "Arjan Dhillon",
     cover:
-      "https://i.scdn.co/image/ab67616d0000b2736a5b4c3d2e1f0a9b8c7d6e5f",
+      "https://pagalnew.com/coverimages/Wang-Da-Naap-Ammy-Virk-500-500.jpg",
     url: "https://example.com/fly.mp3",
   },
   {
@@ -659,7 +659,7 @@ const punjabiSongs = [
     title: "Mulla Pyar",
     artist: "Arjan Dhillon",
     cover:
-      "https://i.scdn.co/image/ab67616d0000b2738e7d6c5b4a39281716151413",
+      "https://pagalnew.com/coverimages/Wang-Da-Naap-Ammy-Virk-500-500.jpg",
     url: "https://example.com/mulla-pyar.mp3",
   },
   {
