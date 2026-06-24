@@ -314,8 +314,8 @@ const tamilSongs = [
   title: "Anbe Peranbe (Re-trending Reels)",
   artist: "A.R. Rahman",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273a111a111a111a111a111a111",
-  url: "https://example.com/anbe-peranbe.mp3",
+    "https://i.scdn.co/image/ab67616d0000b273c9c9c9c9c9c9c9c9c9c9c9c9",
+  url: "https://example.com/kaathumela.mp3",
 },
 {
   id: "t40",
@@ -330,8 +330,8 @@ const tamilSongs = [
   title: "Nira (Takkar)",
   artist: "Sid Sriram, Gautham Vasudev Menon",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273c333c333c333c333c333c333",
-  url: "https://example.com/nira.mp3",
+    "https://i.scdn.co/image/ab67616d0000b273c9c9c9c9c9c9c9c9c9c9c9c9",
+  url: "https://example.com/kaathumela.mp3",
 },
 {
   id: "t42",
