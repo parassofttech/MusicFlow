@@ -281,7 +281,7 @@ const indipopSongs = [
     title: "Choo Lo",
     artist: "The Local Train",
     cover:
-      "https://i.scdn.co/image/ab67616d0000b273161616161616161616161616",
+      "https://i.scdn.co/image/ab67616d0000b273202020202020202020202020",
     url: "https://example.com/choo-lo.mp3",
 },
 {
@@ -297,7 +297,7 @@ const indipopSongs = [
     title: "Dil Beparvah",
     artist: "Ankur Tewari",
     cover:
-      "https://i.scdn.co/image/ab67616d0000b273181818181818181818181818",
+      "https://i.scdn.co/image/ab67616d0000b273202020202020202020202020",
     url: "https://example.com/dil-beparvah.mp3",
 },
 {
