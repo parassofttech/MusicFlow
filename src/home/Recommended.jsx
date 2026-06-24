@@ -96,6 +96,15 @@ const recommendedSongs = [
   url: "https://pagalnew.com/128-downloads/35703",
 },
 
+{
+  id: "rec13",
+  title: "Chatni",
+  artist: "King",
+  cover:
+    "https://pagalnew.com/coverimages/chatni-dhamaal-4-500-500.jpg",
+  url: "https://pagalnew.com/128-downloads/53981",
+},
+
 ];
 
 const Recommended = () => {
