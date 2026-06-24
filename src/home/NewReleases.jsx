@@ -76,6 +76,15 @@ const newReleases = [
     url: "https://p320.djpunjab.is/data/48/57220/307017/Dil%20Dardeh%20-%20Sukha.mp3",
     date: "2024-12-20",
   },
+  {
+    id: "nr8",
+    title: "Dil Dardeh",
+    artist: "Sukha",
+    cover:
+      "https://cover.djpunjab.is/57220/300x700/by-any-means-sukha.webp",
+    url: "https://p320.djpunjab.is/data/48/57220/307017/Dil%20Dardeh%20-%20Sukha.mp3",
+    date: "2024-12-20",
+  },
 ];
 
 const NewReleases = () => {
@@ -108,7 +117,7 @@ const NewReleases = () => {
               playSong(song, newReleases, index, "new-releases")
             }
             className={`
-              min-w-[180px] bg-zinc-900/80 rounded-2xl p-3
+              min-w-45 bg-zinc-900/80 rounded-2xl p-3
               group cursor-pointer
               ${
                 currentSong?.url === song.url
