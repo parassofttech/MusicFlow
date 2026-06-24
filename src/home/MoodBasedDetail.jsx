@@ -272,7 +272,7 @@ const moods = [
         id: "b10",
         title: "Radha Gori Gori",
         artist: "Indresh Upadhyay",
-        cover: "https://pagalourld.in/uploads/thumbs/thumb-4/1734_3.jpg",
+        cover: "https://pendujatt.com.se/uploads/album/narayan-mil-jayega-jubin-nautiyal.webp",
         url: "/songs/Radha_Gori_Gori.mp3",
       },
     ],
