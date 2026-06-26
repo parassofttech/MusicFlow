@@ -234,7 +234,7 @@ const bhojpuriSongs = [
   title: "Hello Kaun",
   artist: "Ritesh Pandey",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273f1f1f1f1f1f1f1f1f1f1f1f1",
+    "https://i.scdn.co/image/ab67616d0000b273e4e4e4e4e4e4e4e4e4e4e4e4",
   url: "https://example.com/hello-kaun.mp3",
 },
 {
@@ -242,7 +242,7 @@ const bhojpuriSongs = [
   title: "Teer Hamra Karejwa Ke Par",
   artist: "Ritesh Pandey",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273a1a1a1a1a1a1a1a1a1a1a1a1",
+    "https://i.scdn.co/image/ab67616d0000b273e4e4e4e4e4e4e4e4e4e4e4e4",
   url: "https://example.com/badnam-kar-dogi.mp3",
 },
 {
@@ -250,7 +250,7 @@ const bhojpuriSongs = [
   title: "Jaan Lebu Ka Ho",
   artist: "Ritesh Pandey",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273f3f3f3f3f3f3f3f3f3f3f3f3",
+    "https://i.scdn.co/image/ab67616d0000b273e4e4e4e4e4e4e4e4e4e4e4e4",
   url: "https://example.com/jaan-lebu-ka-ho.mp3",
 },
 
