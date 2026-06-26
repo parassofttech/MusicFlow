@@ -55,7 +55,7 @@ const punjabiSongs = [
     artist: "Diljit Dosanjh",
     cover:
       "https://cover.djpunjab.is/50579/300x700/lover-diljit-dosanjh.webp",
-    url: "https://s320.djpunjab.is/data/48/50579/298266/Lover%20-%20Diljit%20Dosanjh.mp3",
+    url: "https://cdnsongs.com/music/data/Single_Track/202108/Lover/128/Lover_1.mp3",
   },
   {
     id: "d4",
