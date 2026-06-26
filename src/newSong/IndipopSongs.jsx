@@ -10,7 +10,7 @@ const indipopSongs = [
     artist: "King",
     cover:
       "https://pagalnew.com/coverimages/Maan-Meri-Jaan-Champagne-Talk-500-500.jpg",
-    url: "https://example.com/maan-meri-jaan.mp3",
+    url: "https://pagalnew.com/128-downloads/35703",
   },
   {
     id: "i2",
@@ -25,8 +25,8 @@ const indipopSongs = [
     title: "Excuses",
     artist: "AP Dhillon",
     cover:
-      "https://i.scdn.co/image/ab67616d0000b2738d6c8f75b1219777084ff57c",
-    url: "https://example.com/excuses.mp3",
+      "https://pagalnew.com/coverimages/Excuses-Ap-Dhillon-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/23347",
   },
   {
     id: "i4",
