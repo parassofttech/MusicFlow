@@ -38,24 +38,24 @@ const punjabiSongs = [
     title: "Born To Shine",
     artist: "Diljit Dosanjh",
     cover:
-      "https://i.scdn.co/image/ab67616d0000b273f6d4f6aaf7d2a3dfcc5a2dd3",
-    url: "https://example.com/born-to-shine.mp3",
+      "https://cover.djpunjab.is/48617/300x700/g.o.a.t-diljit-dosanjh.webp",
+    url: "https://p320.djpunjab.is/data/48/48617/296084/Born%20To%20Shine%20-%20Diljit%20Dosanjh.mp3",
   },
   {
     id: "d2",
     title: "GOAT",
     artist: "Diljit Dosanjh",
     cover:
-      "https://i.scdn.co/image/ab67616d0000b2734f8e69b0e4e1b8f4d63f3c29",
-    url: "https://example.com/goat.mp3",
+      "https://cover.djpunjab.is/48617/300x700/g.o.a.t-diljit-dosanjh.webp",
+    url: "https://p320.djpunjab.is/data/48/48617/296070/G.O.A.T%20-%20Diljit%20Dosanjh.mp3",
   },
   {
     id: "d3",
     title: "Lover",
     artist: "Diljit Dosanjh",
     cover:
-      "https://i.scdn.co/image/ab67616d0000b2736c1f7f5b78e6bff4c7d1d9b7",
-    url: "https://example.com/lover.mp3",
+      "https://cover.djpunjab.is/50579/300x700/lover-diljit-dosanjh.webp",
+    url: "https://s320.djpunjab.is/data/48/50579/298266/Lover%20-%20Diljit%20Dosanjh.mp3",
   },
   {
     id: "d4",
