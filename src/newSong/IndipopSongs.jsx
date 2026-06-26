@@ -66,7 +66,7 @@ const indipopSongs = [
     artist: "Anuv Jain",
     cover:
       "https://i.scdn.co/image/ab67616d0000b2738b3f6f3f4c4f5d5a5b5c5d5e",
-    url: "https://example.com/gul.mp3",
+    url: "https://pagalnew.com/128-downloads/23347",
   },
   {
     id: "i9",
@@ -74,7 +74,7 @@ const indipopSongs = [
     artist: "Anuv Jain",
     cover:
       "https://i.scdn.co/image/ab67616d0000b2734e8c1f7f8d2e1c7b8a4f3d2c",
-    url: "https://example.com/husn.mp3",
+    url: "https://pagalnew.com/128-downloads/23347",
   },
   {
     id: "i10",
@@ -82,7 +82,7 @@ const indipopSongs = [
     artist: "Aleemrk",
     cover:
       "https://i.scdn.co/image/ab67616d0000b273f4a7c3d8e5b2a6c1d4e7f8a2",
-    url: "https://example.com/cold-hours.mp3",
+    url: "https://pagalnew.com/128-downloads/23347",
   },
  {
     id: "i11",
