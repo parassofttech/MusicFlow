@@ -57,29 +57,24 @@ const bollywoodSongs = [
     cover: "https://pagalnew.com/coverimages/tum-kya-mile-rocky-rani-500-500.jpg",
     url: "https://example.com/tum-kya-mile.mp3",
   },
-  {
-    title: "Kesariya",
-    artist: "Arijit Singh",
-    cover: "https://pagalnew.com/coverimages/kesariya-brahmastra-500-500.jpg",
-    url: "https://example.com/kesariya.mp3",
-  },
+  
   {
     title: "Tere Vaaste",
     artist: "Varun Jain",
-    cover: "https://pagalnew.com/coverimages/tere-vaaste-zara-hatke-500-500.jpg",
-    url: "https://example.com/tere-vaaste.mp3",
+    cover: "https://pagalnew.com/coverimages/tere-vaaste-zara-hatke-zara-bachke-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/42135",
   },
   {
     title: "Pehle Bhi Main",
     artist: "Vishal Mishra",
-    cover: "https://pagalnew.com/coverimages/pehle-bhi-main-animal-500-500.jpg",
-    url: "https://example.com/pehle-bhi-main.mp3",
+    cover: "https://pagalnew.com/coverimages/Pehle-Bhi-Main-ANIMAL-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/44540",
   },
   {
     title: "Hua Main",
     artist: "Raghav Chaitanya",
     cover: "https://pagalnew.com/coverimages/hua-main-animal-500-500.jpg",
-    url: "https://example.com/hua-main.mp3",
+    url: "https://pagalnew.com/128-downloads/43954",
   },
   {
     title: "Satranga",
