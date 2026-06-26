@@ -145,7 +145,7 @@ const tamilSongs = [
     title: "Ranjithame",
     artist: "Vijay, M. M. Manasi",
     cover:
-      "https://i.scdn.co/image/ab67616d0000b273d5d5d5d5d5d5d5d5d5d5d5d5",
+      "https://i.scdn.co/image/ab67616d0000b273b2b2b2b2b2b2b2b2b2b2b2b2",
     url: "https://example.com/ranjithame.mp3",
   },
   {
@@ -153,7 +153,7 @@ const tamilSongs = [
     title: "Chaleya (Tamil Version Trending)",
     artist: "Arijit Singh (Tamil Version)",
     cover:
-      "https://i.scdn.co/image/ab67616d0000b273e6e6e6e6e6e6e6e6e6e6e6e6",
+      "https://i.scdn.co/image/ab67616d0000b273b2b2b2b2b2b2b2b2b2b2b2b2",
     url: "https://example.com/chaleya-tamil.mp3",
   },
   {
@@ -161,7 +161,7 @@ const tamilSongs = [
     title: "Jolly O Gymkhana",
     artist: "Thalapathy Vijay",
     cover:
-      "https://i.scdn.co/image/ab67616d0000b273f7f7f7f7f7f7f7f7f7f7f7f7",
+      "https://i.scdn.co/image/ab67616d0000b273b2b2b2b2b2b2b2b2b2b2b2b2",
     url: "https://example.com/jolly-o-gymkhana.mp3",
   },
   {
