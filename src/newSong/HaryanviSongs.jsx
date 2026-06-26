@@ -244,28 +244,28 @@ const haryanviSongs = [
   id: "h21",
   title: "Ego Killer",
   artist: "Dhanda Nyoliwala",
-  url: "",
-  cover: ""
+  url: "https://pagalnew.com/128-downloads/1764",
+  cover: "https://i.scdn.co/image/ab67616d0000b273d6cbf6a5a9c95b2c98b5eb2f"
 },
 {
   id: "h22",
   title: "Bandook 2",
   artist: "Narender Bhagana",
-  url: "",
-  cover: ""
+  url: "https://pagalnew.com/128-downloads/1764",
+  cover: "https://i.scdn.co/image/ab67616d0000b273d6cbf6a5a9c95b2c98b5eb2f"
 },
 {
   id: "h23",
   title: "Azad Flow",
   artist: "RP Singh",
-  url: "",
+  url: "https://pagalnew.com/128-downloads/1764",
   cover: ""
 },
 {
   id: "h24",
   title: "Ustaaz",
   artist: "Rahul Kadyan",
-  url: "",
+  url: "https://pagalnew.com/128-downloads/1764",
   cover: ""
 },
 {
