@@ -139,7 +139,7 @@ const bollywoodSongs = [
    {
     title: "Satranga",
     artist: "Arijit Singh",
-    cover: "https://pagalnew.com/coverimages/satranga-animal-500-500.jpg",
+    cover: "https://pagalnew.com/coverimages/dilbar-remix-500-500.jpg",
     url: "https://example.com/satranga.mp3",
   },
   {
@@ -151,7 +151,7 @@ const bollywoodSongs = [
   {
     title: "Tujhe Kitna Chahne Lage",
     artist: "Arijit Singh",
-    cover: "https://pagalnew.com/coverimages/tujhe-kitna-chahne-lage-kabir-singh-500-500.jpg",
+    cover: "https://pagalnew.com/coverimages/dilbar-remix-500-500.jpg",
     url: "https://example.com/tujhe-kitna-chahne-lage.mp3",
   },
   {
