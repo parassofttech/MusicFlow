@@ -106,7 +106,7 @@ const indipopSongs = [
     artist: "Aditya Rikhari",
     cover:
       "https://i.scdn.co/image/ab67616d0000b273b2c3d4e5f60718293a4b5c6d",
-    url: "https://example.com/sahiba.mp3",
+    url: "https://example.com/jo-tum-mere-ho.mp",
 },
 {
     id: "i14",
@@ -122,7 +122,7 @@ const indipopSongs = [
     artist: "Prateek Kuhad",
     cover:
       "https://i.scdn.co/image/ab67616d0000b273c1d2e3f4051627384950a1b2",
-    url: "https://example.com/kasoor.mp3",
+    url: "https://example.com/jo-tum-mere-ho.mp",
 },
 {
     id: "i16",
