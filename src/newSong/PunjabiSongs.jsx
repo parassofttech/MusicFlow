@@ -103,7 +103,7 @@ const punjabiSongs = [
     artist: "Diljit Dosanjh",
     cover:
       "https://i.scdn.co/image/ab67616d0000b2738e7d6c5b4a3f2e1d9c8b7a6f",
-    url: "https://example.com/hass-hass.mp3",
+    url: "https://example.com/jo-tum-mere-ho.mp",
   },
   {
     id: "d10",
@@ -111,7 +111,7 @@ const punjabiSongs = [
     artist: "Diljit Dosanjh",
     cover:
       "https://i.scdn.co/image/ab67616d0000b2732a1b3c4d5e6f7a8b9c0d1e2f",
-    url: "https://example.com/magic.mp3",
+    url: "https://example.com/jo-tum-mere-ho.mp",
   },
   {
     id: "d11",
