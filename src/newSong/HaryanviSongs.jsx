@@ -259,41 +259,41 @@ const haryanviSongs = [
   title: "Azad Flow",
   artist: "RP Singh",
   url: "https://pagalnew.com/128-downloads/1764",
-  cover: ""
+  cover: "https://i.scdn.co/image/ab67616d0000b273d6cbf6a5a9c95b2c98b5eb2f"
 },
 {
   id: "h24",
   title: "Ustaaz",
   artist: "Rahul Kadyan",
   url: "https://pagalnew.com/128-downloads/1764",
-  cover: ""
+  cover: "https://i.scdn.co/image/ab67616d0000b273d6cbf6a5a9c95b2c98b5eb2f"
 },
 {
   id: "h25",
   title: "Gunday",
   artist: "Devender Ahlawat",
-  url: "",
-  cover: ""
+  url: "https://pagalnew.com/128-downloads/17642",
+  cover: "https://i.scdn.co/image/ab67616d0000b273d6cbf6a5a9c95b2c98b5eb2f"
 },
 {
   id: "h26",
   title: "Gangsta Life",
   artist: "Candy Sheoran",
-  url: "",
+  url: "https://pagalnew.com/128-downloads/17642",
   cover: ""
 },
 {
   id: "h27",
   title: "Maruti",
   artist: "Dhanda Nyoliwala",
-  url: "",
+  url: "https://pagalnew.com/128-downloads/17642",
   cover: ""
 },
 {
   id: "h28",
   title: "Green Flag",
   artist: "Vikram Sarkar",
-  url: "",
+  url: "https://pagalnew.com/128-downloads/17642",
   cover: ""
 },
 {
