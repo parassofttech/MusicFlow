@@ -7,10 +7,19 @@ const bollywoodSongs = [
   
   {
   
+    title: "Bandhu 2.0",
+    artist: "KAvita Sheth and Neeraj Shridhar",
+    cover:
+      "https://southmelody.com/upload_file/4/65/230x230/thumb_6a329636dd76d.webp",
+    url: "https://pagalsongz.com/listen/bandhu-2-0.mp3",
+  },
+  
+  {
+  
     title: "Leher",
     artist: "Arijit Singh",
     cover:
-      "https://southmelody.com/upload_file/4/96/230x230/thumb_6a3b4f5eb17e1.webp",
+      "https://koshalworld.com/siteuploads/thumb/sft172/85950_4.webp",
     url: "https://koshalworld.com/files/download/id/85950",
   },
   {
