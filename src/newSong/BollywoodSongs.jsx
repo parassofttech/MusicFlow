@@ -11,7 +11,7 @@ const bollywoodSongs = [
     artist: "Arijit Singh",
     cover:
       "https://southmelody.com/upload_file/4/96/230x230/thumb_6a3b4f5eb17e1.webp",
-    url: "/upload_file/4/96/Leher.mp3",
+    url: "https://koshalworld.com/files/download/id/85950",
   },
   {
   
