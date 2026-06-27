@@ -5,10 +5,18 @@ import { ArrowLeft, Play } from "lucide-react";
 
 const bollywoodSongs = [
   
+  
   {
   
+    title: "Shararat",
+    artist: "Jasmine Sandlas, Shashwat Sachdev",
+    cover:
+      "https://pagalnew.com/coverimages/shararat-dhurandhar-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/52706",
+  },{
+  
     title: "Bandhu 2.0",
-    artist: "KAvita Sheth and Neeraj Shridhar",
+    artist: "Kavita Sheth and Neeraj Shridhar",
     cover:
       "https://southmelody.com/upload_file/4/65/230x230/thumb_6a329636dd76d.webp",
     url: "https://pagalsongz.com/listen/bandhu-2-0.mp3",
