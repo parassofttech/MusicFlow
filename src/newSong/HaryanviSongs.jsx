@@ -308,14 +308,14 @@ const haryanviSongs = [
   title: "Ishq Bawla (Soft Version)",
   artist: "Dhanda Nyoliwala",
   url: "",
-  cover: ""
+  cover: "https://i.scdn.co/image/ab67616d0000b273d6cbf6a5a9c95b2c98b5eb2f"
 },
 {
   id: "h31",
   title: "Ji Laage Babya Mai",
   artist: "Unknown",
   url: "",
-  cover: ""
+  cover: "https://i.scdn.co/image/ab67616d0000b273d6cbf6a5a9c95b2c98b5eb2f"
 },
 {
   id: "h32",
@@ -329,7 +329,7 @@ const haryanviSongs = [
   title: "Mard",
   artist: "Masoom Sharma",
   url: "",
-  cover: ""
+  cover: "https://i.scdn.co/image/ab67616d0000b273d6cbf6a5a9c95b2c98b5eb2f"
 }
 
 ];
