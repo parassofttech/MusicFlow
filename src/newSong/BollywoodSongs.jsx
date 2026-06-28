@@ -67,8 +67,9 @@ const bollywoodSongs = [
   {
     title: "Chaleya",
     artist: "Arijit Singh, Shilpa Rao",
-    cover: "https://pagalnew.com/coverimages/chaleya-jawan-500-500.jpg",
-    url: "https://example.com/chaleya.mp3",
+   cover:
+          "https://pagalnew.com/coverimages/chaleya-jawan-500-500.jpg",
+        url: "https://pagalnew.com/128-downloads/43094",
   },
   {
     title: "Heeriye",
