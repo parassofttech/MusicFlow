@@ -158,10 +158,10 @@ const bollywoodSongs = [
     url: "https://example.com/kala-chashma.mp3",
   },
   {
-    title: "Dilbar (Remix)",
+    title: "Dilbar",
     artist: "Neha Kakkar",
-    cover: "https://pagalnew.com/coverimages/dilbar-remix-500-500.jpg",
-    url: "https://example.com/dilbar-remix.mp3",
+    cover: "https://pagalnew.com/coverimages/Dilbar-Satyameva-Jayate-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/2762",
   },
    {
     title: "Satranga",
