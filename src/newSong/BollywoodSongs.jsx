@@ -142,8 +142,8 @@ const bollywoodSongs = [
   {
     title: "Naatu Naatu",
     artist: "Rahul Sipligunj, Kaala Bhairava",
-    cover: "https://pagalnew.com/coverimages/naatu-naatu-rrr-500-500.jpg",
-    url: "https://example.com/naatu-naatu.mp3",
+    cover: "https://pagallworlds.com/wp-content/uploads/2024/01/Naatu-Naatu.jpg",
+    url: "https://pagallworlds.com/wp-content/uploads/2024/01/Naatu-Naatu.mp3",
   },
   {
     title: "Zinda Banda",
