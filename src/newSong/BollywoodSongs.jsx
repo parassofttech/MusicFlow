@@ -124,8 +124,8 @@ const bollywoodSongs = [
   {
     title: "What Jhumka",
     artist: "Arijit Singh, Jonita Gandhi",
-    cover: "https://pagalnew.com/coverimages/what-jhumka-rocky-rani-500-500.jpg",
-    url: "https://example.com/what-jhumka.mp3",
+    cover: "https://pagalnew.com/coverimages/what-jhumka-rocky-aur-rani-kii-prem-kahaani-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/42684",
   },
   {
     title: "Oo Bolega Ya Oo Oo Bolega 2.0",
