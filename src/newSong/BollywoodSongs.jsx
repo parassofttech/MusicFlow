@@ -130,8 +130,8 @@ const bollywoodSongs = [
   {
     title: "Oo Bolega Ya Oo Oo Bolega 2.0",
     artist: "Devi Sri Prasad",
-    cover: "https://pagalnew.com/coverimages/oo-bolega-pushpa-500-500.jpg",
-    url: "https://example.com/oo-bolega-2.mp3",
+    cover: "https://pagalnew.com/coverimages/oo-bolega-ya-oo-oo-bolega-pushpa-the-rise-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/23014",
   },
   {
     title: "Jhoome Jo Pathaan",
