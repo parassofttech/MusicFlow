@@ -118,8 +118,8 @@ const bollywoodSongs = [
    {
     title: "Laal Pari",
     artist: "Housefull 5",
-    cover: "https://pagalnew.com/coverimages/laal-pari-housefull5-500-500.jpg",
-    url: "https://example.com/laal-pari.mp3",
+    cover: "https://pagalnew.com/coverimages/laal-pari-housefull-5-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/51332",
   },
   {
     title: "What Jhumka",
