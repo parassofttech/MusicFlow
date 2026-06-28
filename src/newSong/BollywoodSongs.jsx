@@ -149,7 +149,7 @@ const bollywoodSongs = [
     title: "Zinda Banda",
     artist: "Anirudh Ravichander",
     cover: "https://pagalnew.com/coverimages/zinda-banda-jawan-500-500.jpg",
-    url: "https://example.com/zinda-banda.mp3",
+    url: "https://pagalnew.com/128-downloads/42879",
   },
   {
     title: "Kala Chashma",
