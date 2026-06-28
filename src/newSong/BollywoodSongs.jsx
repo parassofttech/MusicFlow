@@ -49,8 +49,8 @@ const bollywoodSongs = [
   {
     title: "Tum Se",
     artist: "Varun Jain, Sachin-Jigar",
-    cover: "https://pagalnew.com/coverimages/tum-se-terri-baaton-mein-500-500.jpg",
-    url: "https://example.com/tum-se.mp3",
+    cover: "https://pagalnew.com/coverimages/tum-se-teri-baaton-mein-aisa-uljha-jiya-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/45398",
   },
   {
     title: "Akhiyaan Gulaab",
