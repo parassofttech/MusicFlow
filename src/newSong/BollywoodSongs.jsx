@@ -128,7 +128,7 @@ const bollywoodSongs = [
     url: "https://pagalnew.com/128-downloads/42684",
   },
   {
-    title: "Oo Bolega Ya Oo Oo Bolega 2.0",
+    title: "Oo Bolega Ya Oo Oo Bolega",
     artist: "Devi Sri Prasad",
     cover: "https://pagalnew.com/coverimages/oo-bolega-ya-oo-oo-bolega-pushpa-the-rise-500-500.jpg",
     url: "https://pagalnew.com/128-downloads/23014",
@@ -136,8 +136,8 @@ const bollywoodSongs = [
   {
     title: "Jhoome Jo Pathaan",
     artist: "Arijit Singh, Sukriti Kakar",
-    cover: "https://pagalnew.com/coverimages/jhoome-jo-pathaan-500-500.jpg",
-    url: "https://example.com/jhoome-jo-pathaan.mp3",
+    cover: "https://pagalnew.com/coverimages/Jhoome-Jo-Pathaan-Vishal-Shekhar-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/37328",
   },
   {
     title: "Naatu Naatu",
