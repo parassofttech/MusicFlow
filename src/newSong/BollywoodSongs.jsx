@@ -107,14 +107,14 @@ const bollywoodSongs = [
     title: "Satranga",
     artist: "Arijit Singh",
     cover: "https://pagalnew.com/coverimages/satranga-animal-500-500.jpg",
-    url: "https://example.com/satranga.mp3",
+    url: "https://pagalnew.com/128-downloads/44104",
   },
-  {
-    title: "Tum Se Hi (Reels Version)",
-    artist: "Various Artists",
-    cover: "https://pagalnew.com/coverimages/tum-se-hi-500-500.jpg",
-    url: "https://example.com/tum-se-hi.mp3",
-  },
+  // {
+  //   title: "Tum Se Hi (Reels Version)",
+  //   artist: "Various Artists",
+  //   cover: "https://pagalnew.com/coverimages/tum-se-hi-500-500.jpg",
+  //   url: "https://example.com/tum-se-hi.mp3",
+  // },
    {
     title: "Laal Pari",
     artist: "Housefull 5",
