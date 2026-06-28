@@ -74,14 +74,15 @@ const bollywoodSongs = [
   {
     title: "Heeriye",
     artist: "Arijit Singh, Jasleen Royal",
-    cover: "https://pagalnew.com/coverimages/heeriye-500-500.jpg",
+    cover:
+      "https://pagalnew.com/coverimages/heeriye-arijit-singh-500-500.jpg",
     url: "https://pagalnew.com/128-downloads/44105",
   },
   {
     title: "Tum Kya Mile",
     artist: "Arijit Singh, Shreya Ghoshal",
-    cover: "https://pagalnew.com/coverimages/tum-kya-mile-rocky-rani-500-500.jpg",
-    url: "https://example.com/tum-kya-mile.mp3",
+    cover: "https://pagalnew.com/coverimages/tum-kya-mile-rocky-aur-rani-kii-prem-kahaani-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/42473",
   },
   
   {
