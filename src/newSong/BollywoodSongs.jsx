@@ -62,7 +62,7 @@ const bollywoodSongs = [
     title: "Ishq Jaisa Kuch",
     artist: "Vishal-Shekhar",
     cover: "https://pagalnew.com/coverimages/ishq-jaisa-kuch-fighter-500-500.jpg",
-    url: "https://pagallworlds.com/wp-content/uploads/2024/12/Akhiyaan-Gulaab-SlowedreverbMitrazteri-Baaton-Mein-Aisa-Uljha-Jiyasr-Lofijftkyksw.mp3",
+    url: "https://pagalnew.com/128-downloads/44934",
   },
   {
     title: "Chaleya",
