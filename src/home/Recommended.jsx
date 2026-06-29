@@ -41,7 +41,7 @@ const recommendedSongs = [
     title: "Tum Hi Ho",
         artist: "Arijit Singh",
         cover:
-          "https://hindi2.djpunjab.app/cover/0uI8We9PdKDYCN-x1ym8qg==/arijit-romantic-hits-cover-image.webp",
+          "https://pagalnew.com/coverimages/Tum-Hi-Ho-Aashiqui-2-500-500.jpg",
         url: "https://hindi2.djpunjab.app/load/AA7dmwuC-r2yaTlk8GORew==/Tum%20Hi%20Ho%20(From%20Aashiqui%202).mp3",
   },
   {
@@ -62,7 +62,7 @@ const recommendedSongs = [
     id: "rec8",
     title: "Tera Ban Jaunga",
     artist: "Akhil Sachdeva",
-    cover: "https://mr-jat.in/siteuploads/generaltheme/thumb/files/sft7/3089/3089-2.webp",
+    cover: "https://hindi-cover.djpunjab.app/cover/4tJ4ecRoX1XNPimlqNRZ8w==/charismatic-sasha-shahid-cover-image.webp",
     url: "/dlod/3089?&volume=75&showstop=1&showvolume=1",
   },
   {

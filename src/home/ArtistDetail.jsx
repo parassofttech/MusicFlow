@@ -59,6 +59,40 @@ const artistData = {
           "https://pagalnew.com/coverimages/Tu-Hi-Hai-Aashiqui-Duet-Dishkiyaoon-500-500.jpg",
         url: "https://pagalnew.com/128-downloads/5467",
       },
+      {
+        id: "a7",
+    title: "Phir Kabhi",
+    artist: "Arijit Singh",
+    cover: "https://pagalnew.com/coverimages/Phir-Kabhi-M.S.-Dhoni---The-Untold-Story-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/4059",
+  },
+
+  
+  {
+  id: "a8",
+    title: "O Maahi",
+    artist: "Arijit Singh",
+    cover:
+      "https://pagalnew.com/coverimages/o-maahi-dunki-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/44800",
+  },
+  {
+    id: "a9",
+    title: "Tum Hi Ho",
+    artist: "Arijit Singh",
+    cover:
+      "https://pagalnew.com/coverimages/Tum-Hi-Ho-Aashiqui-2-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/6024",
+  },
+  
+  {
+  id: "a10",
+    title: "Shayad",
+    artist: "Arijit Singh",
+    cover:
+      "https://pagalnew.com/coverimages/Shayad-Love-Aaj-Kal-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/1890",
+  },
     ],
   },
 

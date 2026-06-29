@@ -4,15 +4,24 @@ import { Play, TrendingUp } from "lucide-react";
 import { useMusic } from "../context/MusicContext";
 
 const trendingSongs = [
+  
+ 
   {
     id: "t1",
-    title: "Ram Siya Ram",
-    artist: "Sachel-Parampara",
-    cover: "https://c.saavncdn.com/916/Ram-Siya-Ram-From-Adipurush-Hindi-2023-20230530192919-500x500.jpg",
-    url: "https://pagalnew.com/128-downloads/42316",
+    title: "Sahiba",
+    artist: "Aditya Rikhari",
+    cover: "https://koshalworld.com/siteuploads/thumb/sft59/29016_4.webp",
+    url: "https://koshalworld.com/files/download/id/29016",
   },
   {
     id: "t2",
+    title: "Pal Pal",
+    artist: "TalWinder",
+    cover: "https://koshalworld.com/siteuploads/thumb/sft110/54639_4.webp",
+    url: "https://koshalworld.com/files/download/id/54639",
+  },
+   {
+    id: "t3",
     title: "Maan Meri Jaan",
     artist: "King",
     cover:
@@ -21,18 +30,11 @@ const trendingSongs = [
 
   },
   {
-    id: "t3",
-    title: "Sahiba",
-    artist: "Aditya Rikhari",
-    cover: "https://koshalworld.com/siteuploads/thumb/sft59/29016_4.webp",
-    url: "https://koshalworld.com/files/download/id/29016",
-  },
-  {
     id: "t4",
-    title: "Pal Pal",
-    artist: "TalWinder",
-    cover: "https://koshalworld.com/siteuploads/thumb/sft110/54639_4.webp",
-    url: "https://koshalworld.com/files/download/id/54639",
+    title: "Ram Siya Ram",
+    artist: "Sachel-Parampara",
+    cover: "https://c.saavncdn.com/916/Ram-Siya-Ram-From-Adipurush-Hindi-2023-20230530192919-500x500.jpg",
+    url: "https://pagalnew.com/128-downloads/42316",
   },
   {
     id: "t5",
@@ -41,6 +43,8 @@ const trendingSongs = [
     cover: "https://cover.djpunjab.is/57046/300x700/haseen-talwiinder.webp",
     url: "https://s320.djpunjab.is/data/48/57046/306733/Haseen%20-%20Talwiinder.mp3",
   },
+
+  
   {
     id: "t6",
     title: "Saiyaara",
@@ -112,7 +116,7 @@ const TrendingNow = () => {
             whileHover={{ scale: 1.06 }}
             whileTap={{ scale: 0.95 }}
             className={`
-              relative min-w-[180px] rounded-2xl p-3 cursor-pointer
+              relative min-w-45 rounded-2xl p-3 cursor-pointer
               bg-zinc-900/80 group
               ${
                 currentSong?.url === song.url
