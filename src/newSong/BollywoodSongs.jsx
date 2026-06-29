@@ -189,35 +189,28 @@ const bollywoodSongs = [
     url: "https://pagalnew.com/128-downloads/19762",
   },
   {
-    title: "Phir Bhi Tumko Chaahunga",
+    title: "Phir Kabhi",
     artist: "Arijit Singh",
-    cover: "https://pagalnew.com/coverimages/phir-bhi-tumko-chaahunga-half-girlfriend-500-500.jpg",
-    url: "https://example.com/phir-bhi-tumko-chaahunga.mp3",
+    cover: "https://pagalnew.com/coverimages/Phir-Kabhi-M.S.-Dhoni---The-Untold-Story-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/4059",
   },
 
-  {
-
-    title: "Chaleya",
-    artist: "Arijit Singh",
-    cover:
-      "https://pagalnew.com/coverimages/chaleya-jawan-500-500.jpg",
-    url: "https://example.com/chaleya.mp3",
-  },
+  
   {
   
     title: "O Maahi",
     artist: "Arijit Singh",
     cover:
       "https://pagalnew.com/coverimages/o-maahi-dunki-500-500.jpg",
-    url: "https://example.com/omaahi.mp3",
+    url: "https://pagalnew.com/128-downloads/44800",
   },
   {
   
     title: "Tum Hi Ho",
     artist: "Arijit Singh",
     cover:
-      "https://hindi2.djpunjab.app/cover/0uI8We9PdKDYCN-x1ym8qg==/arijit-romantic-hits-cover-image.webp",
-    url: "https://example.com/tumhiho.mp3",
+      "https://pagalnew.com/coverimages/Tum-Hi-Ho-Aashiqui-2-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/6024",
   },
   {
   
