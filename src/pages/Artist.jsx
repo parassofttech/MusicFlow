@@ -58,7 +58,7 @@ const Artist = () => {
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-b from-zinc-900 to-black text-white pb-40">
+    <div className="min-h-screen bg-linear-to-b from-zinc-900 to-black text-white pb-40">
       {/* Artist Header */}
       <div className="relative h-80">
         <img
@@ -66,7 +66,7 @@ const Artist = () => {
           alt={artist.name}
           className="w-full h-full object-cover opacity-30"
         />
-        <div className="absolute inset-0 bg-gradient-to-t from-black to-transparent" />
+        <div className="absolute inset-0 bg-linear-to-t from-black to-transparent" />
 
         <div className="absolute bottom-8 left-8">
           <p className="text-sm uppercase text-gray-400">Artist</p>

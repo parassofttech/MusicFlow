@@ -19,7 +19,7 @@ const Home = () => {
     <div className="min-h-screen w-full bg-darkbg text-white pb-32 overflow-x-hidden">
       
       {/* HERO SECTION */}
-      <section className="w-full max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8 pt-12">
+      <section className="w-full max-w-360 mx-auto px-4 sm:px-6 lg:px-8 pt-12">
         <h1 className="text-4xl font-bold mb-4">
           Feel the <span className="text-neon">Music</span>
         </h1>

@@ -65,7 +65,7 @@ const Navbar = () => {
           </div>
 
           {/* SEARCH */}
-          <div className="hidden md:flex lg:w-[320px] sm:w-[200px]">
+          <div className="hidden md:flex lg:w-[320px] sm:w-50">
             <SearchBar />
           </div>
 
@@ -94,7 +94,7 @@ const Navbar = () => {
                 className="
                   px-5 py-2
                   rounded-full
-                  bg-gradient-to-r
+                  bg-linear-to-r
                   from-green-400
                   to-cyan-500
                   text-black
@@ -222,7 +222,7 @@ const Navbar = () => {
               }}
               className="
                 mt-4
-                bg-gradient-to-r
+                bg-linear-to-r
                 from-green-400
                 to-cyan-500
                 text-black

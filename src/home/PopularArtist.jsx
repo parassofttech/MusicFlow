@@ -145,7 +145,7 @@ const PopularArtist = () => {
             whileHover={{ scale: 1.05 }}
             
             onClick={() => navigate(`/artistdetail/${artist.id}`)}
-            className="min-w-[180px] bg-zinc-900/70 rounded-2xl p-4 cursor-pointer group"
+            className="min-w-45 bg-zinc-900/70 rounded-2xl p-4 cursor-pointer group"
           >
             {/* Image */}
             <div className="relative flex justify-center">

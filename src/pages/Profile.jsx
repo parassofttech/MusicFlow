@@ -104,7 +104,7 @@ const Profile = () => {
 
         <button
           onClick={() => navigate("/login")}
-          className="bg-gradient-to-r from-primary to-cyan-500 px-6 py-2 rounded-full text-black font-semibold"
+          className="bg-linear-to-r from-primary to-cyan-500 px-6 py-2 rounded-full text-black font-semibold"
         >
           Login
         </button>

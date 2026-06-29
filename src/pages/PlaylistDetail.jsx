@@ -120,7 +120,7 @@ const PlaylistDetail = () => {
 
 
   return (
-    <div className="min-h-screen bg-gradient-to-b from-zinc-900 to-black text-white px-6 py-10">
+    <div className="min-h-screen bg-linear-to-b from-zinc-900 to-black text-white px-6 py-10">
       {/* 🔹 Header */}
       <div className="flex flex-col md:flex-row gap-6 items-center mb-10">
         <img
