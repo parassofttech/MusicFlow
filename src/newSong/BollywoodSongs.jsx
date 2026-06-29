@@ -179,14 +179,14 @@ const bollywoodSongs = [
   {
     title: "Lo Safar",
     artist: "Jubin Nautiyal",
-    cover: "https://pagalnew.com/coverimages/lo-safar-baaghi2-500-500.jpg",
-    url: "https://example.com/lo-safar.mp3",
+    cover: "https://pagalnew.com/coverimages/Lo-Safar-Baaghi-2-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/2786",
   },
   {
-    title: "Main Royaan (Reels Version)",
+    title: "Main Royaan",
     artist: "Tanveer Evan",
-    cover: "https://pagalnew.com/coverimages/main-royaan-500-500.jpg",
-    url: "https://example.com/main-royaan.mp3",
+    cover: "https://pagalnew.com/coverimages/Maine-Royaan-Tanveer-Evan-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/19762",
   },
   {
     title: "Phir Bhi Tumko Chaahunga",
