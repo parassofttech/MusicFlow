@@ -233,8 +233,8 @@ const bollywoodSongs = [
     title: "Tera Ban Jaunga",
     artist: "Akhil Sachdeva",
     cover:
-      "https://cover.mr-jatt.im/thumb/485638/Lehanga-1.jpg",
-    url: "https://example.com/tera-ban-jaunga.mp3",
+      "https://hindi-cover.djpunjab.app/cover/4tJ4ecRoX1XNPimlqNRZ8w==/charismatic-sasha-shahid-cover-image.webp",
+    url: "https://hindi1.djpunjab.app/load/z-ie5Oh3mLaY2uXwbSZ60A==/Tera%20Ban%20Jaunga%20(From%20Kabir%20Singh).mp3",
   },
   {
   
@@ -242,7 +242,7 @@ const bollywoodSongs = [
     artist: "Arijit Singh",
     cover:
       "https://pagalnew.com/coverimages/Khairiyat-Chhichhore-500-500.jpg",
-    url: "https://example.com/khairiyat.mp3",
+    url: "https://pagalnew.com/128-downloads/2632",
   },
   {
     
@@ -250,7 +250,7 @@ const bollywoodSongs = [
     artist: "Arijit Singh",
     cover:
       "https://pagalnew.com/coverimages/Hawayein-Jab-Harry-Met-Sejal-(Original-Motion-Picture-Soundtrack)-500-500.jpg",
-    url: "https://example.com/hawayein.mp3",
+    url: "https://pagalnew.com/128-downloads/3573",
   },
   {
   
