@@ -151,35 +151,24 @@ const bollywoodSongs = [
     cover: "https://pagalnew.com/coverimages/zinda-banda-jawan-500-500.jpg",
     url: "https://pagalnew.com/128-downloads/42879",
   },
-  {
-    title: "Kala Chashma",
-    artist: "Badshah, Neha Kakkar",
-    cover: "https://pagalnew.com/coverimages/kala-chashma-500-500.jpg",
-    url: "https://example.com/kala-chashma.mp3",
-  },
+  // {
+  //   title: "Kala Chashma",
+  //   artist: "Badshah, Neha Kakkar",
+  //   cover: "https://pagalnew.com/coverimages/kala-chashma-500-500.jpg",
+  //   url: "https://example.com/kala-chashma.mp3",
+  // },
   {
     title: "Dilbar",
     artist: "Neha Kakkar",
     cover: "https://pagalnew.com/coverimages/Dilbar-Satyameva-Jayate-500-500.jpg",
     url: "https://pagalnew.com/128-downloads/2762",
   },
-   {
-    title: "Satranga",
-    artist: "Arijit Singh",
-    cover: "https://pagalnew.com/coverimages/dilbar-remix-500-500.jpg",
-    url: "https://example.com/satranga.mp3",
-  },
-  {
-    title: "Hua Main",
-    artist: "Raghav Chaitanya",
-    cover: "https://pagalnew.com/coverimages/hua-main-animal-500-500.jpg",
-    url: "https://example.com/hua-main.mp3",
-  },
+ 
   {
     title: "Tujhe Kitna Chahne Lage",
     artist: "Arijit Singh",
-    cover: "https://pagalnew.com/coverimages/dilbar-remix-500-500.jpg",
-    url: "https://example.com/tujhe-kitna-chahne-lage.mp3",
+    cover: "https://hindi-cover.djpunjab.app/cover/iRTlg12z6NUbVoAwfiSdpQ==/tujhe-kitna-chahne-lage-from-kabir-singh--cover-image.webp",
+    url: "https://cdnsongs.com/music/data/Hindi_Movies/202605/Top_50_Hindi_Movies_Song/128/Tujhe_Kitna_Chahne_Lage.mp3",
   },
   {
     title: "Bekhayali",
