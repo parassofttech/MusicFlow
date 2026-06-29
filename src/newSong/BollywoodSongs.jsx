@@ -173,8 +173,8 @@ const bollywoodSongs = [
   {
     title: "Bekhayali",
     artist: "Sachet Tandon",
-    cover: "https://pagalnew.com/coverimages/bekhayali-kabir-singh-500-500.jpg",
-    url: "https://example.com/bekhayali.mp3",
+    cover: "https://pagalnew.com/coverimages/Bekhayali-Kabir-Singh-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/2384",
   },
   {
     title: "Lo Safar",
