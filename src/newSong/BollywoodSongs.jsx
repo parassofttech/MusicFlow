@@ -218,7 +218,7 @@ const bollywoodSongs = [
     artist: "Jubin Nautiyal",
     cover:
       "https://pagalnew.com/coverimages/raataan-lambiyan-shershaah-500-500.jpg",
-    url: "https://example.com/raataan-lambiyan.mp3",
+    url: "https://pagalnew.com/128-downloads/19028",
   },
   {
 
@@ -226,7 +226,7 @@ const bollywoodSongs = [
     artist: "Arijit Singh",
     cover:
       "https://pagalnew.com/coverimages/Shayad-Love-Aaj-Kal-500-500.jpg",
-    url: "https://example.com/shayad.mp3",
+    url: "https://pagalnew.com/128-downloads/1890",
   },
   {
 
