@@ -258,7 +258,7 @@ const bollywoodSongs = [
     artist: "Arijit Singh",
     cover:
       "https://pagalnew.com/coverimages/o-bedardeya-tu-jhoothi-main-makkaar-500-500.jpg",
-    url: "https://example.com/o-bedardeya.mp3",
+    url: "https://pagalnew.com/128-downloads/38802",
   },
   {
   
@@ -266,7 +266,7 @@ const bollywoodSongs = [
     artist: "King",
     cover:
       "https://pagalnew.com/coverimages/Maan-Meri-Jaan-Champagne-Talk-500-500.jpg",
-    url: "https://example.com/maan-meri-jaan.mp3",
+    url: "https://pagalnew.com/128-downloads/35703",
   },
 ];
 
