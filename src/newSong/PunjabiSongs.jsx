@@ -62,16 +62,16 @@ const punjabiSongs = [
     title: "Clash",
     artist: "Diljit Dosanjh",
     cover:
-      "https://i.scdn.co/image/ab67616d0000b273d7b3e5a4c4a8f9fcbf1b7a2c",
-    url: "https://example.com/clash.mp3",
+      "https://cover.djpunjab.is/48617/300x700/g.o.a.t-diljit-dosanjh.webp",
+    url: "https://p320.djpunjab.is/data/48/48617/296071/Clash%20-%20Diljit%20Dosanjh.mp3",
   },
   {
     id: "d5",
     title: "Vibe",
     artist: "Diljit Dosanjh",
     cover:
-      "https://i.scdn.co/image/ab67616d0000b2739d7f3c2b1a6e4f5d8c3b7a1e",
-    url: "https://example.com/vibe.mp3",
+      "https://cover.djpunjab.is/59029/300x700/bonafide-gur-sidhu.webp",
+    url: "https://p320.djpunjab.is/data/48/59029/309830/Vibe%20-%20Gur%20Sidhu.mp3",
   },
   {
     id: "d6",
