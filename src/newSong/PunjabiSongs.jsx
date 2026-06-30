@@ -127,8 +127,8 @@ const punjabiSongs = [
     title: "Excuses",
     artist: "AP Dhillon",
     cover:
-      "https://pagalnew.com/coverimages/Excuses-AP-Dhillon-500-500.jpg",
-    url: "https://example.com/excuses.mp3",
+      "https://pagalnew.com/coverimages/Excuses-Ap-Dhillon-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/23347",
   },
   {
     id: "ap2",
