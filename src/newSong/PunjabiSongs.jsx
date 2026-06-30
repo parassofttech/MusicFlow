@@ -118,17 +118,10 @@ const punjabiSongs = [
     title: "Kinni Kinni",
     artist: "Diljit Dosanjh",
     cover:
-      "https://i.scdn.co/image/ab67616d0000b2733d4e5f6a7b8c9d0e1f2a3b4c",
-    url: "https://example.com/kinni-kinni.mp3",
+      "https://pagalnew.com/coverimages/Kinni-Kinni-Ghost-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/43820",
   },
-  {
-    id: "d12",
-    title: "G.O.A.T",
-    artist: "Diljit Dosanjh",
-    cover:
-      "https://i.scdn.co/image/ab67616d0000b2734f8e69b0e4e1b8f4d63f3c29",
-    url: "https://example.com/g-o-a-t.mp3",
-  },
+  
   {
     id: "ap1",
     title: "Excuses",
