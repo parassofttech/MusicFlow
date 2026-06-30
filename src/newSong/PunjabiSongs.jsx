@@ -94,8 +94,8 @@ const punjabiSongs = [
     title: "Laembadgini",
     artist: "Diljit Dosanjh",
     cover:
-      "https://i.scdn.co/image/ab67616d0000b2731c8f7d6e5b4a3c2d1f9e8d7c",
-    url: "https://example.com/laembadgini.mp3",
+      "https://lq.djjohal.com/covers/55078/Laembadgini.jpg",
+    url: "https://dl2.djring.com/sd2.djjohal.com/128/478322/Laembadgini(DJJOhAL.Com).mp3",
   },
   {
     id: "d9",
