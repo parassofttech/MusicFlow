@@ -135,8 +135,8 @@ const punjabiSongs = [
     title: "Insane",
     artist: "AP Dhillon",
     cover:
-      "https://pagalnew.com/coverimages/Insane-AP-Dhillon-500-500.jpg",
-    url: "https://example.com/insane.mp3",
+      "https://cover.djpunjab.is/50071/300x700/insane-ap-dhillon.webp",
+    url: "https://s320.djpunjab.is/data/48/50071/297697/Insane%20-%20AP%20Dhillon.mp3",
   },
   {
     id: "ap3",
