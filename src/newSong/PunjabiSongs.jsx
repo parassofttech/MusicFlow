@@ -78,8 +78,8 @@ const punjabiSongs = [
     title: "Lemonade",
     artist: "Diljit Dosanjh",
     cover:
-      "https://i.scdn.co/image/ab67616d0000b2737b6e5c4d3f2a1b9c8d7e6f5a",
-    url: "https://p320.djpunjab.is/data/48/48617/296084/Born%20To%20Shine%20-%20Diljit%20Dosanjh.mp3",
+      "https://pagalnew.com/coverimages/Lemonade-Drive-Thru-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/30300",
   },
   {
     id: "d7",
