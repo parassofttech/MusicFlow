@@ -110,8 +110,8 @@ const punjabiSongs = [
     title: "Magic",
     artist: "Diljit Dosanjh",
     cover:
-      "https://i.scdn.co/image/ab67616d0000b2732a1b3c4d5e6f7a8b9c0d1e2f",
-    url: "https://example.com/jo-tum-mere-ho.mp",
+      "https://pagalnew.com/coverimages/magic-diljit-dosanjh-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/45822",
   },
   {
     id: "d11",
