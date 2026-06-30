@@ -86,8 +86,8 @@ const punjabiSongs = [
     title: "Do You Know",
     artist: "Diljit Dosanjh",
     cover:
-      "https://pagalnew.com/coverimages/Do-You-Know-Diljit-Dosanjh-500-500.jpg",
-    url: "hhttps://p320.djpunjab.is/data/48/48617/296084/Born%20To%20Shine%20-%20Diljit%20Dosanjh.mp3",
+      "https://cover.mr-jatt.im/thumb/33292/Do-You-Know-1.jpg",
+    url: "https://cdnsongs.com/music/data/Single_Track/201609/Do_You_Know/128/Do_You_Know_1.mp3",
   },
   {
     id: "d8",
