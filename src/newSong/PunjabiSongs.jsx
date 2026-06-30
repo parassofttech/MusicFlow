@@ -102,8 +102,8 @@ const punjabiSongs = [
     title: "Hass Hass",
     artist: "Diljit Dosanjh",
     cover:
-      "https://i.scdn.co/image/ab67616d0000b2738e7d6c5b4a3f2e1d9c8b7a6f",
-    url: "https://example.com/jo-tum-mere-ho.mp",
+      "https://cover.djpunjab.is/54494/300x700/hass-hass-diljit-dosanjh.webp",
+    url: "https://s320.djpunjab.is/data/48/54494/302986/Hass%20Hass%20-%20Diljit%20Dosanjh.mp3",
   },
   {
     id: "d10",
