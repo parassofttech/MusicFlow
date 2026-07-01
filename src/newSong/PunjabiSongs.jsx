@@ -175,8 +175,8 @@ const punjabiSongs = [
     title: "Toxic",
     artist: "AP Dhillon",
     cover:
-      "https://pagalnew.com/coverimages/Toxic-AP-Dhillon-500-500.jpg",
-    url: "https://example.com/toxic.mp3",
+      "https://cover.mr-jatt.im/thumb/490924/Toxic-1.jpg",
+    url: "https://cdnsongs.com/music/data/Single_Track/202010/Toxic/128/Toxic_1.mp3",
   },
   {
     id: "ap8",
