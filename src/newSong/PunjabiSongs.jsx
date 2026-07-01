@@ -168,7 +168,7 @@ const punjabiSongs = [
     artist: "AP Dhillon",
     cover:
       "https://pagalnew.com/coverimages/True-Stories-AP-Dhillon-500-500.jpg",
-    url: "https://example.com/true-stories.mp3",
+    url: "https://pagalnew.com/128-downloads/42378",
   },
   {
     id: "ap7",
