@@ -141,10 +141,10 @@ const punjabiSongs = [
   {
     id: "ap3",
     title: "Brown Munde",
-    artist: "AP Dhillon, Gurinder Gill, Shinda Kahlon",
+    artist: "AP Dhillon, Gurinder Gill",
     cover:
-      "https://pagalnew.com/coverimages/Brown-Munde-AP-Dhillon-500-500.jpg",
-    url: "https://example.com/brown-munde.mp3",
+      "https://pagalnew.com/coverimages/Brown-Munde-Ap-Dhillon-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/25007",
   },
   {
     id: "ap4",
