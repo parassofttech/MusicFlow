@@ -159,8 +159,8 @@ const punjabiSongs = [
     title: "Summer High",
     artist: "AP Dhillon",
     cover:
-      "https://pagalnew.com/coverimages/Summer-High-AP-Dhillon-500-500.jpg",
-    url: "https://example.com/summer-high.mp3",
+      "https://pagalnew.com/coverimages/Summer-High-Ap-Dhillon-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/32124",
   },
   {
     id: "ap6",
