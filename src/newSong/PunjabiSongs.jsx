@@ -151,8 +151,8 @@ const punjabiSongs = [
     title: "With You",
     artist: "AP Dhillon",
     cover:
-      "https://pagalnew.com/coverimages/With-You-AP-Dhillon-500-500.jpg",
-    url: "https://example.com/with-you.mp3",
+      "https://pagalnew.com/images/loading.svg",
+    url: "https://pagalnew.com/128-downloads/43178",
   },
   {
     id: "ap5",
