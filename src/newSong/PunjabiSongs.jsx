@@ -183,8 +183,8 @@ const punjabiSongs = [
     title: "Old Money",
     artist: "AP Dhillon",
     cover:
-      "https://pagalnew.com/coverimages/Old-Money-AP-Dhillon-500-500.jpg",
-    url: "https://example.com/old-money.mp3",
+      "https://pagalnew.com/coverimages/old-money-the-brownprint-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/48791",
   },
   {
     id: "ap9",
