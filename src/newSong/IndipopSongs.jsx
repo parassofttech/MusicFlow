@@ -154,7 +154,7 @@ const indipopSongs = [
     artist: "Anuv Jain",
     cover:
       "https://i.scdn.co/image/ab67616d0000b27311223344556677889900aabb",
-    url: "https://example.com/alag-aasmaan.mp3",
+    url: "https://alag-aasmanme-ghumo.com/alag-aasmaan.mp3",
 },
 {
     id: "i20",
