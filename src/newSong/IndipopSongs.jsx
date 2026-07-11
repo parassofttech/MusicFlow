@@ -162,7 +162,7 @@ const indipopSongs = [
     artist: "Faheem Abdullah",
     cover:
       "https://i.scdn.co/image/ab67616d0000b273223344556677889900aabbcc",
-    url: "https://example.com/ishq.mp3",
+    url: "https://ishq-faheem-abdullah.com/ishq.mp3",
 },
 {
     id: "i21",
