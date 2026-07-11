@@ -235,7 +235,7 @@ const bhojpuriSongs = [
   artist: "Ritesh Pandey",
   cover:
     "https://i.scdn.co/image/ab67616d0000b273e4e4e4e4e4e4e4e4e4e4e4e4",
-  url: "https://example.com/hello-kaun.mp3",
+  url: "https://hellokaunbollrahahaibaandj-kaun.mp3",
 },
 {
   id: "bh30",
@@ -243,7 +243,7 @@ const bhojpuriSongs = [
   artist: "Ritesh Pandey",
   cover:
     "https://i.scdn.co/image/ab67616d0000b273e4e4e4e4e4e4e4e4e4e4e4e4",
-  url: "https://example.com/badnam-kar-dogi.mp3",
+  url: "https://example.com/badnam-teerhamarakar-dogi.mp3",
 },
 {
   id: "bh31",
