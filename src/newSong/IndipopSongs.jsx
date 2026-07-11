@@ -121,7 +121,7 @@ const indipopSongs = [
     title: "Kasoor",
     artist: "Prateek Kuhad",
     cover:
-      "https://i.scdn.co/image/ab67616d0000b273c1d2e3f4051627384950a1b2",
+      "https://i.scdn.co/image/ab67616d0000b273g9840lkfd3457945479w3c1d2e3f4051627384950a1b2",
     url: "https://example.com/jo-tum-mere-ho.mp",
 },
 {
@@ -129,7 +129,7 @@ const indipopSongs = [
     title: "Kho Gaye Hum Kahan",
     artist: "Jasleen Royal",
     cover:
-      "https://i.scdn.co/image/ab67616d0000b273d3e4f50617283940a1b2c3d4",
+      "https://i.scdn.co/image/ab67616d0000b273d3e465465f50617283940a1b2c3d4",
     url: "https://example.com/kho-gaye-hum-kahan.mp3",
 },
 {
