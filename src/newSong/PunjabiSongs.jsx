@@ -285,14 +285,14 @@ const punjabiSongs = [
     title: "MF Gabhru",
     artist: "Karan Aujla",
     cover: "https://example.com/covers/mf-gabhru.jpg",
-    url: "https://example.com/songs/mf-gabhru.mp3",
+    url: "https://examplgabhrudfkjfh985m/songs/mf-gabhru.mp3",
   },
   {
     id: "ka12",
     title: "Daytona",
     artist: "Karan Aujla",
     cover: "https://example.com/covers/daytona.jpg",
-    url: "https://example.com/songs/daytona.mp3",
+    url: "https://dayton.com/songs/daytona.mp3",
   },
 
   // 🎤 Shubh
