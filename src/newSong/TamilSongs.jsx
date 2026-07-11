@@ -186,7 +186,7 @@ const tamilSongs = [
   title: "Kanimaa",
   artist: "Santhosh Narayanan",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273c2c2c2c2c2c2c2c2c2c2c2c2",
+    "https://i.scdn.co/image/https://i.scdn.co/image/ab67616d0000b273b1b1b1b1b1b1b1b1b1b1b1b1",
   url: "https://example.com/kanimaa.mp3",
 },
 {
@@ -194,7 +194,7 @@ const tamilSongs = [
   title: "Chuttamalle",
   artist: "Anirudh Ravichander",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273d3d3d3d3d3d3d3d3d3d3d3d3",
+    "https://i.scdn.co/image/ab67616d0gkdhfkgjdfgkfskd000b273d3d3d3d3d3d3d3d3d3d3d3d3",
   url: "https://example.com/chuttamalle.mp3",
 },
 {
