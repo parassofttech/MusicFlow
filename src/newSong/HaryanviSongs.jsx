@@ -301,7 +301,7 @@ const haryanviSongs = [
   title: "Naam Chale",
   artist: "Vikram Sarkar",
   url: "",
-  cover: ""
+  cover: "https://naam_chale8957dskjfh8t943trre954vb5"
 },
 {
   id: "h30",
