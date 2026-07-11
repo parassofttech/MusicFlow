@@ -294,7 +294,7 @@ const haryanviSongs = [
   title: "Green Flag",
   artist: "Vikram Sarkar",
   url: "https://pagalnew.com/128-downloads/17642",
-  cover: ""
+  cover: "https://greenflagsongforyour7934rfdif"
 },
 {
   id: "h29",
