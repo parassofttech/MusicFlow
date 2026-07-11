@@ -170,7 +170,7 @@ const indipopSongs = [
     artist: "Talwiinder",
     cover:
       "https://i.scdn.co/image/ab67616d0000b273111111111111111111111111",
-    url: "https://example.com/wishes.mp3",
+    url: "https://wishes-tailwinder-song.com/wishes.mp3",
 },
 {
     id: "i22",
