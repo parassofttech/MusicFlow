@@ -212,7 +212,7 @@ const bhojpuriSongs = [
   artist: "Neelkamal Singh",
   cover:
     "https://i.scdn.co/image/ab67616d0000b273e2e2e2e2e2e2e2e2e2e2e2e2",
-  url: "https://example.com/jan-tohar-mummy-kasam.mp3",
+  url: "https://example.com/jan-toharftgyhr56-mummy-kasam.mp3",
 },
 {
   id: "bh27",
@@ -220,7 +220,7 @@ const bhojpuriSongs = [
   artist: "Neelkamal Singh",
   cover:
     "https://i.scdn.co/image/ab67616d0000b273a1a1a1a1a1a1a1a1a1a1a1a1",
-  url: "https://example.com/badnam-kar-dogi.mp3",
+  url: "https://example.com/diltod0kenkv906-kar-dogi.mp3",
 },
 {
   id: "bh28",
