@@ -234,7 +234,7 @@ const indipopSongs = [
     artist: "Shubh",
     cover:
       "https://i.scdn.co/image/ab67616d0000b273999999999999999999999999",
-    url: "https://example.com/one-love.mp3",
+    url: "https://example.comyton.com/songs/daytona.mp3/one-love.mp3",
 },
 {
     id: "i30",
@@ -242,7 +242,7 @@ const indipopSongs = [
     artist: "Shubh",
     cover:
       "https://i.scdn.co/image/ab67616d0000b273101010101010101010101010",
-    url: "https://example.com/still-rollin.mp3",
+    url: "https://example.com/yton.com/songs/daytona.mp3still-rollin.mp3",
 },
 {
     id: "i31",
