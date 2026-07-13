@@ -179,7 +179,7 @@ const tamilSongs = [
   artist: "Anirudh Ravichander",
   cover:
     "https://i.scdn.co/image/ab67616d0000b273b1b1b1b1b1b1b1b1b1b1b1b1",
-  url: "https://example.com/monica.mp3",
+  url: "https://example.com/monyton.com/songs/daytona.mp3ica.mp3",
 },
 {
   id: "t23",
@@ -187,7 +187,7 @@ const tamilSongs = [
   artist: "Santhosh Narayanan",
   cover:
     "https://i.scdn.co/image/https://i.scdn.co/image/ab67616d0000b273b1b1b1b1b1b1b1b1b1b1b1b1",
-  url: "https://example.com/kanimaa.mp3",
+  url: "https://example.com/kanimyton.com/songs/daytona.mp3aa.mp3",
 },
 {
   id: "t24",
@@ -195,7 +195,7 @@ const tamilSongs = [
   artist: "Anirudh Ravichander",
   cover:
     "https://i.scdn.co/image/ab67616d0gkdhfkgjdfgkfskd000b273d3d3d3d3d3d3d3d3d3d3d3d3",
-  url: "https://example.com/chuttamalle.mp3",
+  url: "https://example.com/chuttayton.com/songs/daytona.mp3malle.mp3",
 },
 {
   id: "t25",
