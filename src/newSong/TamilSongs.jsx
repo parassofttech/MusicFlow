@@ -203,7 +203,7 @@ const tamilSongs = [
   artist: "Anirudh Ravichander",
   cover:
     "https://i.scdn.co/image/ab67616d0000b273e4e4e4e4e4e4e4e4e4e4e4e4",
-  url: "https://example.com/fearsong.mp3",
+  url: "https://exampleyton.com/songs/daytona.mp3fggff.com/fearsong.mp3",
 },
 {
   id: "t26",
@@ -211,7 +211,7 @@ const tamilSongs = [
   artist: "Anirudh Ravichander",
   cover:
     "https://i.scdn.co/image/ab67616d0000b273f5f5f5f5f5f5f5f5f5f5f5f5",
-  url: "https://example.com/daavudi.mp3",
+  url: "https://exampledfgrftgerrtgh.dfgretg.g.com/daavudi.mp3",
 },
 {
   id: "t27",
@@ -219,7 +219,7 @@ const tamilSongs = [
   artist: "Anirudh Ravichander",
   cover:
     "https://i.scdn.co/image/ab67616d0000b273a1a1a1a1a1a1a1a1a1a1a1a1",
-  url: "https://example.com/whistlepodu.mp3",
+  url: "https://example.cotyurt.tyuim/whistlepodu.mp3",
 },
 {
   id: "t28",
