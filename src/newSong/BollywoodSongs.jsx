@@ -4,14 +4,29 @@ import { useMusic } from "../context/MusicContext";
 import { ArrowLeft, Play } from "lucide-react";
 
 const bollywoodSongs = [
+   {
   
+    title: "Ucha Lamba Kad Forever  ",
+    artist: "Anand Raaj, Vikram Montrose, Rubai	",
+    cover:
+      "https://pagalnew.com/coverimages/chunnari-chunnari-hai-jawani-toh-ishq-hona-hai-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/53893",
+  },
   {
   
-    title: "Shararat",
-    artist: "Jasmine Sandlas, Shashwat Sachdev",
+    title: "Tujhko  ",
+    artist: "Arijit Singh, Sunidhi Chauhan	",
     cover:
-      "https://pagalnew.com/coverimages/album/musafir-cafe-2026-500-500.jpg",
-    url: "https://pagalnew.com/128-downloads/52706",
+      "https://pagalnew.com/coverimages/tujhko-cocktail-2-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/53817",
+  },
+  {
+  
+    title: "Chunnari Chunnari  ",
+    artist: "IP Singh, Jonita Gandhi",
+    cover:
+      "https://pagalnew.com/coverimages/chunnari-chunnari-hai-jawani-toh-ishq-hona-hai-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/53816",
   },
   {
   
