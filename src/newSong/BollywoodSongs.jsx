@@ -15,11 +15,11 @@ const bollywoodSongs = [
   },
   {
   
-    title: "Bandhu 2.0",
-    artist: "Kavita Sheth and Neeraj Shridhar",
+    title: "Mashooqa  ",
+    artist: "Raghav Chaitanya, Ruaa Kayy 					",
     cover:
       "https://pagalnew.com/coverimages/mashooqa-cocktail-2-500-500.jpg",
-    url: "https://pagalsongz.com/listen/bandhu-2-0.mp3",
+    url: "https://pagalnew.com/128-downloads/53779",
   },
   {
   
