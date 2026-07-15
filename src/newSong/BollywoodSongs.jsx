@@ -18,7 +18,7 @@ const bollywoodSongs = [
     title: "Bandhu 2.0",
     artist: "Kavita Sheth and Neeraj Shridhar",
     cover:
-      "https://southmelody.com/upload_file/4/65/230x230/thumb_6a329636dd76d.webp",
+      "https://pagalnew.com/coverimages/mashooqa-cocktail-2-500-500.jpg",
     url: "https://pagalsongz.com/listen/bandhu-2-0.mp3",
   },
   {
