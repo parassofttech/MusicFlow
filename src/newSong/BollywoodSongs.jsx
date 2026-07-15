@@ -23,18 +23,18 @@ const bollywoodSongs = [
   },
   {
   
-    title: "Shararat",
-    artist: "Jasmine Sandlas, Shashwat Sachdev",
+    title: "Title Track ",
+    artist: "Shaan, Priya Patidar		",
     cover:
-      "https://pagalnew.com/coverimages/shararat-dhurandhar-500-500.jpg",
-    url: "https://pagalnew.com/128-downloads/52706",
+      "https://pagalnew.com/coverimages/title-track-welcome-to-the-jungle-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/53778",
   },{
   
-    title: "Bandhu 2.0",
-    artist: "Kavita Sheth and Neeraj Shridhar",
+    title: "Tera Ho Jau  ",
+    artist: "Stebin Ben, Jonita Gandhi  ",
     cover:
-      "https://southmelody.com/upload_file/4/65/230x230/thumb_6a329636dd76d.webp",
-    url: "https://pagalsongz.com/listen/bandhu-2-0.mp3",
+      "https://pagalnew.com/coverimages/tera-ho-jaun-hai-jawani-toh-ishq-hona-hai-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/53715",
   },
   {
   
