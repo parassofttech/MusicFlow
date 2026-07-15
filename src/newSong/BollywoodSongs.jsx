@@ -5,7 +5,52 @@ import { ArrowLeft, Play } from "lucide-react";
 
 const bollywoodSongs = [
   
+  {
   
+    title: "Shararat",
+    artist: "Jasmine Sandlas, Shashwat Sachdev",
+    cover:
+      "https://pagalnew.com/coverimages/album/musafir-cafe-2026-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/52706",
+  },
+  {
+  
+    title: "Bandhu 2.0",
+    artist: "Kavita Sheth and Neeraj Shridhar",
+    cover:
+      "https://southmelody.com/upload_file/4/65/230x230/thumb_6a329636dd76d.webp",
+    url: "https://pagalsongz.com/listen/bandhu-2-0.mp3",
+  },
+  {
+  
+    title: "Shararat",
+    artist: "Jasmine Sandlas, Shashwat Sachdev",
+    cover:
+      "https://pagalnew.com/coverimages/shararat-dhurandhar-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/52706",
+  },{
+  
+    title: "Bandhu 2.0",
+    artist: "Kavita Sheth and Neeraj Shridhar",
+    cover:
+      "https://southmelody.com/upload_file/4/65/230x230/thumb_6a329636dd76d.webp",
+    url: "https://pagalsongz.com/listen/bandhu-2-0.mp3",
+  },
+  {
+  
+    title: "Humne Wahin Lagaya Dil ",
+    artist: "Badshah, Krish Mondal Kishore Mondal,",
+    cover:
+      "https://pagalnew.com/coverimages/humne-wahin-lagaya-dil-pati-patni-aur-woh-do-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/53695",
+  },{
+  
+    title: "Khasiyat",
+    artist: "Raghav Chaitanya, Jonita Gandhi  ",
+    cover:
+      "https://pagalnew.com/coverimages/khasiyat-chand-mera-dil-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/53694",
+  },
   {
   
     title: "Shararat",
