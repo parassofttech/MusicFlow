@@ -6,37 +6,37 @@ const categories = [
   {
     title: "Bollywood",
     image:
-      "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f",
+      "https://img.magnific.com/premium-psd/3d-gold-bollywood-song-title-text-effect-alpha-background-music-video-thumbnail-art_951594-214.jpg?semt=ais_hybrid&w=740&q=80",
     path: "/songs/bollywood",
   },
   {
     title: "Punjabi",
     image:
-      "https://images.unsplash.com/photo-1511379938547-c1f69419868d",
+      "https://i.ytimg.com/vi/cBkfNPdlx3M/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD1PmJM-WOOBcPO74Of5e10zVuwnQ",
     path: "/songs/punjabi",
   },
   {
     title: "Haryanvi",
     image:
-      "https://images.unsplash.com/photo-1501612780327-45045538702b",
+      "https://c.saavncdn.com/983/Haryanvi-Dj-Songs-Haryanvi-2023-20231215191016-500x500.jpg",
     path: "/songs/haryanvi",
   },
   {
     title: "Bhojpuri",
     image:
-      "https://images.unsplash.com/photo-1487180144351-b8472da7d491",
+      "https://c.saavncdn.com/443/Bhojpuri-New-Song-Bhojpuri-2022-20220620130326-500x500.jpg",
     path: "/songs/bhojpuri",
   },
   {
     title: "Tamil",
     image:
-      "https://images.unsplash.com/photo-1516280440614-37939bbacd81",
+      "https://extragavanza.in/public/uploads/posts/post_1722665913.jpg",
     path: "/songs/tamil",
   },
   {
     title: "IndiPop",
     image:
-      "https://images.unsplash.com/photo-1496293455970-f8581aae0e3b",
+      "https://c.saavncdn.com/editorial/logo/IndipopFavorites2000s_20190129043721.jpg",
     path: "/songs/indipop",
   },
 ];
