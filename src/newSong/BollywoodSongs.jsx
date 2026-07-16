@@ -22,11 +22,11 @@ const bollywoodSongs = [
   },
   {
   
-    title: "Ucha Lamba Kad Forever  ",
-    artist: "Anand Raaj, Vikram Montrose, Rubai	",
+    title: "Deewane Hain  ",
+    artist: "Anand Raaj Anand, Amruta Fadnavis			",
     cover:
-      "https://pagalnew.com/coverimages/chunnari-chunnari-hai-jawani-toh-ishq-hona-hai-500-500.jpg",
-    url: "https://pagalnew.com/128-downloads/53893",
+      "https://pagalnew.com/coverimages/deewane-hain-welcome-to-the-jungle-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/54031",
   },
   {
   
