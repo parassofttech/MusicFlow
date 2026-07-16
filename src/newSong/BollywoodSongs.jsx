@@ -6,11 +6,11 @@ import { ArrowLeft, Play } from "lucide-react";
 const bollywoodSongs = [
   {
   
-    title: "Ucha Lamba Kad Forever  ",
-    artist: "Anand Raaj, Vikram Montrose, Rubai	",
+    title: "Ishq Kameena 2.0  ",
+    artist: "Sonu Nigam, Alka Yagnik, Akasa	",
     cover:
-      "https://pagalnew.com/coverimages/saree-dhamaal-4-500-500.jpg",
-    url: "https://pagalnew.com/128-downloads/53893",
+      "https://pagalnew.com/coverimages/ishq-kameena-2-baby-do-die-do-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/54084",
   },
   {
   
