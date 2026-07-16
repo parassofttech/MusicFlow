@@ -30,19 +30,19 @@ const bollywoodSongs = [
   },
   {
   
-    title: "Tujhko  ",
-    artist: "Arijit Singh, Sunidhi Chauhan	",
+    title: "Qeher   ",
+    artist: "Guru Randhawa			",
     cover:
-      "https://pagalnew.com/coverimages/tujhko-cocktail-2-500-500.jpg",
-    url: "https://pagalnew.com/128-downloads/53817",
+      "https://pagalnew.com/coverimages/qeher-dhamaal-4-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/53989",
   }, 
   {
   
-    title: "Ucha Lamba Kad Forever  ",
-    artist: "Anand Raaj, Vikram Montrose, Rubai	",
+    title: "Chatni 	",
+    artist: "Neelkamal Singh, Mamta Sharma	",
     cover:
-      "https://pagalnew.com/coverimages/chunnari-chunnari-hai-jawani-toh-ishq-hona-hai-500-500.jpg",
-    url: "https://pagalnew.com/128-downloads/53893",
+      "https://pagalnew.com/coverimages/chatni-dhamaal-4-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/53981",
   },
   {
   
