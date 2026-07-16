@@ -6,6 +6,14 @@ import { ArrowLeft, Play } from "lucide-react";
 const bollywoodSongs = [
   {
   
+    title: "Ve Junoon  ",
+    artist: "Subodhh Sharma		",
+    cover:
+      "https://pagalnew.com/coverimages/ve-junoon-awarapan-2-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/54195",
+  },
+  {
+  
     title: "Ishq Kameena 2.0  ",
     artist: "Sonu Nigam, Alka Yagnik, Akasa	",
     cover:
