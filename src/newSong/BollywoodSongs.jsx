@@ -131,13 +131,7 @@ const bollywoodSongs = [
           "https://pagalnew.com/coverimages/chaleya-jawan-500-500.jpg",
         url: "https://pagalnew.com/128-downloads/43094",
   },
-  {
-    title: "Heeriye",
-    artist: "Arijit Singh, Jasleen Royal",
-    cover:
-      "https://pagalnew.com/coverimages/heeriye-arijit-singh-500-500.jpg",
-    url: "https://pagalnew.com/128-downloads/44105",
-  },
+  
   {
     title: "Tum Kya Mile",
     artist: "Arijit Singh, Shreya Ghoshal",

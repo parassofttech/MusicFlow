@@ -5,6 +5,14 @@ import { ArrowLeft, Play } from "lucide-react";
 
 const indipopSongs = [
 {
+    id: "i46",
+    title: "Jawani Iraqi 		",
+    artist: "Honey Singh, Simar Kaur 	",
+    cover:
+      "https://pagalnew.com/coverimages/Jawani-Iraqi-Yo-Yo-Honey-Singh-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/53943",
+  },
+  {
     id: "i1",
     title: "Maan Meri Jaan",
     artist: "King",
