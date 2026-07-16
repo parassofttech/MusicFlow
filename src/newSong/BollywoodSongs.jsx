@@ -4,7 +4,55 @@ import { useMusic } from "../context/MusicContext";
 import { ArrowLeft, Play } from "lucide-react";
 
 const bollywoodSongs = [
-   {
+  {
+  
+    title: "Ucha Lamba Kad Forever  ",
+    artist: "Anand Raaj, Vikram Montrose, Rubai	",
+    cover:
+      "https://pagalnew.com/coverimages/chunnari-chunnari-hai-jawani-toh-ishq-hona-hai-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/53893",
+  },
+  {
+  
+    title: "Tujhko  ",
+    artist: "Arijit Singh, Sunidhi Chauhan	",
+    cover:
+      "https://pagalnew.com/coverimages/tujhko-cocktail-2-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/53817",
+  },
+  {
+  
+    title: "Ucha Lamba Kad Forever  ",
+    artist: "Anand Raaj, Vikram Montrose, Rubai	",
+    cover:
+      "https://pagalnew.com/coverimages/chunnari-chunnari-hai-jawani-toh-ishq-hona-hai-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/53893",
+  },
+  {
+  
+    title: "Tujhko  ",
+    artist: "Arijit Singh, Sunidhi Chauhan	",
+    cover:
+      "https://pagalnew.com/coverimages/tujhko-cocktail-2-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/53817",
+  }, 
+  {
+  
+    title: "Ucha Lamba Kad Forever  ",
+    artist: "Anand Raaj, Vikram Montrose, Rubai	",
+    cover:
+      "https://pagalnew.com/coverimages/chunnari-chunnari-hai-jawani-toh-ishq-hona-hai-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/53893",
+  },
+  {
+  
+    title: "Vallah 	  ",
+    artist: "Harrdy Sandhu, Bayanni				",
+    cover:
+      "https://pagalnew.com/coverimages/vallah-cocktail-2-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/53950",
+  },
+  {
   
     title: "Ucha Lamba Kad Forever  ",
     artist: "Anand Raaj, Vikram Montrose, Rubai	",
