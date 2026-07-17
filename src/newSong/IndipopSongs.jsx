@@ -5,6 +5,22 @@ import { ArrowLeft, Play } from "lucide-react";
 
 const indipopSongs = [
 {
+    id: "i49",
+    title: "Barsaat Na Zaya Karo 	",
+    artist: "Kumar Sanu		",
+    cover:
+      "https://pagalnew.com/coverimages/Barsaat-Na-Zaya-Karo-Mohit-Dogra-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/54204",
+  },
+  {
+    id: "i48",
+    title: "Barsaat Na Zaya Karo 	",
+    artist: "Kumar Sanu		",
+    cover:
+      "https://pagalnew.com/coverimages/Barsaat-Na-Zaya-Karo-Mohit-Dogra-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/54204",
+  },
+  {
     id: "i47",
     title: "Barsaat Na Zaya Karo 	",
     artist: "Kumar Sanu		",
