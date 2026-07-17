@@ -14,11 +14,11 @@ const indipopSongs = [
   },
   {
     id: "i48",
-    title: "Barsaat Na Zaya Karo 	",
-    artist: "Kumar Sanu		",
+    title: "Move Body 	",
+    artist: "Skales, Zahrah S Khan	",
     cover:
-      "https://pagalnew.com/coverimages/Barsaat-Na-Zaya-Karo-Mohit-Dogra-500-500.jpg",
-    url: "https://pagalnew.com/128-downloads/54204",
+      "https://pagalnew.com/coverimages/Move-Body-Skales-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/54199",
   },
   {
     id: "i47",
