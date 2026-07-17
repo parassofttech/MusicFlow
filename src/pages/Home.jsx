@@ -32,8 +32,9 @@ const Home = () => {
       <TrendingNow />
       <PopularArtist/>
       <NewReleases />
-      <Recommended/>
       <Songs/>
+      <Recommended/>
+      
       <RecentlyPlayed />
        
       <MoodBased />
