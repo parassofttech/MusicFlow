@@ -146,7 +146,7 @@ const indipopSongs = [
     artist: "Anuv Jain",
     cover:
       "https://i.scdn.co/image/ab67616d0000b2736cb8d8c7a7b2c2d6e8d0c4f3",
-    url: "https://example.com/baarishein.mp3",
+    url: "https://example.comuhfgj/baarishein.mp3",
 },
 {
     id: "i15",
@@ -154,15 +154,15 @@ const indipopSongs = [
     artist: "Prateek Kuhad",
     cover:
       "https://i.scdn.co/image/ab67616d0000b273g9840lkfd3457945479w3c1d2e3f4051627384950a1b2",
-    url: "https://example.com/jo-tum-mere-ho.mp",
+    url: "https://example.coxcjnvcm/jo-tum-mere-ho.mp",
 },
 {
     id: "i16",
     title: "Kho Gaye Hum Kahan",
     artist: "Jasleen Royal",
     cover:
-      "https://i.scdn.co/image/ab67616d0000b273d3e465465f50617283940a1b2c3d4",
-    url: "https://example.com/kho-gaye-hum-kahan.mp3",
+      "https://i.scdn.co/imajvdfvndfkvdfvdfge/ab67616d0000b273d3e465465f50617283940a1b2c3d4",
+    url: "https://example.kdhfdkfnlkcom/kho-gaye-hum-kahan.mp3",
 },
 {
     id: "i17",
