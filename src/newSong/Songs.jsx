@@ -16,6 +16,12 @@ const categories = [
     path: "/songs/punjabi",
   },
   {
+    title: "IndiPop",
+    image:
+      "https://c.saavncdn.com/editorial/logo/IndipopFavorites2000s_20190129043721.jpg",
+    path: "/songs/indipop",
+  },
+  {
     title: "Haryanvi",
     image:
       "https://c.saavncdn.com/983/Haryanvi-Dj-Songs-Haryanvi-2023-20231215191016-500x500.jpg",
@@ -33,12 +39,7 @@ const categories = [
       "https://extragavanza.in/public/uploads/posts/post_1722665913.jpg",
     path: "/songs/tamil",
   },
-  {
-    title: "IndiPop",
-    image:
-      "https://c.saavncdn.com/editorial/logo/IndipopFavorites2000s_20190129043721.jpg",
-    path: "/songs/indipop",
-  },
+  
 ];
 
 const Songs = () => {

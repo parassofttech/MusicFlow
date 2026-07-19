@@ -31,8 +31,9 @@ const Home = () => {
       {/* SECTIONS */}
       <TrendingNow />
       <PopularArtist/>
-      <NewReleases />
       <Songs/>
+      <NewReleases />
+      
       <Recommended/>
       
       <RecentlyPlayed />
