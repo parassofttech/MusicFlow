@@ -434,14 +434,14 @@ const punjabiSongs = [
     title: "Aroma",
     artist: "Sidhu Moose Wala",
     cover: "https://example.com/covers/aroma.jpg",
-    url: "https://example.com/songs/aroma.mp3",
+    url: "https://example.com/cbfdgsongs/aroma.mp3",
   },
   {
     id: "sm11",
     title: "Everybody Hurts",
     artist: "Sidhu Moose Wala",
     cover: "https://example.com/covers/everybody-hurts.jpg",
-    url: "https://example.com/songs/everybody-hurts.mp3",
+    url: "https://example.com/dgergedrt43songs/everybody-hurts.mp3",
   },
 
   // 🎤 Guru Randhawa
@@ -450,7 +450,7 @@ const punjabiSongs = [
     title: "Lahore",
     artist: "Guru Randhawa",
     cover: "https://pagalnew.com/coverimages/Lahore-Guru-Randhawa-500-500.jpg",
-    url: "https://example.com/songs/lahore.mp3",
+    url: "https://example.com/se43tgerfgdongs/lahore.mp3",
   },
   {
     id: "gr2",
