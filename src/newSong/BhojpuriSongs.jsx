@@ -204,23 +204,23 @@ const bhojpuriSongs = [
   artist: "Neelkamal Singh",
   cover:
     "https://i.scdn.co/image/ab67616d0000b273e1e1e1e1e1e1e1e1e1e1e1e1",
-  url: "https://example.com/heroine.mp3",
+  url: "https://example.comfghdfgd/heroine.mp3",
 },
 {
   id: "bh26",
   title: "Jan Tohar Mummy Kasam",
   artist: "Neelkamal Singh",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273e2e2e2e2e2e2e2e2e2e2e2e2",
-  url: "https://example.com/jan-toharftgyhr56-mummy-kasam.mp3",
+    "https://i.scdn.co/image/abhfhfg67616d0000b273e2e2e2e2e2e2e2e2e2e2e2e2",
+  url: "https://example.comfghfhfg/jan-toharftgyhr56-mummy-kasam.mp3",
 },
 {
   id: "bh27",
   title: "Dil Tod Ke",
   artist: "Neelkamal Singh",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273a1a1a1a1a1a1a1a1a1a1a1a1",
-  url: "https://example.com/diltod0kenkv906-kar-dogi.mp3",
+    "https://i.scdn.co/image/afghfghfgb67616d0000b273a1a1a1a1a1a1a1a1a1a1a1a1",
+  url: "https://example.com/difghfltod0kenkv906-kar-dogi.mp3",
 },
 {
   id: "bh28",
