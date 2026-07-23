@@ -122,7 +122,7 @@ const indipopSongs = [
     artist: "Anuv Jain",
     cover:
       "https://i.scdn.co/image/ab67616d0000b273e0f0f2f1c2a3b4c5d6e7f8a9",
-    url: "https://example.com/jo-tum-mere-ho.mp3",
+    url: "https://example.com/gfhfghcjo-tum-mere-ho.mp3",
 },
 {
     id: "i12",
@@ -130,7 +130,7 @@ const indipopSongs = [
     artist: "Anuv Jain",
     cover:
       "https://i.scdn.co/image/ab67616d0000b273a1b2c3d4e5f60718293a4b5c",
-    url: "https://example.com/husn.mp3",
+    url: "https://example.cvngchfgom/husn.mp3",
 },
 {
     id: "i13",
@@ -162,7 +162,7 @@ const indipopSongs = [
     artist: "Jasleen Royal",
     cover:
       "https://i.scdn.co/imajvdfvndfkvdfvdfge/ab67616d0000b273d3e465465f50617283940a1b2c3d4",
-    url: "https://example.kdhfdkfnlkcom/kho-gaye-hum-kahan.mp3",
+    url: "https://example.kdhfmghdkfnlkcom/kho-gaye-hum-kahan.mp3",
 },
 {
     id: "i17",
@@ -178,7 +178,7 @@ const indipopSongs = [
     artist: "Mismatched OST",
     cover:
       "https://i.scdn.co/image/ab67616d0000b273f60718293a4b5c6d7e8f90123",
-    url: "https://example.com/aise-kyun.mp3",
+    url: "https://example.coghjfgdhgfm/aise-kyun.mp3",
 },
 {
     id: "i19",
