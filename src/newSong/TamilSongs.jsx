@@ -235,23 +235,23 @@ const tamilSongs = [
   artist: "Vijay",
   cover:
     "https://i.scdn.co/image/ab67616d0000b273c3c3c3c3c3c3c3c3c3c3c3c3",
-  url: "https://example.com/ranjithame.mp3",
+  url: "https://example.comvcbhfgb/ranjithame.mp3",
 },
 {
   id: "t30",
   title: "Chaleya (Tamil Version)",
   artist: "Arijit Singh",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273d4d4d4d4d4d4d4d4d4d4d4d4",
-  url: "https://example.com/chaleyatamil.mp3",
+    "https://i.scdn.co/image/abcvb67616d0000b273d4d4d4d4d4d4d4d4d4d4d4d4",
+  url: "https://example.comcvbcfxb/chaleyatamil.mp3",
 },
 {
   id: "t31",
   title: "Jolly O Gymkhana",
   artist: "Vijay",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273e5e5e5e5e5e5e5e5e5e5e5e5",
-  url: "https://example.com/jollyogymkhana.mp3",
+    "https://i.scdn.co/imagecvbcv b/ab67616d0000b273e5e5e5e5e5e5e5e5e5e5e5e5",
+  url: "https://example.comcbvc bf/jollyogymkhana.mp3",
 },
 {
   id: "t32",
@@ -259,7 +259,7 @@ const tamilSongs = [
   artist: "Sai Abhyankkar",
   cover:
     "https://i.scdn.co/image/ab67616d0000b273c9c9c9c9c9c9c9c9c9c9c9c9",
-  url: "https://example.com/katchisera.mp3",
+  url: "https://example.com/vbnv ckatchisera.mp3",
 },
 {
   id: "t33",
