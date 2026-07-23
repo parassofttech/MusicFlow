@@ -314,22 +314,22 @@ const haryanviSongs = [
   id: "h31",
   title: "Ji Laage Babya Mai",
   artist: "Unknown",
-  url: "",
-  cover: "https://i.scdn.co/image/ab67616d0000b273d6cbf6a5a9c95b2c98b5eb2f"
+  url: "fghgf",
+  cover: "https://i.scdn.co/imfhfdgage/ab67616d0000b273d6cbf6a5a9c95b2c98b5eb2f"
 },
 {
   id: "h32",
   title: "Bhola Milega Haridwar Me",
   artist: "Unknown",
-  url: "",
-  cover: ""
+  url: "dfgvdfgxfdgd",
+  cover: "hrtgsfd"
 },
 {
   id: "h33",
   title: "Mard",
   artist: "Masoom Sharma",
-  url: "",
-  cover: "https://i.scdn.co/image/ab67616d0000b273d6cbf6a5a9c95b2c98b5eb2f"
+  url: "dfgfdsgbxdfvg",
+  cover: "https://i.scdn.co/imafgchgge/ab67616d0000b273d6cbf6a5a9c95b2c98b5eb2f"
 }
 
 ];
