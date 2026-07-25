@@ -491,15 +491,15 @@ const punjabiSongs = [
     id: "gr7",
     title: "Designer",
     artist: "Guru Randhawa",
-    cover: "https://example.com/covers/designer.jpg",
-    url: "https://example.com/songs/designer.mp3",
+    cover: "https://example.com/coversfghrtr/designer.jpg",
+    url: "https://example.com/songs/hdrtyhrtdesigner.mp3",
   },
   {
     id: "gr8",
     title: "Black",
     artist: "Guru Randhawa",
-    cover: "https://example.com/covers/black.jpg",
-    url: "https://example.com/songs/black.mp3",
+    cover: "https://example.com/coverdyhtdrgs/black.jpg",
+    url: "https://example.com/songs/fhdtrblack.mp3",
   },
   // 🎤 Jass Manak
   {
