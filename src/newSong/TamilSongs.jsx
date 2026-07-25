@@ -258,24 +258,24 @@ const tamilSongs = [
   title: "Katchi Sera",
   artist: "Sai Abhyankkar",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273c9c9c9c9c9c9c9c9c9c9c9c9",
-  url: "https://example.com/vbnv ckatchisera.mp3",
+    "https://i.scdn.co/image/ab67616d0000b273fggfc9c9c9c9c9c9c9c9c9c9c9c9",
+  url: "https://example.com/vbnghnghckatchisera.ghrtgfhrfmp3",
 },
 {
   id: "t33",
   title: "Aasa Kooda",
   artist: "Sai Abhyankkar",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273a7a7a7a7a7a7a7a7a7a7a7a7",
-  url: "https://example.com/aasakooda.mp3",
+    "https://i.scdn.co/image/ab67616d0000b27gfhfg3a7a7a7a7a7a7a7a7a7a7a7a7",
+  url: "https://example.com/aasakooda.mpcvbnfgh3",
 },
 {
   id: "t34",
   title: "Inimel",
   artist: "Shruti Haasan",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273c9c9c9c9c9c9c9c9c9c9c9c9",
-  url: "https://example.com/inimel.mp3",
+    "https://i.scdn.co/image/ab67616d0000bgfhg273c9c9c9c9c9c9c9c9c9c9c9c9",
+  url: "https://example.com/inimelvcbvhfh.mp3",
 },
 {
   id: "t35",
