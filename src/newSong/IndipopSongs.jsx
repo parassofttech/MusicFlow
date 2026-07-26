@@ -186,7 +186,7 @@ const indipopSongs = [
     artist: "Anuv Jain",
     cover:
       "https://i.scdn.co/image/ab67616d0000b27311223344556677889900aabb",
-    url: "https://alag-aasmanme-ghumo.com/alag-aasmaan.mp3",
+    url: "https://alag-aasmanme-ghumo.com/alafgbfgg-aasmaan.mp3",
 },
 {
     id: "i20",
@@ -209,7 +209,7 @@ const indipopSongs = [
     title: "Dil Nu",
     artist: "AP Dhillon",
     cover:
-      "https://i.scdn.co/image/ab67616d0000b273222222222222222222222222",
+      "https://i.scdn.co/image/ab67616d0000b273fdsgerfsf222222222222222222222222",
     url: "https://example.com/dil-nu.mp3",
 },
 {
@@ -217,16 +217,16 @@ const indipopSongs = [
     title: "Excuses",
     artist: "AP Dhillon",
     cover:
-      "https://i.scdn.co/image/ab67616d0000b273333333333333333333333333",
-    url: "https://example.com/excuses.mp3",
+      "https://i.scdn.co/image/ab67616d0000b273dgdfgvvf333333333333333333333333",
+    url: "https://example.com/excusedfgvdfs.mp3",
 },
 {
     id: "i24",
     title: "Brown Munde",
     artist: "AP Dhillon",
     cover:
-      "https://i.scdn.co/image/ab67616d0000b273444444444444444444444444",
-    url: "https://example.com/brown-munde.mp3",
+      "https://i.scdn.co/image/ab67616d0000fdfvb273444444444444444444444444",
+    url: "https://example.com/brown-mundbxdfvbvbce.mp3",
 },
 {
     id: "i25",
