@@ -228,30 +228,30 @@ const bhojpuriSongs = [
   artist: "Neelkamal Singh",
   cover:
     "https://i.scdn.co/image/ab67616d0000b273e4e4e4e4e4e4e4e4e4e4e4e4",
-  url: "https://example.com/chumma-wali-duniya.mp3",
+  url: "https://example.com/chumma-walihbfg-duniya.mp3",
 },{
   id: "bh29",
   title: "Hello Kaun",
   artist: "Ritesh Pandey",
   cover:
     "https://i.scdn.co/image/ab67616d0000b273e4e4e4e4e4e4e4e4e4e4e4e4",
-  url: "https://hellokaunbollrahahaibaandj-kaun.mp3",
+  url: "https://hellokaunbollrahahaibafghfhgandj-kaun.mp3",
 },
 {
   id: "bh30",
   title: "Teer Hamra Karejwa Ke Par",
   artist: "Ritesh Pandey",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273e4e4e4e4e4e4e4e4e4e4e4e4",
-  url: "https://example.com/badnam-teerhamarakar-dogi.mp3",
+    "https://i.scdn.co/image/ab67616dfghfg0000hfghfghb273e4e4e4e4e4e4e4e4e4e4e4e4",
+  url: "https://example.com/badnam-teefghfgrhamarakar-dogi.mp3",
 },
 {
   id: "bh31",
   title: "Jaan Lebu Ka Ho",
   artist: "Ritesh Pandey",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273e4e4e4e4e4e4e4e4e4e4e4e4",
-  url: "https://example.com/jaan-lebu-ka-ho.mp3",
+    "https://i.scdn.co/image/ab67616d00fghfg00b273e4e4e4e4e4e4e4e4e4e4e4e4",
+  url: "https://example.com/jaan-lebufghfghf-ka-ho.mp3",
 },
 
 {
