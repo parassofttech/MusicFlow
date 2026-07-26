@@ -274,31 +274,31 @@ const tamilSongs = [
   title: "Inimel",
   artist: "Shruti Haasan",
   cover:
-    "https://i.scdn.co/image/ab67616d0000bgfhg273c9c9c9c9c9c9c9c9c9c9c9c9",
-  url: "https://example.com/inimelvcbvhfh.mp3",
+    "https://i.scdn.co/image/ab67616d0fghfg000bgfhg273c9c9c9c9c9c9c9c9c9c9c9c9",
+  url: "https://example.com/inimelvcbfthfgvhfh.mp3",
 },
 {
   id: "t35",
   title: "Kaathu Mela",
   artist: "Paal Dabba",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273c9c9c9c9c9c9c9c9c9c9c9c9",
-  url: "https://example.com/kaathumela.mp3",
+    "https://i.scdn.co/image/ab67616d0000fghfgb273c9c9c9c9c9c9c9c9c9c9c9c9",
+  url: "https://example.com/kaathumegfhfghfhla.mp3",
 },
 {
   id: "t36",
   title: "Adangaatha Asuran",
   artist: "Raayan",
   cover:
-    "https://i.scdn.co/image/https://i.scdn.co/image/ab67616d0000b273a111a111a111a111a111a111",
-  url: "https://example.com/adangaathaasuran.mp3",
+    "https://i.scdn.co/image/https://i.sfghbfgcdn.co/image/ab67616d0000b273a111a111a111a111a111a111",
+  url: "https://example.com/adangaathbcvbfcbaasuran.mp3",
 },
 {
   id: "t37",
   title: "Hunter Vantaar",
   artist: "Vettaiyan",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273e1e1e1e1e1e1e1e1e1e1e1e1",
+    "https://i.scdn.co/image/ab67616d000vbgc0b273e1e1e1e1e1e1e1e1e1e1e1e1",
   url: "https://example.com/huntervantaar.mp3",
 },
 {
