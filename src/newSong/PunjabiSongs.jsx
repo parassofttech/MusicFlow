@@ -535,14 +535,14 @@ const punjabiSongs = [
     title: "Rabb Wangu",
     artist: "Jass Manak",
     cover: "https://pagalnew.com/coverigfhnfgbmages/Lehanga-Jass-Manak-500-500.jpg",
-    url: "https://example.com/rabb-wanvbgn vgn fvgu.mp3",
+    url: "https://example.com/rabb-wanvbgnghjhvgnghfgfvgu.mp3",
   },
   {
     id: "jm6",
     title: "Shopping",
     artist: "Jass Manak",
-    cover: "https://i.scdn.co/image/ab67616d0000b273e8d7c6b5a4f3e2d1c0b9a8f7",
-    url: "https://example.com/shopping.mp3",
+    cover: "https://i.scdn.co/image/ab67616dfgh0000b273e8d7c6b5a4f3e2d1c0b9a8f7",
+    url: "https://example.com/shoppingfghfdh.mp3",
   },
 
   // 🎤 Harrdy Sandhu
@@ -550,8 +550,8 @@ const punjabiSongs = [
     id: "hs1",
     title: "Naah",
     artist: "Harrdy Sandhu",
-    cover: "https://pagalnew.com/coverimages/Naah-Harrdy-Sandhu-500-500.jpg",
-    url: "https://example.com/naah.mp3",
+    cover: "https://pagalnew.com/coverimagegfhs/Naah-Haghrrdy-Sandhu-500-500.jpg",
+    url: "https://example.com/naafghfghghh.mp3",
   },
   {
     id: "hs2",
