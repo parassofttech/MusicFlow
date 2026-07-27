@@ -557,15 +557,15 @@ const punjabiSongs = [
     id: "hs2",
     title: "Soch",
     artist: "Harrdy Sandhu",
-    cover: "https://pagalnew.com/coverimages/Soch-Harrdy-Sandhu-500-500.jpg",
-    url: "https://example.com/soch.mp3",
+    cover: "https://pagalnew.com/coverimages/Socghgfh-Harrdy-Sandhu-500-500.jpg",
+    url: "https://example.com/soch.cbvcbmp3",
   },
   {
     id: "hs3",
     title: "Bijlee Bijlee",
     artist: "Harrdy Sandhu",
     cover: "https://pagalnew.com/coverimages/Bijlee-Bijlee-Harrdy-Sandhu-500-500.jpg",
-    url: "https://example.com/bijlee-bijlee.mp3",
+    url: "https://example.com/bijlee-bijlgfhfghee.mp3",
   },
   {
     id: "hs4",
