@@ -225,24 +225,24 @@ const indipopSongs = [
     title: "Brown Munde",
     artist: "AP Dhillon",
     cover:
-      "https://i.scdn.co/image/ab67616d0000fdfvb273444444444444444444444444",
-    url: "https://example.com/brown-mundbxdfvbvbce.mp3",
+      "https://i.scdn.co/image/ab67616d0dfgfdg000fdfvb273444444444444444444444444",
+    url: "https://example.com/brodfgwn-mundbxdfvbvbce.mp3",
 },
 {
     id: "i25",
     title: "Insane",
     artist: "AP Dhillon",
     cover:
-      "https://i.scdn.co/image/ab67616d0000b273555555555555555555555555",
-    url: "https://example.com/insane.mp3",
+      "https://i.scdn.co/image/ab67616d0000bdfgdg273555555555555555555555555",
+    url: "https://example.com/insane.dfgdfgmp3",
 },
 {
     id: "i26",
     title: "Winning Speech",
     artist: "Karan Aujla",
     cover:
-      "https://i.scdn.co/image/ab67616d0000b273666666666666666666666666",
-    url: "https://example.com/winning-speech.mp3",
+      "https://i.scdn.co/image/ab67616d0000b2736dfgdfg66666666666666666666666",
+    url: "https://example.com/winning-speech.dfgdgmp3",
 },
 {
     id: "i27",
