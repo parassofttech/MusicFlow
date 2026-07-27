@@ -300,35 +300,35 @@ const haryanviSongs = [
   id: "h29",
   title: "Naam Chale",
   artist: "Vikram Sarkar",
-  url: "https://song od naam chale usrldk",
+  url: "https://songvghgnaamhchale usrldk",
   cover: "https://naam_chale8957dskjfh8t943trre954vb5"
 },
 {
   id: "h30",
   title: "Ishq Bawla (Soft Version)",
   artist: "Dhanda Nyoliwala",
-  url: "httpsdsgjdfg453tergdfb.",
-  cover: "https://i.scdn.co/image/ab67616d000tujkyh0b273d6cbf6a5a9c95b2c98b5eb2f"
+  url: "httpsdsgjdfg45fghfgh3tergdfb.",
+  cover: "https://i.scdn.co/ghfhimage/ab67616d000tujkyh0b273d6cbf6a5a9c95b2c98b5eb2f"
 },
 {
   id: "h31",
   title: "Ji Laage Babya Mai",
   artist: "Unknown",
-  url: "fghgftyujhtyf",
-  cover: "https://i.scdn.co/imfhfdgage/ab67616d00hjmghjg00b273d6cbf6a5a9c95b2c98b5eb2f"
+  url: "fghgftyujhfghfghtyf",
+  cover: "https://i.sfghcdn.co/imfhfdgage/ab67616d00hjmghjg00b273d6cbf6a5a9c95b2c98b5eb2f"
 },
 {
   id: "h32",
   title: "Bhola Milega Haridwar Me",
   artist: "Unknown",
-  url: "dfgvdfgxtyujtfyufdgd",
-  cover: "hrtgsfd"
+  url: "dfgvdffgggxtyufghjgjtfyufdgd",
+  cover: "hrtgsghfghfghfd"
 },
 {
   id: "h33",
   title: "Mard",
   artist: "Masoom Sharma",
-  url: "dfgfdsgbxdfvg",
+  url: "dfgfdsgbxdffghfhfghvg",
   cover: "https://i.scdn.co/imafgchgge/ab67616d0000b273d6cbf6a5a9c95b2c98b5eb2f"
 }
 
