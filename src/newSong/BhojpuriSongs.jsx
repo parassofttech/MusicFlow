@@ -275,16 +275,16 @@ const bhojpuriSongs = [
   title: "DJ Remix Bhojpuri Mashup 2025",
   artist: "Various Artists",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273a3a3a3a3a3a3a3a3a3a3a3a3",
-  url: "https://example.com/bhojpuri-mashup-2025.mp3",
+    "https://i.scdn.co/image/ab67616d0jhgjgbk000b273a3a3a3a3a3a3a3a3a3a3a3a3",
+  url: "https://example.com/bhojpuri-masjgfjhhup-2025.mp3",
 },
 {
   id: "bh35",
   title: "Bhojpuri Nonstop Party Mix",
   artist: "DJ Mix",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273a4a4a4a4a4a4a4a4a4a4a4a4",
-  url: "https://example.com/nonstop-party-mix.mp3",
+    "https://i.scdn.co/image/ab67616d0000b273a4ughujgjka4a4a4a4a4a4a4a4a4a4a4",
+  url: "https://example.com/nonstop-partyuygfjkbkj-mix.mp3",
 },
 ];
 
