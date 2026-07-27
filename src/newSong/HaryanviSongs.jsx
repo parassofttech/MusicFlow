@@ -229,8 +229,8 @@ const haryanviSongs = [
   title: "Sharp Shooter",
   artist: "Masoom Sharma",
  cover:
-      "https://i.scdn.co/image/ab67616d0000b273d6cbf6a5a9c95b2c98b5eb2f",
-    url: "https://pagalnew.com/128-downloads/17642",
+      "https://i.scdn.co/image/ab676tghfgbh16d0000b273d6cbf6a5a9c95b2c98b5eb2f",
+    url: "https://pagalnew.com/128-downhgfhloads/17642",
 },
 {
   id: "h20",
@@ -238,14 +238,14 @@ const haryanviSongs = [
   artist: "Dhanda Nyoliwala",
   cover:
       "https://i.scdn.co/image/ab67616d0000b273d6cbf6a5a9c95b2c98b5eb2f",
-    url: "https://pagalnew.com/128-downloads/17642",
+    url: "https://pagalnew.com/128-downloadfghfdghs/17642",
 },
 {
   id: "h21",
   title: "Ego Killer",
   artist: "Dhanda Nyoliwala",
-  url: "https://pagalnew.com/128-downloads/1764",
-  cover: "https://i.scdn.co/image/ab67616d0000b273d6cbf6a5a9c95b2c98b5eb2f"
+  url: "https://pagalnew.com/128-downloghfads/1764",
+  cover: "https://i.scdn.co/image/ab67616d0fghfgh000b273d6cbf6a5a9c95b2c98b5eb2f"
 },
 {
   id: "h22",
@@ -300,7 +300,7 @@ const haryanviSongs = [
   id: "h29",
   title: "Naam Chale",
   artist: "Vikram Sarkar",
-  url: "https://songvghgnaamhchale usrldk",
+  url: "https://songvghgnaamchale usrldk",
   cover: "https://naam_chale8957dskjfh8t943trre954vb5"
 },
 {
