@@ -299,23 +299,23 @@ const tamilSongs = [
   artist: "Vettaiyan",
   cover:
     "https://i.scdn.co/image/ab67616d000vbgc0b273e1e1e1e1e1e1e1e1e1e1e1e1",
-  url: "https://example.com/huntervantaar.mp3",
+  url: "https://example.com/huntghjgervantaar.mp3",
 },
 {
   id: "t38",
   title: "Peelings (Pushpa 2 Tamil Version)",
   artist: "DSP",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273a9a9a9a9a9a9a9a9a9a9a9a9",
-  url: "https://example.com/peelings.mp3",
+    "https://i.scdn.co/image/ab676ghjnghj16d0000b273a9a9a9a9a9a9a9a9a9a9a9a9",
+  url: "https://example.com/peelvbnings.mp3",
 },
 {
   id: "t39",
   title: "Anbe Peranbe (Re-trending Reels)",
   artist: "A.R. Rahman",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273c9c9c9c9c9c9c9c9c9c9c9c9",
-  url: "https://example.com/kaathumela.mp3",
+    "https://i.scdn.co/image/ab67vgfhjgn616d0000b273c9c9c9c9c9c9c9c9c9c9c9c9",
+  url: "https://example.com/kaathughfgthfghmela.mp3",
 },
 {
   id: "t40",
