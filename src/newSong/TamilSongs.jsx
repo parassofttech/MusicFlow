@@ -323,14 +323,14 @@ const tamilSongs = [
   artist: "Dhanush, Anirudh Ravichander",
   cover:
     "https://i.scdn.co/image/ab67616d0000b273b222b222b222b222b222b222",
-  url: "https://example.com/mayakkama-kalakkama.mp3",
+  url: "https://example.com/mayakkama-kfghgalakkama.mp3",
 },
 {
   id: "t41",
   title: "Nira (Takkar)",
   artist: "Sid Sriram, Gautham Vasudev Menon",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273c9c9c9c9c9c9c9c9c9c9c9c9",
+    "https://i.scdn.co/image/ab67616d000fhfgh0b273c9c9c9c9c9c9c9c9c9c9c9c9",
   url: "https://example.com/kaathumela.mp3",
 },
 {
@@ -338,8 +338,8 @@ const tamilSongs = [
   title: "Usura Uruvi (Lover)",
   artist: "Sean Roldan",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273d444d444d444d444d444d444",
-  url: "https://example.com/usura-uruvi.mp3",
+    "https://i.scdn.co/image/ab67616d00fghfgh00b273d444d444d444d444d444d444",
+  url: "https://example.com/usura-urufghfgvi.mp3",
 },
 {
   id: "t43",
