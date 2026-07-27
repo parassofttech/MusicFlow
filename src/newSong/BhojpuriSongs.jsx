@@ -250,8 +250,8 @@ const bhojpuriSongs = [
   title: "Jaan Lebu Ka Ho",
   artist: "Ritesh Pandey",
   cover:
-    "https://i.scdn.co/image/ab67616d00fghfg00b273e4e4e4e4e4e4e4e4e4e4e4e4",
-  url: "https://example.com/jaan-lebufghfghf-ka-ho.mp3",
+    "https://i.scdn.co/image/ab67616dsfgdfgd00fghfg00b273e4e4e4e4e4e4e4e4e4e4e4e4",
+  url: "https://example.com/jaan-lebufgghdfghfghf-ka-ho.mp3",
 },
 
 {
@@ -259,8 +259,8 @@ const bhojpuriSongs = [
   title: "Badnam Kar Dogi",
   artist: "Wave Music",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273a1a1a1a1a1a1a1a1a1a1a1a1",
-  url: "https://example.com/badnam-kar-dogi.mp3",
+    "https://i.scdn.co/image/ab67616d0fghfgh000b273a1a1a1a1a1a1a1a1a1a1a1a1",
+  url: "https://example.com/badnam-dfgdfghfghfkar-dogi.mp3",
 },
 {
   id: "bh33",
@@ -268,7 +268,7 @@ const bhojpuriSongs = [
   artist: "Wave Music",
   cover:
     "https://i.scdn.co/image/ab67616d0000b273a2a2a2a2a2a2a2a2a2a2a2a2",
-  url: "https://example.com/jawani-tohar-jhal-jhal-jhala.mp3",
+  url: "https://example.com/jawani-tdfgsdfohar-jhal-jhal-jhala.mp3",
 },
 {
   id: "bh34",
