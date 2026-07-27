@@ -250,7 +250,7 @@ const indipopSongs = [
     artist: "Karan Aujla",
     cover:
       "https://i.scdn.co/image/ab67616d0000b273777777777777777777777777",
-    url: "https://example.com/softly.mp3",
+    url: "https://example.com/ghjfghsoftly.mp3",
 },
 {
     id: "i28",
@@ -258,15 +258,15 @@ const indipopSongs = [
     artist: "Karan Aujla",
     cover:
       "https://i.scdn.co/image/ab67616d0000b273888888888888888888888888",
-    url: "https://example.com/players.mp3",
+    url: "https://example.com/plgfhfghayers.mp3",
 },
 {
     id: "i29",
     title: "One Love",
     artist: "Shubh",
     cover:
-      "https://i.scdn.co/image/ab67616d0000b273999999999999999999999999",
-    url: "https://example.comyton.com/songs/daytona.mp3/one-love.mp3",
+      "https://i.scdn.co/image/ab67616d0000b273ghfgh999999999999999999999999",
+    url: "https://example.comyton.com/songs/daytona.mp3/gfhfone-love.mp3",
 },
 {
     id: "i30",
