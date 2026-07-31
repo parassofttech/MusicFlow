@@ -6,6 +6,14 @@ import { ArrowLeft, Play } from "lucide-react";
 const bollywoodSongs = [
   {
   
+    title: "Yeh Awarapan ",
+    artist: "Arihit Singh		",
+    cover:
+      "https://pagalnew.com/coverimages/yeh-awarapan-awarapan-2-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/54291",
+  },
+  {
+  
     title: "Ve Junoon  ",
     artist: "Subodhh Sharma		",
     cover:
