@@ -5,7 +5,7 @@ import { ArrowLeft, Play } from "lucide-react";
 
 const indipopSongs = [
 {
-    id: "i49",
+    id: "i50",
     title: "Barsaat Na Zaya Karo 	",
     artist: "Kumar Sanu		",
     cover:
@@ -13,12 +13,20 @@ const indipopSongs = [
     url: "https://pagalnew.com/128-downloads/54204",
   },
   {
-    id: "i48",
+    id: "i49",
     title: "Move Body 	",
     artist: "Skales, Zahrah S Khan	",
     cover:
       "https://pagalnew.com/coverimages/Move-Body-Skales-500-500.jpg",
     url: "https://pagalnew.com/128-downloads/54199",
+  },
+  {
+    id: "i48",
+    title: "God Style	",
+    artist: "Yo Yo Honey Singh	",
+    cover:
+      "https://pagalnew.com/coverimages/GOD-STYLE-Yo-Yo-Honey-Singh-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/54071",
   },
   {
     id: "i47",
