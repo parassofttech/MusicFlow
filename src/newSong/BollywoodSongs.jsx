@@ -25,16 +25,16 @@ const bollywoodSongs = [
     title: "Yeh Awarapan ",
     artist: "Arihit Singh		",
     cover:
-      "https://pagalnew.com/coverimages/yeh-awarapan-awarapan-2-500-500.jpg",
+      "https://pagalnew.com/coverimages/Khol-Pinjara-Maa-Behen-500-500.jpg",
     url: "https://pagalnew.com/128-downloads/54291",
   },
   {
   
-    title: "Yeh Awarapan ",
-    artist: "Arihit Singh		",
+    title: "Khol Pinjara 	",
+    artist: "Akashdeep Sengupta, Pooja Tiwari			",
     cover:
-      "https://pagalnew.com/coverimages/yeh-awarapan-awarapan-2-500-500.jpg",
-    url: "https://pagalnew.com/128-downloads/54291",
+      "https://pagalnew.com/coverimages/Khol-Pinjara-Maa-Behen-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/54052",
   },
   {
   
