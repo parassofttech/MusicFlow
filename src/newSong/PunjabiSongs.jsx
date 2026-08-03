@@ -191,24 +191,24 @@ const punjabiSongs = [
     title: "Dil Nu",
     artist: "AP Dhillon",
     cover:
-      "https://pagalnew.com/coverimages/Dil-Nu-AP-Dhillon-500-500.jpg",
-    url: "https://example.com/dil-nu.mp3",
+      "https://pagalnew.com/coverimages/Dil-Nu-AP-Dhillon-500-50dfgd0.jpg",
+    url: "https://example.com/dil-nudfgsdmp3",
   },
   {
     id: "ap10",
     title: "STFU",
     artist: "AP Dhillon",
     cover:
-      "https://pagalnew.com/coverimages/STFU-AP-Dhillon-500-500.jpg",
-    url: "https://example.com/stfu.mp3",
+      "https://pagalnew.com/coverimages/STFU-AP-Dhillon-500-500.jdfgpg",
+    url: "https://example.com/stfu.mdgfdp3",
   },
   {
     id: "ap11",
     title: "Just Saying",
     artist: "AP Dhillon",
     cover:
-      "https://pagalnew.com/coverimages/Just-Saying-AP-Dhillon-500-500.jpg",
-    url: "https://example.com/just-saying.mp3",
+      "https://pagalnew.com/coverimages/Just-Saying-AP-Dhillon-500-dfg500.jpg",
+    url: "https://example.com/justdf-saying.mp3",
   },
   {
     id: "ka1",
