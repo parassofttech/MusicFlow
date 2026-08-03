@@ -1,16 +1,98 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/MusicFlow_Logo.png" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>MusicFlow</title>
-  </head>
-  <body>
-    <div id="root"></div>
-    <div id="modal-root"></div>
-    <script type="module" src="/src/main.jsx"></script>
-    <script type="text/javascript">
+<head>
+  <!-- Basic -->
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0, maximum-scale=5.0"
+  />
+
+  <!-- Title -->
+  <title>
+    MusicFlow - Listen Free Songs Online
+  </title>
+
+  <!-- SEO -->
+  <meta
+    name="description"
+    content="MusicFlow is a modern music streaming platform where you can explore Bollywood, Punjabi, Haryanvi, Bhojpuri, Tamil, and IndiePop songs. Discover trending music, artists, playlists, and enjoy unlimited listening."
+  />
+
+  <meta
+    name="keywords"
+    content="MusicFlow, Music App, Online Music, Bollywood Songs, Punjabi Songs, Haryanvi Songs, Bhojpuri Songs, Tamil Songs, IndiePop Songs, Trending Songs, Free Music, Latest Songs 2026"
+  />
+
+  <meta name="author" content="MusicFlow" />
+  <!-- <meta name="robots" content="index, follow" /> -->
+  <meta name="theme-color" content="#0f172a" />
+  <meta name="application-name" content="MusicFlow" />
+
+  <!-- Canonical -->
+  <link rel="canonical" href="https://musicflow-song.vercel.app" />
+
+  <!-- Favicon -->
+  <link rel="icon" href="/logo-musicflow.png" />
+  <link rel="apple-touch-icon" href="/logo-musicflow.png" />
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="MusicFlow" />
+  <meta
+    property="og:title"
+    content="MusicFlow - Free Online Music Streaming"
+  />
+  <meta
+    property="og:description"
+    content="Listen to Bollywood, Punjabi, Haryanvi, Bhojpuri, Tamil and IndiePop songs online with MusicFlow."
+  />
+  <meta property="og:url" content="https://musicflow-song.vercel.app" />
+  <meta property="og:image" content="/logo-musicflow.png" />
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta
+    name="twitter:title"
+    content="MusicFlow - Free Music Streaming"
+  />
+  <meta
+    name="twitter:description"
+    content="Discover trending Bollywood, Punjabi, Tamil, Bhojpuri, IndiePop and more songs."
+  />
+  <meta name="twitter:image" content="/logo-musicflow.png" />
+
+  <!-- Preload Logo -->
+  <link rel="preload" href="/logo-musicflow.png" as="image" />
+
+  <!-- JSON-LD -->
+  <script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@type":"WebSite",
+    "name":"MusicFlow",
+    "url":"https://musicflow-song.vercel.app/",
+    "description":"Modern music streaming website with Bollywood, Punjabi, Tamil, Bhojpuri, Haryanvi and IndiePop songs.",
+    "potentialAction":{
+      "@type":"SearchAction",
+      "target":"https://musicflow-song.vercel.app/search?q={search_term_string}",
+      "query-input":"required name=search_term_string"
+    }
+  }
+  </script>
+
+</head>
+
+<body>
+
+  <div id="root"></div>
+  <div id="modal-root"></div>
+
+  <script type="module" src="/src/main.jsx"></script>
+
+  <!-- SPA Redirect -->
+  <script>
     (function (l) {
       if (l.search[1] === "/") {
         var decoded = l.search
@@ -20,6 +102,7 @@
             return s.replace(/~and~/g, "&");
           })
           .join("?");
+
         window.history.replaceState(
           null,
           null,
@@ -28,5 +111,6 @@
       }
     })(window.location);
   </script>
-  </body>
+
+</body>
 </html>

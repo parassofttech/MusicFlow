@@ -54,7 +54,7 @@ const Navbar = () => {
             </div>
 
             <img
-              src="/MusicFlow_Logo.png"
+              src="/logo-musicflow.png"
               alt="Music App"
               className="w-10 h-10 rounded-full"
             />
