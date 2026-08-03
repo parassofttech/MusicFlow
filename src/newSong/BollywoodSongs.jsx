@@ -6,6 +6,46 @@ import { ArrowLeft, Play } from "lucide-react";
 const bollywoodSongs = [
   {
   
+    title: "Dhak Dhak Reloaded 	 ",
+    artist: "Anuradha Paudwal, Udit Narayan  ",
+    cover:
+      "https://pagalnew.com/coverimages/Dhak-Dhak-Reloaded-Maa-Behen-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/54051",
+  },
+  {
+  
+    title: "Yeh Awarapan ",
+    artist: "Arihit Singh		",
+    cover:
+      "https://pagalnew.com/coverimages/yeh-awarapan-awarapan-2-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/54291",
+  },
+  {
+  
+    title: "Yeh Awarapan ",
+    artist: "Arihit Singh		",
+    cover:
+      "https://pagalnew.com/coverimages/yeh-awarapan-awarapan-2-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/54291",
+  },
+  {
+  
+    title: "Yeh Awarapan ",
+    artist: "Arihit Singh		",
+    cover:
+      "https://pagalnew.com/coverimages/yeh-awarapan-awarapan-2-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/54291",
+  },
+  {
+  
+    title: "Yeh Awarapan ",
+    artist: "Arihit Singh		",
+    cover:
+      "https://pagalnew.com/coverimages/yeh-awarapan-awarapan-2-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/54291",
+  },
+  {
+  
     title: "Yeh Awarapan ",
     artist: "Arihit Singh		",
     cover:
