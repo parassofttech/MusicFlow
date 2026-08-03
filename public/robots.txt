@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://musicflow-song.vercel.app/sitemap.xml
+
+# Optional
+Crawl-delay: 1
