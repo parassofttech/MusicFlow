@@ -1,0 +1,31 @@
+{
+  "name": "MusicFlow",
+  "short_name": "MusicFlow",
+  "description": "Listen to Bollywood, Punjabi, Haryanvi, Bhojpuri, Tamil and IndiePop songs online with MusicFlow.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#22c55e",
+  "lang": "en",
+  "categories": [
+    "music",
+    "entertainment",
+    "audio"
+  ],
+  "icons": [
+    {
+      "src": "/mf-logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/mf-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
