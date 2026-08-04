@@ -322,16 +322,16 @@ const tamilSongs = [
   title: "Mayakkama Kalakkama (Thiruchitrambalam vibe edits)",
   artist: "Dhanush, Anirudh Ravichander",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273b222b222b222b222b222b222",
-  url: "https://example.com/mayakkama-kfghgalakkama.mp3",
+    "https://i.scdn.co/image/ab67616d0000b273b222b222b222b2trdcxgh22b222b222",
+  url: "https://example.com/mayakkamrtdgfa-kfghgalakkama.mp3",
 },
 {
   id: "t41",
   title: "Nira (Takkar)",
   artist: "Sid Sriram, Gautham Vasudev Menon",
   cover:
-    "https://i.scdn.co/image/ab67616d000fhfgh0b273c9c9c9c9c9c9c9c9c9c9c9c9",
-  url: "https://example.com/kaathumela.mp3",
+    "https://i.scdn.co/image/ab67616d000fhfgh0b273c9c9c9c9c9c9ctygfcjh9c9c9c9c9c9",
+  url: "https://example.com/kaathumhygfcnela.mp3",
 },
 {
   id: "t42",
@@ -346,8 +346,8 @@ const tamilSongs = [
   title: "Yaar Azhaippadhu (Maara)",
   artist: "Sid Sriram",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273e555e555e555e555e555e555",
-  url: "https://example.com/yaar-azhaippadhu.mp3",
+    "https://i.scdn.co/image/ab67616d0000b273e555e555e555e555hgfhjgje555e555",
+  url: "https://example.com/yaar-azuyfhjhaippadhu.mp3",
 }
 ];
 
