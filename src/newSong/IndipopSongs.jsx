@@ -81,16 +81,16 @@ const indipopSongs = [
     title: "Brown Munde",
     artist: "AP Dhillon",
     cover:
-      "https://i.scdn.co/image/ab67616d0000b273f3c4b2b0a6b5f4d2fghhge3c4d5f6",
-    url: "https://example.com/brown-munfghfhde.mp3",
+      "https://i.scdn.co/image/ddsdsab67616d0000b273f3c4b2b0a6b5f4d2fghhge3c4d5f6",
+    url: "https://example.com/brown-munfgsdfsdhfhde.mp3",
   },
   {
     id: "i6",
     title: "Alag Aasmaan",
     artist: "Anuv Jain",
     cover:
-      "https://i.scdn.co/image/ab67616d0000b273d7d3b4d8a8c6c0cfghf5e0b6e3c1",
-    url: "https://example.com/alag-aasmfghfaan.mp3",
+      "https://i.scdn.co/image/ab67616d0000b273d7d3b4d8a8c6c0cfghf5sdfse0b6e3c1",
+    url: "https://example.com/alag-avfdfdfdsasmfghfaan.mp3",
   },
   {
     id: "i7",
