@@ -200,7 +200,7 @@ const punjabiSongs = [
     artist: "AP Dhillon",
     cover:
       "https://pagalnew.com/coverimages/STFU-AP-Dhillon-500-500.jdfgpg",
-    url: "https://example.com/stfu.mdgfdp3",
+    url: "https://example.com/stfu.dgsxsmdgfdp3",
   },
   {
     id: "ap11",
@@ -208,7 +208,7 @@ const punjabiSongs = [
     artist: "AP Dhillon",
     cover:
       "https://pagalnew.com/coverimages/Just-Saying-AP-Dhillon-500-dfg500.jpg",
-    url: "https://example.com/justdf-saying.mp3",
+    url: "https://example.com/justdfgdsff-saying.mp3",
   },
   {
     id: "ka1",
@@ -236,14 +236,14 @@ const punjabiSongs = [
     title: "Wavy",
     artist: "Karan Aujla",
     cover: "https://example.com/covers/wjhgkjavy.jpg",
-    url: "https://example.com/songs/wavyhgkhj.mp3",
+    url: "https://example.com/songs/drygrtegrtwavyhgkhj.mp3",
   },
   {
     id: "ka5",
     title: "Tauba Tauba",
     artist: "Karan Aujla",
     cover: "https://example.com/covers/taubhja-tauba.jpg",
-    url: "https://example.com/songs/tauba-thjgjauba.mp3",
+    url: "https://example.com/songs/tauba-thjgjaudgsdfdba.mp3",
   },
   {
     id: "ka6",
