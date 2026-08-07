@@ -38,6 +38,14 @@ const bollywoodSongs = [
   },
   {
   
+    title: "Dharma  ",
+    artist: "Sukhwinder Singh		",
+    cover:
+      "https://pagalnew.com/coverimages/dharma-ohh-my-dog-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/54373",
+  },
+  {
+  
     title: "Yeh Awarapan ",
     artist: "Arihit Singh		",
     cover:
