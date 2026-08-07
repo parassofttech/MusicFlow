@@ -22,11 +22,11 @@ const bollywoodSongs = [
   },
   {
   
-    title: "Kaari Kaari ",
-    artist: "Neelkamal Singh	",
+    title: "Title Track  ",
+    artist: "Amit Trivedi	 ",
     cover:
-      "https://pagalnew.com/coverimages/nach-le-lalariya-bhai-tera-star-hai-500-500.jpg",
-    url: "https://pagalnew.com/128-downloads/54049",
+      "https://pagalnew.com/coverimages/title-track-bhai-tera-star-hai-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/54285",
   },
   {
   
