@@ -14,18 +14,18 @@ const bollywoodSongs = [
   },
   {
   
-    title: "Kaari Kaari ",
-    artist: "Neelkamal Singh	",
+    title: "Nach Le Lalariya ",
+    artist: "Sudhir Yaduvanshi	",
     cover:
-      "https://pagalnew.com/coverimages/Kaari-Kaari-Maa-Behen-500-500.jpg",
-    url: "https://pagalnew.com/128-downloads/54049",
+      "https://pagalnew.com/coverimages/nach-le-lalariya-bhai-tera-star-hai-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/54286",
   },
   {
   
     title: "Kaari Kaari ",
     artist: "Neelkamal Singh	",
     cover:
-      "https://pagalnew.com/coverimages/Kaari-Kaari-Maa-Behen-500-500.jpg",
+      "https://pagalnew.com/coverimages/nach-le-lalariya-bhai-tera-star-hai-500-500.jpg",
     url: "https://pagalnew.com/128-downloads/54049",
   },
   {
