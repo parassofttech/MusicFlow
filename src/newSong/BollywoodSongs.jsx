@@ -4,6 +4,15 @@ import { useMusic } from "../context/MusicContext";
 import { ArrowLeft, Play } from "lucide-react";
 
 const bollywoodSongs = [
+  
+  {
+  
+    title: "Ishq Kameena 2.0  ",
+    artist: "Sonu Nigam, Alka Yagnik, Akasa	",
+    cover:
+      "https://pagalnew.com/coverimages/ishq-kameena-2-baby-do-die-do-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/54084",
+  },
   {
   
     title: "Aankhon Se Tune 2 ",
