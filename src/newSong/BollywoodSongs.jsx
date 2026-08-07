@@ -70,11 +70,11 @@ const bollywoodSongs = [
   },
   {
   
-    title: "Yeh Awarapan ",
-    artist: "Arihit Singh		",
+    title: "Tera Hua Sahiba ",
+    artist: "Priyansh Srivastava, Garvit Soni	",
     cover:
-      "https://pagalnew.com/coverimages/yeh-awarapan-awarapan-2-500-500.jpg",
-    url: "https://pagalnew.com/128-downloads/54291",
+      "https://pagalnew.com/coverimages/tera-hua-sahiba-musafir-cafe-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/54197",
   },
   {
   
