@@ -6,6 +6,30 @@ import { ArrowLeft, Play } from "lucide-react";
 const bollywoodSongs = [
   {
   
+    title: "Aankhon Se Tune 2 ",
+    artist: "Dev Negi, Palak Muchhal, Alka Yagnik	",
+    cover:
+      "https://pagalnew.com/coverimages/aankhon-se-tune-2-bhai-tera-star-hai-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/54292",
+  },
+  {
+  
+    title: "Kaari Kaari ",
+    artist: "Neelkamal Singh	",
+    cover:
+      "https://pagalnew.com/coverimages/Kaari-Kaari-Maa-Behen-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/54049",
+  },
+  {
+  
+    title: "Kaari Kaari ",
+    artist: "Neelkamal Singh	",
+    cover:
+      "https://pagalnew.com/coverimages/Kaari-Kaari-Maa-Behen-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/54049",
+  },
+  {
+  
     title: "Dhak Dhak Reloaded 	 ",
     artist: "Anuradha Paudwal, Udit Narayan  ",
     cover:
