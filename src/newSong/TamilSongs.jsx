@@ -306,24 +306,24 @@ const tamilSongs = [
   title: "Peelings (Pushpa 2 Tamil Version)",
   artist: "DSP",
   cover:
-    "https://i.scdn.co/image/ab676ghjnghj16d0000b273a9a9a9a9a9a9a9a9a9a9a9a9",
-  url: "https://example.com/peelvbnings.mp3",
+    "https://i.scdn.co/image/ab676ghjnghj16d0000b273a9a9a9a9adfgdf9a9a9a9a9a9a9a9",
+  url: "https://example.com/peelvbnifgdngs.mp3",
 },
 {
   id: "t39",
   title: "Anbe Peranbe (Re-trending Reels)",
   artist: "A.R. Rahman",
   cover:
-    "https://i.scdn.co/image/ab67vgfhjgn616d0000b273c9c9c9c9c9c9c9c9c9c9c9c9",
-  url: "https://example.com/kaathughfgthfghmela.mp3",
+    "https://i.scdn.co/image/ab67vgfhjgn616d0000b273c9c9c9c9c9cdfgdf9c9c9c9c9c9c9",
+  url: "https://example.com/kaathugdfgdfhfgthfghmela.mp3",
 },
 {
   id: "t40",
   title: "Mayakkama Kalakkama (Thiruchitrambalam vibe edits)",
   artist: "Dhanush, Anirudh Ravichander",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273b222b222b222b2trdcxgh22b222b222",
-  url: "https://example.com/mayakkamrtdgfa-kfghgalakkama.mp3",
+    "https://i.scdn.co/image/ab67616d0000b273b222b22fdgs2b222b2trdcxgh22b222b222",
+  url: "https://example.com/mayakkamrtdgfa-kfgfhgddfgfdhgalakkama.mp3",
 },
 {
   id: "t41",
