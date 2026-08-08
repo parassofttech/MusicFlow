@@ -219,16 +219,16 @@ const bhojpuriSongs = [
   title: "Dil Tod Ke",
   artist: "Neelkamal Singh",
   cover:
-    "https://i.scdn.co/image/afghfghfgb67616d0000b273a1a1a1a1a1a1a1a1a1a1a1a1",
-  url: "https://example.com/difghfltod0kenkv906-kar-dogi.mp3",
+    "https://i.scdn.co/image/afghfghfgb67616d0000b273a1a1a1aasdas1a1a1a1a1a1a1a1a1",
+  url: "https://example.com/difghfltod0kenkv906-kar-sdasdadogi.mp3",
 },
 {
   id: "bh28",
   title: "Chumma Wali Duniya",
   artist: "Neelkamal Singh",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273e4e4e4e4e4e4e4e4e4e4e4e4",
-  url: "https://example.com/chumma-walihbfg-duniya.mp3",
+    "https://i.scdn.co/image/ab67616d0000b273e4e4e4e4asdasdasdaasdase4e4e4e4e4e4e4e4",
+  url: "https://example.com/chumma-wsadsdalihbfg-duniya.mp3",
 },{
   id: "bh29",
   title: "Hello Kaun",
