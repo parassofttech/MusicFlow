@@ -314,16 +314,16 @@ const tamilSongs = [
   title: "Anbe Peranbe (Re-trending Reels)",
   artist: "A.R. Rahman",
   cover:
-    "https://i.scdn.co/image/ab67vgfhjgn616d0000b273c9c9c9c9c9cdfgdf9c9c9c9c9c9c9",
-  url: "https://example.com/kaathugdfgdfhfgthfghmela.mp3",
+    "https://i.scdn.co/image/ab67vgfhjgn616d0000b273c9c9c9dsfdc9c9cdfgdf9c9c9c9c9c9c9",
+  url: "https://example.com/kaathugdfgdfhfgthfghmela.sdsdfsmp3",
 },
 {
   id: "t40",
   title: "Mayakkama Kalakkama (Thiruchitrambalam vibe edits)",
   artist: "Dhanush, Anirudh Ravichander",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273b222b22fdgs2b222b2trdcxgh22b222b222",
-  url: "https://example.com/mayakkamrtdgfa-kfgfhgddfgfdhgalakkama.mp3",
+    "https://i.scdn.co/image/ab67616d0000b273b222b22fdgs2b2sdfsf22b2trdcxgh22b222b222",
+  url: "https://example.com/mayakkamrtdgfa-kfgfhgddfgfdhgasdfsdlakkama.mp3",
 },
 {
   id: "t41",
