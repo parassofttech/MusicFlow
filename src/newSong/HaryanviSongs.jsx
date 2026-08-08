@@ -300,15 +300,15 @@ const haryanviSongs = [
   id: "h29",
   title: "Naam Chale",
   artist: "Vikram Sarkar",
-  url: "https://songvghgnaamchale usrldk",
-  cover: "https://naam_chale8957dskjfh8t943trre954vb5"
+  url: "https://songvghgnaamchale sdfsusrldk",
+  cover: "https://sdfssdfskhufc"
 },
 {
   id: "h30",
   title: "Ishq Bawla (Soft Version)",
   artist: "Dhanda Nyoliwala",
-  url: "httpsdsgjdfg45fghfgh3tergdfb.",
-  cover: "https://i.scdn.co/ghfhimage/ab67616d000tujkyh0b273d6cbf6a5a9c95b2c98b5eb2f"
+  url: "httpsdsgjdfg45fghfgh3tergsdsdfb.",
+  cover: "https://i.scdn.co/ghfhimage/ab67616d000tujkyh0b273d6cbf6a5adsfd9c95b2c98b5eb2f"
 },
 {
   id: "h31",
