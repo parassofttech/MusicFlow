@@ -89,7 +89,7 @@ const indipopSongs = [
     title: "Alag Aasmaan",
     artist: "Anuv Jain",
     cover:
-      "https://i.scdn.co/image/ab67616d0000b273d7d3b4d8a8c6c0cfghf5sdfse0b6e3c1",
+      "https://i.scdn.co/image/ab67616d0000b273d7d3b4d8a8c6c0cfsdfsdghf5sdfse0b6e3c1",
     url: "https://example.com/alag-avfdfdfdsasmfghfaan.mp3",
   },
   {
@@ -97,16 +97,16 @@ const indipopSongs = [
     title: "Baarishein",
     artist: "Anuv Jain",
     cover:
-      "https://i.scdn.co/image/ab67616d0000b2736cb8d8c7a7b2c2d6e8d0c4f3",
-    url: "https://example.com/baarishein.mp3",
+      "https://i.scdn.co/image/ab67616d0000b2736cb8d8c7a7b2csdf2d6e8d0c4f3",
+    url: "https://example.com/baardfsdishein.mp3",
   },
   {
     id: "i8",
     title: "Gul",
     artist: "Anuv Jain",
     cover:
-      "https://i.scdn.co/image/ab67616d0000b2738b3f6f3f4c4f5d5a5b5c5d5e",
-    url: "https://pagalnew.com/128-downloads/23347",
+      "https://i.scdn.co/image/ab67616d0000b2738b3f6f3f4c4f5d5sdfsda5b5c5d5e",
+    url: "https://pagalnew.com/128-ddfsdfownloads/23347",
   },
   {
     id: "i9",
