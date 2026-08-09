@@ -191,8 +191,8 @@ const punjabiSongs = [
     title: "Dil Nu",
     artist: "AP Dhillon",
     cover:
-      "https://pagalnew.com/coverimages/Dil-Nu-AP-Dhillon-500-50dfgd0.jpg",
-    url: "https://example.com/dil-nudfgsdmp3",
+      "https://cover.mr-punjab.com/artwork/56785.webp",
+    url: "https://hq.mr-punjab.com/filehq/132276/128k/Dil Nu - AP Dhillon (Mr-Punjab.Com).html",
   },
   {
     id: "ap10",
