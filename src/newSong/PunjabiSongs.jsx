@@ -199,8 +199,8 @@ const punjabiSongs = [
     title: "STFU",
     artist: "AP Dhillon",
     cover:
-      "https://pagalnew.com/coverimages/STFU-AP-Dhillon-500-500nvjd.jdfgpg",
-    url: "https://example.com/stfu.jhkhdgsxsmdgfdp3",
+      "https://cover.djpunjab.is/57415/300x700/stfu-ap-dhillon.webp",
+    url: "https://s320.djpunjab.is/data/48/57415/307298/STFU%20-%20AP%20Dhillon.mp3",
   },
   {
     id: "ap11",
