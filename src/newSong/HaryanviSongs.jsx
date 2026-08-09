@@ -279,15 +279,15 @@ const haryanviSongs = [
   id: "h26",
   title: "Gangsta Life",
   artist: "Candy Sheoran",
-  url: "https://pagalnew.com/128-downloads/17642",
-  cover: ""
+  url: "https://pagalnew.com/1jgkj28-downloads/17642",
+  cover: "https://m,bjvjv"
 },
 {
   id: "h27",
   title: "Maruti",
   artist: "Dhanda Nyoliwala",
-  url: "https://pagalnew.com/128-downloads/17642",
-  cover: ""
+  url: "https://pagalnew.com/128-dowjhvjnloads/17642",
+  cover: "https://fdhhhnbvn"
 },
 {
   id: "h28",
@@ -307,8 +307,8 @@ const haryanviSongs = [
   id: "h30",
   title: "Ishq Bawla (Soft Version)",
   artist: "Dhanda Nyoliwala",
-  url: "httpsdsgjdfg45fghfgh3tergsdsdfb.",
-  cover: "https://i.scdn.co/ghfhimage/ab67616d000tujkyh0b273d6cbf6a5adsfd9c95b2c98b5eb2f"
+  url: "httpsdsgjdfg45fghfghjhv3tergsdsdfb.",
+  cover: "https://i.scdjbkjmvn.co/ghfhimage/ab67616d000tujkyh0b273d6cbf6a5adsfd9c95b2c98b5eb2f"
 },
 {
   id: "h31",
