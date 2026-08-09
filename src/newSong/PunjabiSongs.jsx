@@ -207,15 +207,15 @@ const punjabiSongs = [
     title: "Just Saying",
     artist: "AP Dhillon",
     cover:
-      "https://pagalnew.com/coverimages/Just-Saying-AP-Dhillon-500-dfgjgkjghfj500.jpg",
+      "https://pagalnew.com/coverimages/Just-Say-It-Ishq-Di-Ep-500-500.jpg",
     url: "https://example.com/justdfjgkgdsff-gdhsaying.mp3",
   },
   {
     id: "ka1",
     title: "Softly",
     artist: "Karan Aujla",
-    cover: "https://example.com/covers/softlsdfsdfy.jpg",
-    url: "https://example.com/songsffsdsdfsd/softly.mp3",
+    cover: "https://pagalnew.com/coverimages/softly-making-memories-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/43251",
   },
   {
     id: "ka2",
