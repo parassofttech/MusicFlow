@@ -221,15 +221,15 @@ const punjabiSongs = [
     id: "ka2",
     title: "Admirin You",
     artist: "Karan Aujla",
-    cover: "https://example.com/coversdsfs/admihjgjkrin-you.jpg",
-    url: "https://example.com/songs/admghsdsfdsfsdfkirin-you.mp3",
+    cover: "https://pagalnew.com/coverimages/softly-making-memories-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/42909",
   },
   {
     id: "ka3",
     title: "Winning Speech",
     artist: "Karan Aujla",
     cover: "https://example.com/couhokijers/winning-speech.sdfsjpg",
-    url: "https://example.com/songs/winniupoikjng-speech.mdfsfp3",
+    url: "https://pagalnew.com/128-downloads/42909",
   },
   {
     id: "ka4",
