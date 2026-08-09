@@ -199,16 +199,16 @@ const punjabiSongs = [
     title: "STFU",
     artist: "AP Dhillon",
     cover:
-      "https://pagalnew.com/coverimages/STFU-AP-Dhillon-500-500.jdfgpg",
-    url: "https://example.com/stfu.dgsxsmdgfdp3",
+      "https://pagalnew.com/coverimages/STFU-AP-Dhillon-500-500nvjd.jdfgpg",
+    url: "https://example.com/stfu.jhkhdgsxsmdgfdp3",
   },
   {
     id: "ap11",
     title: "Just Saying",
     artist: "AP Dhillon",
     cover:
-      "https://pagalnew.com/coverimages/Just-Saying-AP-Dhillon-500-dfg500.jpg",
-    url: "https://example.com/justdfgdsff-saying.mp3",
+      "https://pagalnew.com/coverimages/Just-Saying-AP-Dhillon-500-dfgjgkjghfj500.jpg",
+    url: "https://example.com/justdfjgkgdsff-gdhsaying.mp3",
   },
   {
     id: "ka1",
