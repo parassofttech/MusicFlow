@@ -330,24 +330,24 @@ const tamilSongs = [
   title: "Nira (Takkar)",
   artist: "Sid Sriram, Gautham Vasudev Menon",
   cover:
-    "https://i.scdn.co/image/ab67616d000fhfgh0b273c9c9c9c9c9c9ctygfcjh9c9c9c9c9c9",
-  url: "https://example.com/kaathumhygfcnela.mp3",
+    "https://i.scdn.co/image/ab67616d000fhfgh0b273c9c9c9c9c9c9cfjjjjjjjjjtygfcjh9c9c9c9c9c9",
+  url: "https://example.com/kaathumhygfcjygnela.mp3",
 },
 {
   id: "t42",
   title: "Usura Uruvi (Lover)",
   artist: "Sean Roldan",
   cover:
-    "https://i.scdn.co/image/ab67616d00fghfgh00b273d444d444d444d444d444d444",
-  url: "https://example.com/usura-urufghfgvi.mp3",
+    "https://i.scdn.co/image/ab67616d00fghfgh00b273d444d444d444d4ytrfuj44d444d444",
+  url: "https://example.com/usura-urufghuygfgvi.mp3",
 },
 {
   id: "t43",
   title: "Yaar Azhaippadhu (Maara)",
   artist: "Sid Sriram",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273e555e555e555e555hgfhjgje555e555",
-  url: "https://example.com/yaar-azuyfhjhaippadhu.mp3",
+    "https://i.scdn.co/image/ab67616d0000b273e555e555e555e555hgfyufikhjgje555e555",
+  url: "https://example.com/yaar-azuyfuuyfhjhaippadhu.mp3",
 }
 ];
 
