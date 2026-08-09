@@ -194,8 +194,8 @@ const bhojpuriSongs = [
   title: "Laal Ghaghra",
   artist: "Shilpi Raj",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273d4d4d4d4d4d4d4d4d4d4d4d4",
-  url: "https://example.com/laal-ghaghra.mp3",
+    "https://i.scdn.co/image/ab67616d0000b273d4d4d4d4d4d4dfgh4d4d4d4d4d4",
+  url: "https://example.com/laal-fghghaghra.mp3",
 },
 
 {
@@ -203,8 +203,8 @@ const bhojpuriSongs = [
   title: "Heroine",
   artist: "Neelkamal Singh",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273e1e1e1e1e1e1e1e1e1e1e1e1",
-  url: "https://example.comfghdfgd/heroine.mp3",
+    "https://i.scdn.co/image/ab67616d0000b273e1e1e1e1efghbjn1e1e1e1e1e1e1e1",
+  url: "https://example.comffghjghdfgd/heroine.mp3",
 },
 {
   id: "bh26",
@@ -219,7 +219,7 @@ const bhojpuriSongs = [
   title: "Dil Tod Ke",
   artist: "Neelkamal Singh",
   cover:
-    "https://i.scdn.co/image/afghfghfgb67616d0000b273a1a1a1aasdas1a1a1a1a1a1a1a1a1",
+    "https://i.scdn.co/image/afghfghfgb67616d0000b273a1aghvjbm1a1aasdas1a1a1a1a1a1a1a1a1",
   url: "https://example.com/difghfltod0kenkv906-kar-sdasdadogi.mp3",
 },
 {
@@ -227,7 +227,7 @@ const bhojpuriSongs = [
   title: "Chumma Wali Duniya",
   artist: "Neelkamal Singh",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273e4e4e4e4asdasdasdaasdase4e4e4e4e4e4e4e4",
+    "https://i.scdn.co/image/ab67616d0000b273e4jgghvme4e4e4asdasdasdaasdase4e4e4e4e4e4e4e4",
   url: "https://example.com/chumma-wsadsdalihbfg-duniya.mp3",
 },{
   id: "bh29",
