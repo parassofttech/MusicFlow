@@ -202,14 +202,14 @@ const punjabiSongs = [
       "https://cover.djpunjab.is/57415/300x700/stfu-ap-dhillon.webp",
     url: "https://s320.djpunjab.is/data/48/57415/307298/STFU%20-%20AP%20Dhillon.mp3",
   },
-  {
-    id: "ap11",
-    title: "Just Saying",
-    artist: "AP Dhillon",
-    cover:
-      "https://pagalnew.com/coverimages/Just-Say-It-Ishq-Di-Ep-500-500.jpg",
-    url: "https://example.com/justdfjgkgdsff-gdhsaying.mp3",
-  },
+  // {
+  //   id: "ap11",
+  //   title: "Just Saying",
+  //   artist: "AP Dhillon",
+  //   cover:
+  //     "https://pagalnew.com/coverimages/Just-Say-It-Ishq-Di-Ep-500-500.jpg",
+  //   url: "https://example.com/justdfjgkgdsff-gdhsaying.mp3",
+  // },
   {
     id: "ka1",
     title: "Softly",
