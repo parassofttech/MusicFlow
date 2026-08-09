@@ -228,8 +228,8 @@ const punjabiSongs = [
     id: "ka3",
     title: "Winning Speech",
     artist: "Karan Aujla",
-    cover: "https://example.com/couhokijers/winning-speech.sdfsjpg",
-    url: "https://pagalnew.com/128-downloads/42909",
+    cover: "https://pagalnew.com/coverimages/Winning-Speech-Karan-Aujla-500-500.jpg",
+    url: "https://pagalnew.com/128-downloads/46775",
   },
   {
     id: "ka4",
