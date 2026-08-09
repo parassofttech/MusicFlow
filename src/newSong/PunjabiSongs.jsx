@@ -235,8 +235,8 @@ const punjabiSongs = [
     id: "ka4",
     title: "Wavy",
     artist: "Karan Aujla",
-    cover: "https://example.com/covers/wjhgsdfkjavy.jpg",
-    url: "https://example.com/sdfsdsongs/drygrtegrtwavyhgkhj.mp3",
+    cover: "https://cover.djpunjab.is/56545/300x700/wavy-karan-aujla.webp",
+    url: "https://s320.djpunjab.is/data/48/56545/306006/Wavy%20-%20Karan%20Aujla.mp3",
   },
   {
     id: "ka5",
