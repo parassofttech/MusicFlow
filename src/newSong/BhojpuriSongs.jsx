@@ -204,15 +204,15 @@ const bhojpuriSongs = [
   artist: "Neelkamal Singh",
   cover:
     "https://i.scdn.co/image/ab67616d0000b273e1e1e1e1efghbjn1e1e1e1e1e1e1e1",
-  url: "https://example.comffghjghdfgd/heroine.mp3",
+  url: "https://example.comffghjghdfgd/hesdfsdroine.mp3",
 },
 {
   id: "bh26",
   title: "Jan Tohar Mummy Kasam",
   artist: "Neelkamal Singh",
   cover:
-    "https://i.scdn.co/image/abhfhfg67616d0000b273e2e2e2e2e2e2e2e2e2e2e2e2",
-  url: "https://example.comfghfhfg/jan-toharftgyhr56-mummy-kasam.mp3",
+    "https://i.scdn.co/image/abhfhfg67616d0000bsdfssdf273e2e2e2e2e2e2e2e2e2e2e2e2",
+  url: "https://example.comfghfhfg/jan-tohasdfsrftgyhr56-mummy-kasam.mp3",
 },
 {
   id: "bh27",
