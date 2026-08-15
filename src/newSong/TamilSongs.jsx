@@ -338,16 +338,16 @@ const tamilSongs = [
   title: "Usura Uruvi (Lover)",
   artist: "Sean Roldan",
   cover:
-    "https://i.scdn.co/image/ab67616d00fghfgh00b273d444d444d444d4ytrfuj44d444d444",
-  url: "https://example.com/usura-urufghuygfgvi.mp3",
+    "https://i.scdn.co/image/ab67616d00fghfgh00b273ddfg444d444d444d4ytrfuj44d444d444",
+  url: "https://example.com/usura-urufghuygfgvdfgdfdfgdfi.mp3",
 },
 {
   id: "t43",
   title: "Yaar Azhaippadhu (Maara)",
   artist: "Sid Sriram",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273e555e555e555e555hgfyufikhjgje555e555",
-  url: "https://example.com/yaar-azuyfuuyfhjhaippadhu.mp3",
+    "https://i.scdn.co/image/ab67616d0000b273e55dfgdf5e555e555e555hgfyufikhjgje555e555",
+  url: "https://example.com/yaar-azuyfuuyfhfghgjhaippadhu.mp3",
 }
 ];
 
