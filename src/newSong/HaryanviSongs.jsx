@@ -286,15 +286,15 @@ const haryanviSongs = [
   id: "h27",
   title: "Maruti",
   artist: "Dhanda Nyoliwala",
-  url: "https://pagalnew.com/128-dowjhvjnloads/17642",
-  cover: "https://fdhhhnbvn"
+  url: "https://pagalnew.com/128-dodgffwjhvjnloads/17642",
+  cover: "https://fdhhdfgdfhnbvn"
 },
 {
   id: "h28",
   title: "Green Flag",
   artist: "Vikram Sarkar",
-  url: "https://pagalnew.com/128-downloads/17642",
-  cover: "https://greenflagsongforyour7934rfdif"
+  url: "https://pagalnew.com/128-dodsfwnloads/17642",
+  cover: "https://greenflagsongforydgsdour7934rfdif"
 },
 {
   id: "h29",
