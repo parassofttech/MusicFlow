@@ -307,15 +307,15 @@ const haryanviSongs = [
   id: "h30",
   title: "Ishq Bawla (Soft Version)",
   artist: "Dhanda Nyoliwala",
-  url: "httpsdsgjdfg45fghfghjhv3tergsdsdfb.",
-  cover: "https://i.scdjbkjmvn.co/ghfhimage/ab67616d000tujkyh0b273d6cbf6a5adsfd9c95b2c98b5eb2f"
+  url: "httpsdsgjdfg45fghfghjhv3terergertegsdsdfb.",
+  cover: "https://i.scdjbkjmvn.co/ghfhiertertmage/ab67616d000tujkyh0b273d6cbf6a5adsfd9c95b2c98b5eb2f"
 },
 {
   id: "h31",
   title: "Ji Laage Babya Mai",
   artist: "Unknown",
-  url: "fghgftyujhfghfghtyf",
-  cover: "https://i.sfghcdn.co/imfhfdgage/ab67616d00hjmghjg00b273d6cbf6a5a9c95b2c98b5eb2f"
+  url: "fghgftyujhfghfghtertertyf",
+  cover: "https://i.sfghcdn.co/imfhfdgertertage/ab67616d00hjmghjg00b273d6cbf6a5a9c95b2c98b5eb2f"
 },
 {
   id: "h32",
