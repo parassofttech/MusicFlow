@@ -121,24 +121,24 @@ const indipopSongs = [
     title: "Cold Hours",
     artist: "Aleemrk",
     cover:
-      "https://i.scdn.co/image/ab67616d0000b273fsdfsewr4a7c3d8e5b2a6c1d4e7f8a2",
-    url: "https://pagalnew.com/128-downloaewtwds/23347",
+      "https://i.scdn.co/image/ab67616d0000b27jhgjh3fsdfsewr4a7c3d8e5b2a6c1d4e7f8a2",
+    url: "https://pagalnew.com/128-downloaehngcvnbvhwtwds/23347",
   },
  {
     id: "i11",
     title: "Jo Tum Mere Ho",
     artist: "Anuv Jain",
     cover:
-      "https://i.scdn.co/image/ab67616d0000b273e0f0f2f1c2a3b4c5d6e7f8a9",
-    url: "https://example.com/gfhfghcjo-tum-mere-ho.mp3",
+      "https://i.scdn.co/image/ab67616d0000b273ejhvjh0f0f2f1c2a3b4c5d6e7f8a9",
+    url: "https://example.com/gfhfghcjo-tum-jhvjhmere-ho.mp3",
 },
 {
     id: "i12",
     title: "Husn",
     artist: "Anuv Jain",
     cover:
-      "https://i.scdn.co/image/ab67616d0000b273a1b2c3d4e5f60718293a4b5c",
-    url: "https://example.cvngchfgom/husn.mp3",
+      "https://i.scdn.co/image/ab676kjbkj16d0000b273a1b2c3d4e5f60718293a4b5c",
+    url: "https://example.cvngchfgom/husnkjbkjb.mp3",
 },
 {
     id: "i13",
