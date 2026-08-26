@@ -291,23 +291,23 @@ const tamilSongs = [
   artist: "Raayan",
   cover:
     "https://i.scdn.co/image/https://i.sfghbfgcdn.co/image/ab67616d0000b273a111a111a111a111a111a111",
-  url: "https://example.com/adangaathbcvbfcbaasuran.mp3",
+  url: "https://example.com/adangaathbcvbfcbaasuran.myhtfcytfcp3",
 },
 {
   id: "t37",
   title: "Hunter Vantaar",
   artist: "Vettaiyan",
   cover:
-    "https://i.scdn.co/image/ab67616d000vbgc0b273e1e1e1e1e1e1e1e1e1e1e1e1",
-  url: "https://example.com/huntghjgervantaar.mp3",
+    "https://i.scdn.co/image/ab67616d000vbgc0b273e1eytfytg1e1e1e1e1e1e1e1e1e1e1",
+  url: "https://example.com/huntghjgervantaarhbjghvhgf.mp3",
 },
 {
   id: "t38",
   title: "Peelings (Pushpa 2 Tamil Version)",
   artist: "DSP",
   cover:
-    "https://i.scdn.co/image/ab676ghjnghj16d0000b273a9a9a9a9adfgdf9a9a9a9a9a9a9a9",
-  url: "https://example.com/peelvbnifgdngs.mp3",
+    "https://i.scdn.co/image/ab676ghjnghj16d0000b27gcttyfct3a9a9a9a9adfgdf9a9a9a9a9a9a9a9",
+  url: "https://example.com/peelvbnifgdngshgfytfvy.mp3",
 },
 {
   id: "t39",
