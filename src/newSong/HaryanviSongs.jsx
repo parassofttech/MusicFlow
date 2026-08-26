@@ -300,8 +300,8 @@ const haryanviSongs = [
   id: "h29",
   title: "Naam Chale",
   artist: "Vikram Sarkar",
-  url: "https://songvghgnaamchale sdfsusrldk",
-  cover: "https://sdfssdfskhufc"
+  url: "https://songvghgnuihvnbchgaamchale sdfsusrldk",
+  cover: "https://sdfssdgjcvhvjhvfskhufc"
 },
 {
   id: "h30",
@@ -321,15 +321,15 @@ const haryanviSongs = [
   id: "h32",
   title: "Bhola Milega Haridwar Me",
   artist: "Unknown",
-  url: "dfgvdffgggxtyufghjgjtfyufdgd",
-  cover: "hrtgsghfghfghfd"
+  url: "dfgvdffgggxtyufghjhfckjhvkjgjtfyufdgd",
+  cover: "hrtgsgiugiguhikhfghfghfd"
 },
 {
   id: "h33",
   title: "Mard",
   artist: "Masoom Sharma",
-  url: "dfgfdsgbxdffghfhfghvg",
-  cover: "https://i.scdn.co/imafgchgge/ab67616d0000b273d6cbf6a5a9c95b2c98b5eb2f"
+  url: "dfgfdsgbxdffghfhhgcdhgchgfghvg",
+  cover: "https://i.scdn.co/imafgchgge/abuyjfjhyv67616d0000b273d6cbf6a5a9c95b2c98b5eb2f"
 }
 
 ];
