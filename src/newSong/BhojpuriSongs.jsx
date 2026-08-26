@@ -242,7 +242,7 @@ const bhojpuriSongs = [
   title: "Teer Hamra Karejwa Ke Par",
   artist: "Ritesh Pandey",
   cover:
-    "https://i.scdn.co/image/ab67616dfghfg0000hfghfghb273e4e4e4e4e4e4e4e4e4e4e4e4",
+    "https://i.scdn.co/image/ab67616dfghfg0000hfghfghb273envcmvh4e4e4e4e4e4e4e4e4e4e4e4",
   url: "https://example.com/badnam-teefghfgrhamarakar-dogi.mp3",
 },
 {
@@ -250,7 +250,7 @@ const bhojpuriSongs = [
   title: "Jaan Lebu Ka Ho",
   artist: "Ritesh Pandey",
   cover:
-    "https://i.scdn.co/image/ab67616dsfgdfgd00fghfg00b273efdgdfg4e4e4e4e4e4e4e4e4e4e4e4",
+    "https://i.scdn.co/image/ab67616dsfgdfgd00fghfg00b273efdgdfgjhhhvj4e4e4e4e4e4e4e4e4e4e4e4",
   url: "https://example.com/jaan-lebufgghdfghfghf-ka-fdgdfho.mp3",
 },
 
@@ -259,16 +259,16 @@ const bhojpuriSongs = [
   title: "Badnam Kar Dogi",
   artist: "Wave Music",
   cover:
-    "https://i.scdn.co/image/ab67616d0fghfgh000b273a1a1a1a1a1a1a1a1a1a1a1a1",
-  url: "https://example.com/badnam-dfgdfghfghfkar-dogi.mp3",
+    "https://i.scdn.co/image/ab67616d0fghfgh000b273a1a1a1a1ajhvjhmvh1a1a1a1a1a1a1a1",
+  url: "https://example.com/badnam-dfgdfghfghfkar-dojhvjvgi.mp3",
 },
 {
   id: "bh33",
   title: "Jawani Tohar Jhal Jhal Jhala",
   artist: "Wave Music",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273a2a2a2a2a2a2a2a2a2a2a2a2",
-  url: "https://example.com/jawani-tdfgsdfohar-jhal-jhal-jhala.mp3",
+    "https://i.scdn.co/image/ab67616d0000b273a2a2a2a2a2ahgfcfvuy2a2a2a2a2a2a2",
+  url: "https://example.com/jawani-tdfgsdfohar-jhal-jhal-hgjkjhala.mp3",
 },
 {
   id: "bh34",
