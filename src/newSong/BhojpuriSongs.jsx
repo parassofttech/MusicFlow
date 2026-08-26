@@ -250,7 +250,7 @@ const bhojpuriSongs = [
   title: "Jaan Lebu Ka Ho",
   artist: "Ritesh Pandey",
   cover:
-    "https://i.scdn.co/image/ab67616dsfgdfgd00fghfg00b273efdgdfgjhhhvj4e4e4e4e4e4e4e4e4e4e4e4",
+    "https://i.scdn.co/image/ab67616dsfgdfhcgfhgvgd00fghfg00b273efdgdfgjhhhvj4e4e4e4e4e4e4e4e4e4e4e4",
   url: "https://example.com/jaan-lebufgghdfghfghf-ka-fdgdfho.mp3",
 },
 
@@ -260,7 +260,7 @@ const bhojpuriSongs = [
   artist: "Wave Music",
   cover:
     "https://i.scdn.co/image/ab67616d0fghfgh000b273a1a1a1a1ajhvjhmvh1a1a1a1a1a1a1a1",
-  url: "https://example.com/badnam-dfgdfghfghfkar-dojhvjvgi.mp3",
+  url: "https://example.com/badnam-dfgdfghfghfkgfxcfgar-dojhvjvgi.mp3",
 },
 {
   id: "bh33",
@@ -275,7 +275,7 @@ const bhojpuriSongs = [
   title: "DJ Remix Bhojpuri Mashup 2025",
   artist: "Various Artists",
   cover:
-    "https://i.scdn.co/image/ab67616d0jhgjgbk000b273a3a3a3a3a3a3a3a3a3a3a3a3",
+    "https://i.scdn.co/image/ab67616d0jhgjgbkhcdfgy000b273a3a3a3a3a3a3a3a3a3a3a3a3",
   url: "https://example.com/bhojpuri-masjgfjhhup-2025.mp3",
 },
 {
@@ -284,7 +284,7 @@ const bhojpuriSongs = [
   artist: "DJ Mix",
   cover:
     "https://i.scdn.co/image/ab67616d0000b273a4ughujgjka4a4a4a4a4a4a4a4a4a4a4",
-  url: "https://example.com/nonstop-partyuygfjkbkj-mix.mp3",
+  url: "https://example.com/nonstop-partyuygjghfjkbkj-mix.mp3",
 },
 ];
 
