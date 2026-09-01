@@ -314,15 +314,15 @@ const haryanviSongs = [
   id: "h31",
   title: "Ji Laage Babya Mai",
   artist: "Unknown",
-  url: "fghgftyujhfghfghtertertyf",
-  cover: "https://i.sfghcdn.co/imfhfdgertertage/ab67616d00hjmghjg00b273d6cbf6a5a9c95b2c98b5eb2f"
+  url: "fghgftyujhfghfghterfghfgtertyf",
+  cover: "https://i.sfghcdn.co/imfghfghfhfdgertertage/ab67616d00hjmghjg00b273d6cbf6a5a9c95b2c98b5eb2f"
 },
 {
   id: "h32",
   title: "Bhola Milega Haridwar Me",
   artist: "Unknown",
-  url: "dfgvdffgggxtyufghjhfckjhvkjgjtfyufdgd",
-  cover: "hrtgsgiugiguhikhfghfghfd"
+  url: "https://dfgvdffgggxtyufghjhfckjhvkjgjtfyufdgd",
+  cover: "https://hrtgsgiugiguhikhfghfghfd"
 },
 {
   id: "h33",
