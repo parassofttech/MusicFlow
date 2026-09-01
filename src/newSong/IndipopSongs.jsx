@@ -137,24 +137,24 @@ const indipopSongs = [
     title: "Husn",
     artist: "Anuv Jain",
     cover:
-      "https://i.scdn.co/image/ab676kjbkj16d0000b273a1b2c3d4e5f60718293a4b5c",
-    url: "https://example.cvngchfgom/husnkjbkjb.mp3",
+      "https://i.scdn.co/image/ab676kjbkj16d0000b273a1b2c3d4e5fghjfgf60718293a4b5c",
+    url: "https://example.cvngchfgom/fgdfhusnkjbkjb.mp3",
 },
 {
     id: "i13",
     title: "Sahiba",
     artist: "Aditya Rikhari",
     cover:
-      "https://i.scdn.co/image/ab67616d0000b273b2c3d4e5f60718293a4b5c6d",
-    url: "https://example.com/jo-tum-mere-ho.mp",
+      "https://i.scdn.co/image/ab67616d0000b273b2c3d4e5f6071829dgfdg3a4b5c6d",
+    url: "https://example.com/jo-tum-merdfgfe-ho.mp",
 },
 {
     id: "i14",
     title: "Baarishein",
     artist: "Anuv Jain",
     cover:
-      "https://i.scdn.co/image/ab67616d0000b2736cb8d8c7a7b2c2d6e8d0c4f3",
-    url: "https://example.comuhfgjdrgrthbfg/baarishein.mp3",
+      "https://i.scdn.co/image/ab67616d0000b2736cb8d8c7a7b2c2fdgd6e8d0c4f3",
+    url: "https://example.comuhfgjdfgrgrthbfg/baarishein.mp3",
 },
 {
     id: "i15",
@@ -162,7 +162,7 @@ const indipopSongs = [
     artist: "Prateek Kuhad",
     cover:
       "https://i.scdn.co/image/ab67616d0000b273g9840lkfd3457945479w3c1d2e3f4051627384950a1b2",
-    url: "https://example.coxcjnvcm/jdgfhgfo-tum-mere-ho.mp",
+    url: "https://example.fgcoxcjnvcm/jdgfhgfo-tum-merefg-ho.mp",
 },
 {
     id: "i16",
