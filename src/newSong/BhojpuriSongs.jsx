@@ -259,31 +259,31 @@ const bhojpuriSongs = [
   title: "Badnam Kar Dogi",
   artist: "Wave Music",
   cover:
-    "https://i.scdn.co/image/ab67616d0fghfgh000b273a1a1a1a1ajhvjhmvh1a1a1a1a1a1a1a1",
-  url: "https://example.com/badnam-dfgdfghfghfkgfxcfgar-dojhvjvgi.mp3",
+    "https://i.scdn.co/image/ab67616d0fghfgh000b273a1adfghfdg1a1a1ajhvjhmvh1a1a1a1a1a1a1a1",
+  url: "https://example.com/badnam-dfgdfghfghfkgfxcfgardfgdfg-dojhvjvgi.mp3",
 },
 {
   id: "bh33",
   title: "Jawani Tohar Jhal Jhal Jhala",
   artist: "Wave Music",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273a2a2a2a2a2ahgfcfvuy2a2a2a2a2a2a2",
-  url: "https://example.com/jawani-tdfgsdfohar-jhal-jhal-hgjkjhala.mp3",
+    "https://i.scdn.co/image/ab67616d0000b273a2a2a2adfgdg2a2ahgfcfvuy2a2a2a2a2a2a2",
+  url: "https://example.com/jawani-tdfgsdfohar-jhal-jhdfgdfgal-hgjkjhala.mp3",
 },
 {
   id: "bh34",
   title: "DJ Remix Bhojpuri Mashup 2025",
   artist: "Various Artists",
   cover:
-    "https://i.scdn.co/image/ab67616d0jhgjgbkhcdfgy000b273a3a3a3a3a3a3a3a3a3a3a3a3",
-  url: "https://example.com/bhojpuri-masjgfjhhup-2025.mp3",
+    "https://i.scdn.co/image/ab67616d0jhgjgbkhcdfgy00dfgfdg0b273a3a3a3a3a3a3a3a3a3a3a3a3",
+  url: "https://example.com/bhojpuri-masjgfjhhup-dfgdf2025.mp3",
 },
 {
   id: "bh35",
   title: "Bhojpuri Nonstop Party Mix",
   artist: "DJ Mix",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273a4ughujgjka4a4a4a4a4a4a4a4a4a4a4",
+    "https://i.scdn.co/image/ab67616d0000b273a4udfgdghujgjka4a4a4a4a4a4a4a4a4a4a4",
   url: "https://example.com/nonstop-partyuygjghfjkbkj-mix.mp3",
 },
 ];
