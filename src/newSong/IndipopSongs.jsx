@@ -169,16 +169,16 @@ const indipopSongs = [
     title: "Kho Gaye Hum Kahan",
     artist: "Jasleen Royal",
     cover:
-      "https://i.scdn.co/imajvdfvndfkvdfvdfge/5464gfbab67616d0000b273d3e465465f50617283940a1b2c3d4",
-    url: "https://example.kdhfmghdkfnlgfhkcom/kho-gaye-hum-kahan.mp3",
+      "https://i.scdn.co/imajvdfvndfkvdfvdfge/5464gfbab67616d0000b27dfgdg3d3e465465f50617283940a1b2c3d4",
+    url: "https://example.kdhfmgdfgdfghdkfnlgfhkcom/kho-gaye-hum-kahan.mp3",
 },
 {
     id: "i17",
     title: "Raatan Lambiyan (Indie Version)",
     artist: "Various Artists",
     cover:
-      "https://i.scdn.co/image/ab67616d0gtfgbh000b273e5f60718293a4b5c6d7e8f901",
-    url: "https://example.com/raatan-gglambiyan.mp3",
+      "https://i.scdn.co/image/ab67616d0gtfgbh000b273e5f60fdgdf718293a4b5c6d7e8f901",
+    url: "https://example.com/raatdfgdfgan-gglambiyan.mp3",
 },
 {
     id: "i18",
