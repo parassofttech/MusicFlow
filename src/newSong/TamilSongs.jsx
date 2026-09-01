@@ -298,16 +298,16 @@ const tamilSongs = [
   title: "Hunter Vantaar",
   artist: "Vettaiyan",
   cover:
-    "https://i.scdn.co/image/ab67616d000vbgc0b273e1eytfytg1e1e1e1e1e1e1e1e1e1e1",
-  url: "https://example.com/huntghjgervantaarhbjghvhgf.mp3",
+    "https://i.scdn.co/image/ab67616d000vbgc0b273e1eytghjkgyfytg1e1e1e1e1e1e1e1e1e1e1",
+  url: "https://example.com/huntghjgervantaarhbjgfghfghvhgf.mp3",
 },
 {
   id: "t38",
   title: "Peelings (Pushpa 2 Tamil Version)",
   artist: "DSP",
   cover:
-    "https://i.scdn.co/image/ab676ghjnghj16d0000b27gcttyfct3a9a9a9a9adfgdf9a9a9a9a9a9a9a9",
-  url: "https://example.com/peelvbnifgdngshgfytfvy.mp3",
+    "https://i.scdn.co/image/ab676ghjnghj16d0000b27gcttfghfghyfct3a9a9a9a9adfgdf9a9a9a9a9a9a9a9",
+  url: "https://example.com/pefghfhelvbnifgdngshgfytfvy.mp3",
 },
 {
   id: "t39",
