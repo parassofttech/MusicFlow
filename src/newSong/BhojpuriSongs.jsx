@@ -259,16 +259,16 @@ const bhojpuriSongs = [
   title: "Badnam Kar Dogi",
   artist: "Wave Music",
   cover:
-    "https://i.scdn.co/image/ab67616d0fghfgh000b273a1adfghfdg1a1a1ajhvjhmvh1a1a1a1a1a1a1a1",
-  url: "https://example.com/badnam-dfgdfghfghfkgfxcfgardfgdfg-dojhvjvgi.mp3",
+    "https://i.scdn.co/image/ab67616d0fghfgh000b273a1adfghfdg1dfgdga1a1ajhvjhmvh1a1a1a1a1a1a1a1",
+  url: "https://example.com/badnam-dfgdfghfghfkgfxcfgardfgdfgdfgdfg-dojhvjvgi.mp3",
 },
 {
   id: "bh33",
   title: "Jawani Tohar Jhal Jhal Jhala",
   artist: "Wave Music",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273a2a2a2adfgdg2a2ahgfcfvuy2a2a2a2a2a2a2",
-  url: "https://example.com/jawani-tdfgsdfohar-jhal-jhdfgdfgal-hgjkjhala.mp3",
+    "https://i.scdn.co/image/ab67616d0000b273a2a2a2adfgdg2a2dfhgfgdfgahgfcfvuy2a2a2a2a2a2a2",
+  url: "https://example.com/jawani-tdfgsdfohar-jhal-jhdfgdfdfgdfgdgal-hgjkjhala.mp3",
 },
 {
   id: "bh34",
