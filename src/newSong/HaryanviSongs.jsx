@@ -293,28 +293,28 @@ const haryanviSongs = [
   id: "h28",
   title: "Green Flag",
   artist: "Vikram Sarkar",
-  url: "https://pagalnew.com/128-dodsfwnloads/17642",
-  cover: "https://greenflagsongforydgsdour7934rfdif"
+  url: "https://pagalnew.com/128-dodhgjghgsfwnloads/17642",
+  cover: "https://greenflagsongforhgjgydgsdour7934rfdif"
 },
 {
   id: "h29",
   title: "Naam Chale",
   artist: "Vikram Sarkar",
-  url: "https://songvghgnuihvnbchgaamchale sdfsusrldk",
-  cover: "https://sdfssdgjcvhvjhvfskhufc"
+  url: "https://songvghgnuihvghjghjhnbchgaamchale sdfsusrldk",
+  cover: "https://sdfssdgjchjghjvhvjhvfskhufc"
 },
 {
   id: "h30",
   title: "Ishq Bawla (Soft Version)",
   artist: "Dhanda Nyoliwala",
   url: "httpsdsgjdfg45fghfghjhv3terergertegsdsdfb.",
-  cover: "https://i.scdjbkjmvn.co/ghfhiertertmage/ab67616d000tujkyh0b273d6cbf6a5adsfd9c95b2c98b5eb2f"
+  cover: "https://i.scdjbkjmvn.co/ghfhiertertmage/ab67616d000tujkyh0b273d6cbf6a5rtradsfd9c95b2c98b5eb2f"
 },
 {
   id: "h31",
   title: "Ji Laage Babya Mai",
   artist: "Unknown",
-  url: "fghgftyujhfghfghterfghfgtertyf",
+  url: "fghgftyujhfghfghterfghfrthtrhrtgtertyf",
   cover: "https://i.sfghcdn.co/imfghfghfhfdgertertage/ab67616d00hjmghjg00b273d6cbf6a5a9c95b2c98b5eb2f"
 },
 {
