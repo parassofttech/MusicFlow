@@ -185,16 +185,16 @@ const indipopSongs = [
     title: "Aise Kyun",
     artist: "Mismatched OST",
     cover:
-      "https://i.scdn.co/image/ab67616d0000b2fghr64573f60718293a4b5c6d7e8f90123",
-    url: "https://example.coghjfgdhgfm/aise-kyun.mp3",
+      "https://i.scdn.co/image/ab67616d0000b2fghr64573f60718293rthyrtha4b5c6d7e8f90123",
+    url: "https://example.coghjfgdhgfm/gfhfhaise-kyun.mp3",
 },
 {
     id: "i19",
     title: "Alag Aasmaan",
     artist: "Anuv Jain",
     cover:
-      "https://i.scdn.co/image/ab67616d0000b27311223344556677889900aabb",
-    url: "https://alag-aasmanme-ghumo.com/alafgbfgg-aasmaan.mp3",
+      "https://i.scdn.co/image/ab67616d0000b27311223344556677gfhfh889900aabb",
+    url: "https://alag-aasmanme-ghughfhfghmo.com/alafgbfgg-aasmaan.mp3",
 },
 {
     id: "i20",
