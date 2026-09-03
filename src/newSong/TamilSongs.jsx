@@ -339,15 +339,15 @@ const tamilSongs = [
   artist: "Sean Roldan",
   cover:
     "https://i.scdn.co/image/ab67616d00fghfgh00b273ddfg444d444d444d4ytrfuj44d444d444",
-  url: "https://example.com/usura-urufghuygfgvdfgdfytdchgdfgdfi.mp3",
+  url: "https://example.com/usura-urufghuygfgvdfgdfytdchgdfghgvuguhjdfi.mp3",
 },
 {
   id: "t43",
   title: "Yaar Azhaippadhu (Maara)",
   artist: "Sid Sriram",
   cover:
-    "https://i.scdn.co/image/ab67616d0000b273e55dfgdf5e555e555e555hgfyufikhjgje555e555",
-  url: "https://example.com/yaar-azuyfuuyfhfghbchgchjgjhaippadhu.mp3",
+    "https://i.scdn.co/image/ab67616d0000b273e55dfgdf5e555e555jhbjhe555hgfyufikhjgje555e555",
+  url: "https://example.com/yaar-azuyfuuyfhfghbchgchjgjhaijhvbjhppadhu.mp3",
 }
 ];
 
